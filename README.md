@@ -1,4 +1,4 @@
-# Hey, I’m Dev-Sahad 👋
+# Hey, I’m Sahad Sha (Dev-Sahad) 👋
 
 > **Software Developer · Bot Builder · Open Source Contributor**  
 > *Building automation tools that power real communities — 24/7.*
@@ -7,7 +7,7 @@
 
 ## 🤖 Featured Projects
 
-### ⚡ MINNAL BOT — Discord Bot
+### ⚡ MINNAL BOT — Discord Bot (Coming soon)
 
 > A feature-rich Discord bot built for community management and engagement.
 
