@@ -185,6 +185,8 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 </div>
 
+---
+
 <div align="center">
   <a href="https://github.com/Dev-Sahad" target="_blank">
     <img src="https://img.shields.io/badge/View_Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Public Repositories" width="250" />
