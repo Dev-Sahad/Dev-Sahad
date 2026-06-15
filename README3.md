@@ -143,19 +143,22 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ---
 
 ### 🦖 GODZILLA BOT v3.0.0
-🔒 <img src="https://img.shields.io/badge/PRIVATE+CODING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Private Coding" />
+🔒 **Private Repository**
+<img src="https://img.shields.io/badge/CODING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="CODING" />
 **Telegram Bot** • Media downloader with database, admin panel, referrals, batch downloads
 
 ---
 
 ### 🎵 Noiz
-🔒 <img src="https://img.shields.io/badge/PRIVATE+TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="Private Testing" />
+🔒 **Private Repository**
+<img src="https://img.shields.io/badge/TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="TESTING" />
 **Music Streaming** • Full-stack app with intuitive UI, optimized audio, custom playlists
 
 ---
 
 ### 🎬 SHA-MOVIES-BOT
-🔒 <img src="https://img.shields.io/badge/PRIVATE+CODING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Private Coding" />
+🔒 **Private Repository**
+<img src="https://img.shields.io/badge/CODING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="CODING" />
 **Telegram Movie Bot** • Movie search, trending, genres, trailers, watchlist, web dashboard
 
 ---
@@ -173,14 +176,14 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <a href="https://github.com/Dev-Sahad/BioLink" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
 </a>
-<img src="https://img.shields.io/badge/PUBLIC+TESTING+SOON-3B82F6?style=flat-square&logo=rocket&logoColor=white" width="70" alt="Public Testing Soon" />
+<img src="https://img.shields.io/badge/TESTING+SOON-3B82F6?style=flat-square&logo=rocket&logoColor=white" width="70" alt="TESTING SOON" />
 **Bio Link Platform** • Premium guns.lol-style bio pages with animated themes, music, video, gallery & analytics
 
 ---
 
 ### ⚡ SAHAD-AI-V2.5
-<a href="https://github.com/Dev-Sahad/Sahad-Ai-v2.5" target="_blank">
-🔒 <img src="https://img.shields.io/badge/PRIVATE+TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="Private Testing" />
+🔒 **Private Repository**
+<img src="https://img.shields.io/badge/TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="TESTING" />
 **AI Workspace** • Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI
 
 </div>
