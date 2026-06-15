@@ -11,9 +11,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-Sahad&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Dev-Sahad?label=Followers&style=for-the-badge&color=1d4ed8" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dev-Sahad?label=Stars&style=for-the-badge&color=2563eb" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/Dev-Sahad/Dev-Sahad?style=for-the-badge&color=0ea5e9&logo=github" alt="Last commit" />
 </div>
 
 ---
@@ -76,84 +73,18 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 
 ---
 
-## Journey Timeline with Animated Milestones
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=900&lines=My+Complete+Development+Journey;2020--2026" alt="Timeline Header" />
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/youtube.svg" width="40" alt="2020" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/code.svg" width="40" alt="2020" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/book.svg" width="40" alt="2020" />
-      <br><br>
-      <strong>2020</strong>
-      <br>Started learning from scratch during lockdown with YouTube tutorials and hands-on practice.
-      <br>🔰 📺 💻 🧠
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html.svg" width="40" alt="2023" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/css.svg" width="40" alt="2023" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/js.svg" width="40" alt="2023" />
-      <br><br>
-      <strong>2023</strong>
-      <br>Joined a structured online Web Development course and built a solid technical foundation.
-      <br>🎓 📚 ⟶ 🔓
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/message.svg" width="40" alt="2024" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/phone.svg" width="40" alt="2024" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/settings.svg" width="40" alt="2024" />
-      <br><br>
-      <strong>2024</strong>
-      <br>Built a customized WhatsApp clone with unique features and custom modifications.
-      <br>💬 🎯 🔧 ✨
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/game.svg" width="40" alt="2025" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/robot.svg" width="40" alt="2025" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/users.svg" width="40" alt="2025" />
-      <br><br>
-      <strong>2025</strong>
-      <br>Expanded into FiveM development, Discord bots, Telegram bots, and team collaboration.
-      <br>🎮 🤖 🤝 🌍
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/compass.svg" width="50" alt="2026" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/airplane.svg" width="50" alt="2026" />
-      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/lightbulb.svg" width="50" alt="2026" />
-      <br><br>
-      <strong>2026</strong>
-      <br>Exploring, traveling, reflecting, and preparing for the next major project.
-      <br>🧭 ✈️ 🌿 🚀
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## Technologies and Skills
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack;Skills" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack Header" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java" alt="Backend Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,lua,discord,telegram" alt="Tools and Platforms" />
+  <img src="https://cdn.skill-icons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&dark" alt="Frontend" />
+  <br>
+  <img src="https://cdn.skill-icons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java&dark" alt="Backend" />
+  <br>
+  <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua,discord,telegram&dark" alt="Tools" />
 </div>
 
 ---
@@ -165,30 +96,12 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31qfxqe4xjnevgtz6lc5l2hkjpnq" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=novatorem&show_offline=true&background_color=0f172a&interchange=false&bar_color=38bdf8&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&redirect=true)
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfxqe4xjnevgtz6lc5l2hkjpnq&count=1" alt="Spotify Recently Played" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=600&color=999999&center=true&vCenter=true&width=700&lines=Connect+your+Spotify+at+kittinan/spotify-github-profile+to+show+your+current+song" alt="Note" />
 </div>
-
-> This widget shows your currently playing and recently played songs from Spotify using your Spotify user ID. You need to connect your Spotify account at kittinan/spotify-github-profile to make it work. [web:51][web:100][web:102]
-
----
-
-## What I Work On
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=What+I+Work+On" alt="Work On Header" />
-</div>
-
-- Web applications with modern frontend and backend stacks.
-- Custom bots for Discord and Telegram.
-- FiveM server development and scripting.
-- UI-focused projects with strong user experience.
-- Community tools that help people connect, manage, and build better workflows.
 
 ---
 
@@ -200,44 +113,13 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><strong>WhatsApp Clone</strong><br>Custom-built messaging project with unique features and modified UI/UX. 💬 🔧</td>
-    <td><strong>MINNAL</strong><br>Feature-rich Discord bot for server management and user interaction. 🤖 💬</td>
-  </tr>
-  <tr>
-    <td><strong>GODZILLA</strong><br>Versatile Telegram bot built for utility and engagement. 🤖 🛠️</td>
-    <td><strong>FiveM Server Work</strong><br>Roleplay server development, scripting, and resource management. 🎮 ⚙️</td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| **WhatsApp Clone** | Custom-built messaging project with unique features and modified UI/UX 💬 🔧 |
+| **MINNAL** | Feature-rich Discord bot for server management and user interaction 🤖 💬 |
+| **GODZILLA** | Versatile Telegram bot built for utility and engagement 🤖 🛠️ |
+| **FiveM Server Work** | Roleplay server development, scripting, and resource management 🎮 ⚙️ |
 
-</div>
-
----
-
-## GitHub Stats & Badges
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Stats Header" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sahad&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=tokyonight&row=1&column=4&no-bg=true" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/last-commit/Dev-Sahad/Dev-Sahad?style=for-the-badge&color=0ea5e9&logo=github" alt="Last commit" />
-  <img src="https://img.shields.io/github/createdAt/Dev-Sahad/Dev-Sahad?style=for-the-badge&color=0284c7&logo=github" alt="Created at" />
-  <img src="https://img.shields.io/github/commits-since/Dev-Sahad/Dev-Sahad/latest?style=for-the-badge&color=0284c7" alt="Commits since" />
 </div>
 
 ---
@@ -249,11 +131,16 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 </div>
 
 <div align="center">
+
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord) |
+|---|---|---|---|
+
+</div>
+
+<div align="center">
   <a href="https://github.com/Dev-Sahad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/sahad_____sha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/share/1E1pMAR4fs/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.tiktok.com/@sxhd_sha"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://t.me/Sxhd_Sha"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/853166408212807701"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
