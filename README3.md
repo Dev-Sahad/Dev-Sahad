@@ -36,13 +36,13 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2020-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="280" alt="2020" />
+      <img src="https://img.shields.io/badge/2020-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="2020" />
       <br><br>
       <strong>2020</strong>
       <br>Started learning from scratch during lockdown with tutorials
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/2023-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="280" alt="2023" />
+      <img src="https://img.shields.io/badge/2023-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="2023" />
       <br><br>
       <strong>2023</strong>
       <br>Joined Web Development course, built solid foundation
@@ -50,13 +50,13 @@ The entire journey spans over six years of self-learning and growth. Every line 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2024-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="280" alt="2024" />
+      <img src="https://img.shields.io/badge/2024-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="2024" />
       <br><br>
       <strong>2024</strong>
       <br>Built customized WhatsApp clone with unique features
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/2025-Gaming-000000?style=for-the-badge&logo=xbox&logoColor=white" width="280" alt="2025" />
+      <img src="https://img.shields.io/badge/2025-Gaming-000000?style=for-the-badge&logo=xbox&logoColor=white" alt="2025" />
       <br><br>
       <strong>2025</strong>
       <br>Expanded into FiveM, Discord bots, Telegram bots
@@ -64,7 +64,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/2026-Exploration-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" width="580" alt="2026" />
+      <img src="https://img.shields.io/badge/2026-Exploration-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="2026" />
       <br><br>
       <strong>2026</strong>
       <br>Exploring, traveling, preparing for next project
