@@ -128,14 +128,27 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ## Featured Projects
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</div>
 
-| Project | Description |
-|---|---|
-| **WhatsApp Clone** | Custom messaging app with unique features and modified UI/UX |
-| **MINNAL** | Feature-rich Discord bot for server management |
-| **GODZILLA** | Versatile Telegram bot for utility and engagement |
-| **FiveM Server** | Roleplay server development and scripting |
+<div align="center">
 
+| Project | View | Type | Description |
+|---|---|---|---|
+| **MINNAL BOT** | [📄 GitHub](https://github.com/Dev-Sahad/MINNAL-BOT) | Discord Bot | 50+ slash commands, economy, leveling, music player, admin panel & web dashboard |
+| **GODZILLA BOT** | [📄 GitHub](https://github.com/Dev-Sahad/Godzilla) | Telegram Bot | Powerful Telegram media downloader with database, admin panel, batch downloads |
+| **Noiz** | [📄 GitHub](https://github.com/Dev-Sahad/Noiz) | Music App | Full-stack music streaming with intuitive UI, optimized audio & custom playlists |
+| **SHA-MOVIES-BOT** | [📄 GitHub](https://github.com/Dev-Sahad/SHA-MOVIES-BOT) | Telegram Bot | Movie search bot with trending, genres, trailers, watchlist & web dashboard |
+| **portfolio-v1** | [📄 GitHub](https://github.com/Dev-Sahad/portfolio-v1) | Portfolio | Next.js 13 portfolio with 3D hero, animations, comments & secure admin dashboard |
+| **BioLink** | [📄 GitHub](https://github.com/Dev-Sahad/BioLink) | Bio Link | Premium bio-link with animated themes, music, gallery, analytics & OAuth login |
+| **SAHAD_AI v2.5** | [📄 GitHub](https://github.com/Dev-Sahad/Sahad-Ai-v2.5) | AI Platform | AI dev workspace with Gemini 2.0 Flash, multimodal vision & cyberpunk UI |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Dev-Sahad" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_7_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" width="380" />
+  </a>
 </div>
 
 ---
