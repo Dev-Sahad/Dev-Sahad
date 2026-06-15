@@ -32,18 +32,49 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ## Journey Timeline
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=800&lines=2020-2026;My+Development+Journey" alt="Timeline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=800&lines=2020-2026;My+Development+Journey" alt="Timeline Header" />
 </div>
 
 <div align="center">
 
-| Year | Milestone |
-|---|---|
-| 2020 | Started learning from scratch during lockdown with tutorials |
-| 2023 | Joined Web Development course, built solid foundation |
-| 2024 | Built customized WhatsApp clone with unique features |
-| 2025 | Expanded into FiveM, Discord bots, Telegram bots |
-| 2026 | Exploring, traveling, preparing for next project |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="120" />
+      <br><br>
+      <strong>2020</strong>
+      <br>Started learning from scratch during lockdown with tutorials
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" width="120" />
+      <br><br>
+      <strong>2023</strong>
+      <br>Joined Web Development course, built solid foundation
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120" />
+      <br><br>
+      <strong>2024</strong>
+      <br>Built customized WhatsApp clone with unique features
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=game&logoColor=white" width="120" />
+      <br><br>
+      <strong>2025</strong>
+      <br>Expanded into FiveM, Discord bots, Telegram bots
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/2026-Exploration-3B82F6?style=for-the-badge&logo=compass&logoColor=white" width="300" />
+      <br><br>
+      <strong>2026</strong>
+      <br>Exploring, traveling, preparing for next project
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -52,11 +83,19 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ## Technologies and Skills
 
 <div align="center">
-  <img src="https://cdn.skill-icons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&dark" alt="Frontend" />
-  <br><br>
-  <img src="https://cdn.skill-icons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java&dark" alt="Backend" />
-  <br><br>
-  <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua" alt="Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack Header" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.skill-icons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&dark" alt="Frontend Skills" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.skill-icons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java&dark" alt="Backend Skills" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua&dark" alt="Tools" />
 </div>
 
 ---
@@ -78,9 +117,13 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 ## Spotify Now Playing
 
-<center>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify" />
-</center>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=1db954&center=true&vCenter=true&width=500&lines=Spotify" alt="Spotify Header" />
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify" />
+</div>
 
 ---
 
