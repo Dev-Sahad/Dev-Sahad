@@ -1,9 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Muhammad Sahad - Custom Animated Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=0A2540,112244,00BFFF&height=280&section=header&text=Muhammad%20Sahad%20•%20Dev-Sahad&fontSize=72&fontColor=FFFFFF&animation=twinkling&desc=Self-Taught%20Developer%20|%206%20Years%20Journey%20-%20From%20Pandemic%20to%20Production&descAlign=center&descSize=24)
-
-<!-- Alternative: Try this darker, more premium version -->
-<!-- ![Animated Banner](https://capsule-render.vercel.app/api?type=wave&color=0A2540,1E3A8A&height=320&section=header&text=Dev-Sahad&fontSize=85&fontColor=00FFEA&animation=scaleIn&desc=Web%20%E2%80%A2%20Bots%20%E2%80%A2%20FiveM&descAlign=center&descSize=26) -->
+![Dev-Sahad Banner](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/banner.svg)
 
 ## The Long Road: My Complete Development Journey
 
