@@ -1,7 +1,7 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=50&duration=2800&pause=1300&color=FFFFFF&center=true&vCenter=true&width=950&lines=Started+With+YouTube;Now+Building+Real+Tools;6%2B+Years+of+Dedicated+Journey" alt="Journey Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=46&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=880&lines=Self-Taught+Developer;Turning+Ideas+Into+Reality;6%2B+Years+of+Continuous+Growth" alt="Header" />
 </div>
 
 ## The Long Road: My Complete Development Journey
