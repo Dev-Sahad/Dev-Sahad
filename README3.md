@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=rect&color=0A2540&height=220&section=header&text=From%20Lockdown%20Dreams%20to%20Code%20Reality&fontSize=55&fontColor=ffffff)
+![Muhammad Sahad - Animated Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=0A2540,1E3A8A,00BFFF,00FFEA&height=320&section=header&text=Muhammad%20Sahad%20%E2%80%A2%20Dev-Sahad&fontSize=75&fontColor=ffffff&animation=twinkling&desc=Self-Taught%20Developer%20%7C%20From%20Pandemic%20Dreams%20to%20Real%20Projects&descAlign=center&descSize=28)
 
 ## The Long Road: My Complete Development Journey
 
