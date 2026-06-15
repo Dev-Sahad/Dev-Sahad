@@ -158,9 +158,7 @@ Cross Platform Applications
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V3J021DSLA)
 
 </div>
 
