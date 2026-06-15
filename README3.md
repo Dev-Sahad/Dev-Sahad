@@ -1,7 +1,7 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=48&duration=3800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=SAHAD+SHA;Dev-Sahad;6%2B+Years+of+Journey" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&width=900&lines=SAHAD+SHA;Dev-Sahad;6%2B+Years+of+Journey" alt="Sahad Sha Header" />
 </div>
 
 ## The Long Road: My Complete Development Journey
