@@ -90,3 +90,5 @@
 <p align="center">
   <sub>Built with ❤️ by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Bot Developer & Open Source Builder</sub>
 </p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:c084fc" alt="Footer Banner"/>
+</div>
