@@ -1,27 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A2855"/>
-      <stop offset="100%" stop-color="#1E3A8A"/>
-    </linearGradient>
-    <style>
-      @keyframes glow {
-        0%, 100% { text-shadow: 0 0 20px #00F3FF, 0 0 40px #00B3FF; }
-        50% { text-shadow: 0 0 50px #00F3FF, 0 0 70px #00B3FF; }
-      }
-      .title { font: bold 85px 'Arial Black', sans-serif; fill: #FFFFFF; animation: glow 3s infinite; }
-      .desc { font: italic 26px Arial, sans-serif; fill: #AABBFF; }
-    </style>
-  </defs>
-  
-  <rect width="1200" height="340" fill="url(#bg)"/>
-  
-  <text x="600" y="130" text-anchor="middle" class="title">SAHAD SHA</text>
-  <text x="600" y="200" text-anchor="middle" class="title" style="font-size:72px;">Dev-Sahad</text>
-  <text x="600" y="260" text-anchor="middle" class="desc">6+ Years of Journey</text>
-</svg>
+![SAHAD SHA - Dev-Sahad](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzNDAiIHZpZXdCb3g9IjAgMCAxMjAwIDM0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMEEyODU1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFFM0E4QSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxzdHlsZT4KICAgICAgQGtleWZyYW1lcyBnbG93IHsKICAgICAgICAwJSwgMTAwJSB7IHRleHQtc2hhZG93OiAwIDAgMjBweCAjMDBGM0ZGLCAwIDAgNDBweCAjMDBCM0ZGOyB9CiAgICAgICAgNTAlIHsgdGV4dC1zaGFkb3c6IDAgMCA1MHB4ICMwMEYzRkYsIDAgMCA3MHB4ICMwMEIzRkY7IH0KICAgICAgfQogICAgICAudGl0bGUgeyBmb250OiBib2xkIDg1cHggJ0FyaWFsIEJsYWNrJywgc2Fucy1zZXJpZjsgZmlsbDogI0ZGRkZGRjsgYW5pbWF0aW9uOiBnbG93IDNzIGluZmluaXRlOyB9CiAgICAgIC5kZXNjIHsgZm9udDogaXRhbGljIDI2cHggQXJpYWwsIHNhbnMtc2VyaWY7IGZpbGw6ICNBQUJCRkY7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIAogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjM0MCIgZmlsbD0idXJsKCNiZykiLz4KICAKICA8dGV4dCB4PSI2MDAiIHk9IjEzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InRpdGxlIj5TQUhBRCBTSEI8L3RleHQ+CiAgPHRleHQgeD0iNjAwIiB5PSIyMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJ0aXRsZSIgc3R5bGU9ImZvbnQtc2l6ZTo3MnB4OyI+RGV2LVNhaGFkPC90ZXh0PgogIDx0ZXh0IHg9IjYwMCIgeT0iMjYwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0iZGVzYyI+NisgWWVhcnMgb2YgSm91cm5leTwvdGV4dD4KPC9zdmc+)
 
 ## The Long Road: My Complete Development Journey
 
