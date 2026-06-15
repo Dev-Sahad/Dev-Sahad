@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-5a6f7a8d-9f09-4e8e-b3e4-8e8f77f0d6d3.gif" alt="Coding Line Animation">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=linear-gradient(90deg,#2563eb,#7c3aed)&text=" alt="Cyber Grid Separator">
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev-Sahad&theme=tokyonight&layout=compact&hide_border=true" alt="Dev Metrics Engine" onerror="this.style.display='none'"/>
 </div>
 
 ---
