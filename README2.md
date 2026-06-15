@@ -56,8 +56,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev-Sahad&theme=tokyonight&layout=compact&hide_border=true" alt="Dev Metrics Engine" onerror="this.style.display='none'"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sahad Development Analytics"/>
 </div>
+
 
 ---
 
