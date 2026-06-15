@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Sahad%20Sha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20UI%20Designer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Sahad%20Sha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Builder&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hey+There!+I'm+Sahad+Sha;🚀+Full+Stack+Developer;🤖+Building+AI+Applications;📱+Mobile+%26+Web+Developer;🎨+UI%2FUX+Designer;⚡+Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hey+There!+I'm+Sahad+Sha;🚀+Full+Stack+Software+Engineer;🤖+Building+Production-Ready+AI+Apps;📱+Cross-Platform+Bot+Developer;🎨+System+Architect+%26+UI+Designer;⚡+Optimizing+Scalable+Solutions"/>
 
 </div>
 
@@ -24,49 +24,38 @@
 
 ---
 
-<h2 align="center">🌌 About Me</h2>
+## 🌌 About Me
 
-<div align="center">
+```💡 Focused on architecting scalable architectures, clean code modularity, and automated workflows.```
 
-💻 Full Stack Developer
-
-🤖 AI Application Builder
-
-📱 React Native Developer
-
-🎨 UI / UX Designer
-
-🚀 Building futuristic digital experiences
-
-⚡ Passionate about Open Source & Automation
-
-</div>
+*   💻 **Core Specialization:** Senior Full-Stack Engineering & System Architecture.
+*   🤖 **AI Ecosystems:** Building production-grade workspaces, automation bots, and LLM integrations.
+*   📱 **Platforms:** Cross-platform web architectures, automated microservices, and mobile endpoints.
+*   ⚡ **Philosophy:** Writing decoupled, maintainable code with strict error handling and async efficiency.
 
 ---
 
-<h2 align="center">🛠 Tech Arsenal</h2>
+## 🛠 Tech Arsenal
 
-<div align="center">
+### 🌐 Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,python,java,git,github,figma,vscode,tailwind,linux"/>
+### ⚙️ Backend, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java" />
 
-</div>
+### 🧰 DevOPs & Workspace
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tailwind" />
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sahad&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -74,7 +63,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -84,7 +73,7 @@
 
 ---
 
-<h2 align="center">🔥 Contribution Graph</h2>
+## 🔥 Contribution Graph
 
 <div align="center">
 
@@ -94,67 +83,72 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <table>
-<tr>
-
-<td width="50%">
-
-### 🤖 SAHAD AI
-
-Advanced AI Assistant Platform
-
-- AI Chat
-- Image Generation
-- Vision AI
-- Modern UI
-
-</td>
-
-<td width="50%">
-
-### 📱 Mobile Apps
-
-Cross Platform Applications
-
-- React Native
-- Firebase
-- Supabase
-- API Integrations
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 SAHAD AI v2.5</h3>
+      <p>Futuristic developer workspace and advanced AI platform leveraging high-efficiency LLM backends.</p>
+      <ul>
+        <li>⚡ <b>Core:</b> Real-time AI Chat & Vision parsing</li>
+        <li>🎨 <b>UI:</b> Deep cyber-dark theme ecosystem</li>
+        <li>⚙️ <b>Engine:</b> Custom context handling pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 GODZILLA BOT</h3>
+      <p>High-availability 24/7 media automation and content delivery pipeline for chat networks.</p>
+      <ul>
+        <li>📱 <b>Platforms:</b> WhatsApp & Telegram deployment</li>
+        <li>🚀 <b>Features:</b> Instant cross-platform media downloading</li>
+        <li>🛠 <b>Stack:</b> Asynchronous Node.js / Python core</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ MINNAL-BOT & Web Hub</h3>
+      <p>Advanced community automation engine integrated with comprehensive web dashboards.</p>
+      <ul>
+        <li>📊 <b>Backend:</b> Real-time XP & algorithmic tracking</li>
+        <li>🌐 <b>Dashboard:</b> Full-stack web admin panel interfaces</li>
+        <li>🛡 <b>Security:</b> Strict validation and decoupled session states</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile & Web Architectures</h3>
+      <p>Production-ready responsive layouts and robust cross-platform engine integrations.</p>
+      <ul>
+        <li>🛠 <b>Stack:</b> React Native / Next.js pipelines</li>
+        <li>⚡ <b>DB:</b> Real-time syncing with Supabase / Firebase</li>
+        <li>🔐 <b>Auth:</b> Secure state persistence mechanisms</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Dev-Sahad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
 <a href="mailto:dev.sxhd@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">☕ Support My Work</h2>
+## ☕ Support My Work
 
 <div align="center">
 
@@ -166,15 +160,11 @@ Cross Platform Applications
 
 <div align="center">
 
-### ⚡ Visitor Counter
+### ⚡ System Telemetry
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Sahad&style=for-the-badge&color=blueviolet"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
 
