@@ -137,7 +137,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
 </a>
-<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="65" alt="LIVE" />
+<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="55" alt="LIVE" />
 **Discord Bot** • 50+ slash commands, economy & leveling, auto XP, rewards, music player, admin panel
 
 ---
