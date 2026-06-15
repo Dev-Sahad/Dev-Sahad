@@ -1,7 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Profile Banner](https://via.placeholder.com/1200x300/0A2540/00BFFF?text=Muhammad+Sahad+-+Self-Taught+Developer+-+From+Lockdown+Dreams+to+Real+Projects)  
-*(Recommended: Replace with a custom high-resolution banner image uploaded to your repository)*
+![Profile Banner](https://via.placeholder.com/1200x300/0A2540/00BFFF?text=Muhammad+Sahad+-+Self-Taught+Developer+-+From+Lockdown+Dreams+to+Real+Projects)
 
 ## The Long Road: My Complete Development Journey
 
