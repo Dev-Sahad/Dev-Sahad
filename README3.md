@@ -1,6 +1,8 @@
 # Muhammad Sahad | Dev-Sahad
 
-![SAHAD SHA](https://capsule-render.vercel.app/api?type=rect&color=0A1428,1E2A44&height=310&section=header&text=SAHAD%20SHA-nl-Dev-Sahad&fontSize=70&fontColor=00F0FF&animation=twinkling&desc=6%2B%20Years%20of%20Journey&descSize=29&descAlign=center&descAlignY=76)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=SAHAD+SHA;Dev-Sahad;6%2B+Years+of+Journey" alt="Typing Header" />
+</div>
 
 ## The Long Road: My Complete Development Journey
 
