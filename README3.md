@@ -30,7 +30,7 @@ I have worked across various technologies throughout my journey:
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java" alt="Backend Skills" />
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tooling Skills" />
 
-*(Additional language and tool badges can be added here as your stack grows)*
+
 
 ## Connect With Me
 
@@ -41,6 +41,8 @@ I have worked across various technologies throughout my journey:
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sxhd_sha)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sxhd_Sha)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/853166408212807701)
+
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/devsahad1)
 
 ## Current Focus
