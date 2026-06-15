@@ -1,6 +1,6 @@
 # Hey, I’m Sahad Sha (Dev-Sahad) 👋
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=39D353&width=500&lines=Hi,+I'm+a+Junior-Developer;Web+Designer & Developer;Bot+Builder;I+build+scalable+systems;Let's+collaborate!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=39D353&width=500&lines=Hi,+I'm+a+Junior-Developer;Web+Designer&Developer;Bot+Builder;I+build+scalable+systems;Let's+collaborate!)
 
 
 > **Software Developer · Bot Builder · Open Source Contributor**  
