@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Dev-Sahad Banner](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/banner.svg)
+![Muhammad Sahad - Code Evolution Banner](https://capsule-render.vercel.app/api?type=rect&color=0A1428,1E2A44&height=300&section=header&text=Muhammad%20Sahad%20%E2%80%A2%20Dev-Sahad&fontSize=78&fontColor=00E5FF&animation=twinkling&desc=Self-Taught%20Developer%20%E2%80%A2%20From%20Pandemic%20Dreams%20to%20Real%20Impact%20(2020%20%E2%86%92%202026)&descAlign=center&descSize=26)
 
 ## The Long Road: My Complete Development Journey
 
