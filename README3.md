@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=0A2540,1E3A8A,00BFFF&height=300&section=header&text=Muhammad%20Sahad&fontSize=80&fontColor=ffffff&animation=twinkling)
+![Profile Banner](https://capsule-render.vercel.app/api?type=slice&color=0A2540,1A2333&height=280&section=header&text=Dev-Sahad%20%7C%20Self-Taught%20Developer&fontSize=65&fontColor=00FFEA)
 
 ## The Long Road: My Complete Development Journey
 
