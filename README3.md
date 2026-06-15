@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Muhammad Sahad - Code Evolution Banner](https://capsule-render.vercel.app/api?type=rect&color=0A1428,1E2A44&height=300&section=header&text=Muhammad%20Sahad%20%E2%80%A2%20Dev-Sahad&fontSize=78&fontColor=00E5FF&animation=twinkling&desc=Self-Taught%20Developer%20%E2%80%A2%20From%20Pandemic%20Dreams%20to%20Real%20Impact%20(2020%20%E2%86%92%202026)&descAlign=center&descSize=26)
+![Sahad Sha Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=0A1428,1E3A8A,00BFFF&height=300&section=header&text=SAHAD%20SHA&fontSize=85&fontColor=FFFFFF&animation=twinkling&desc=Dev-Sahad%20%E2%80%A2%206%2B%20Years%20of%20Journey&descAlign=center&descSize=28)
 
 ## The Long Road: My Complete Development Journey
 
