@@ -1,6 +1,27 @@
 # Muhammad Sahad | Dev-Sahad
 
-![SAHAD SHA Banner](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzNDAiIHZpZXdCb3g9IjAgMCAxMjAwIDM0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMEEyODU1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFFM0E4QSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxzdHlsZT4KICAgICAgQGtleWZyYW1lcyBnbG93IHsKICAgICAgICAwJSwgMTAwJSB7IHRleHQtc2hhZG93OiAwIDAgMjBweCAjMDBGM0ZGLCAwIDAgNDBweCAjMDBCM0ZGOyB9CiAgICAgICAgNTAlIHsgdGV4dC1zaGFkb3c6IDAgMCA1MHB4ICMwMEYzRkYsIDAgMCA3MHB4ICMwMEIzRkY7IH0KICAgICAgfQogICAgICAuc2hhZG93IHsgZmlsdGVyOiB1cmwoI3NoYWRvdyk7IH0KICAgICAgLnRpdGxlIHsgZm9udDogYm9sZCA4NXB4ICdBcmlhbCBCbGFjaycsIHNhbnMtc2VyaWY7IGZpbGw6ICNGRkZGRkY7IGFuaW1hdGlvbjogZ2xvdyAzcyBpbmZpbml0ZTsgfQogICAgICAuc3VidGl0bGUgeyBmb250OiAzMnB4IEFyaWFsLCBzYW5zLXNlcmlmOyBmaWxsOiAjMDBGM0ZGOyB9CiAgICAgIC5kZXNjIHsgZm9udDogMjZweCBBcmlhbCwgZm9udC1zdHlsZTogaXRhbGljOyBmaWxsOiAjQUFCM0ZGOyB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMzQwIiBmaWxsPSJ1cmwoI2JnKSIvPgoKICA8dGV4dCB4PSI2MDAiIHk9IjEzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9InRpdGxlIj5TQUhBRCBTSEE8L3RleHQ+CiAgPHRleHQgeD0iNjAwIiB5PSIxOTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJ0aXRsZSIgc3R5bGU9ImZvbnQtc2l6ZTogNzJweDsiPkRldi1TYWhhZDwvdGV4dD4KICAKICA8dGV4dCB4PSI2MDAiIHk9IjI2MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImRlc2MiPjYrIFllYXJzIG9mIEpvdXJuZXk8L3RleHQ+CgogIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjgwIiByPSIxNSIgZmlsbD0iIzAwRjNGRiIgb3BhY2l0eT0iMC42Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjgwOzY1OzgwIiBkdXI9IjRsIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgoKICA8Y2lyY2xlIGN4PSIxMDUwIiBjeT0iMjUwIiByPSIxMiIgZmlsbD0iIzAwQjNGRiIgb3BhY2l0eT0iMC41Ij4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN5IiB2YWx1ZXM9IjI1MDsyNzA7MjUwIiBkdXI9IjUuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC9jaXJjbGU+Cjwvc3ZnPgo=)
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2855"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <style>
+      @keyframes glow {
+        0%, 100% { text-shadow: 0 0 20px #00F3FF, 0 0 40px #00B3FF; }
+        50% { text-shadow: 0 0 50px #00F3FF, 0 0 70px #00B3FF; }
+      }
+      .title { font: bold 85px 'Arial Black', sans-serif; fill: #FFFFFF; animation: glow 3s infinite; }
+      .desc { font: italic 26px Arial, sans-serif; fill: #AABBFF; }
+    </style>
+  </defs>
+  
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  
+  <text x="600" y="130" text-anchor="middle" class="title">SAHAD SHA</text>
+  <text x="600" y="200" text-anchor="middle" class="title" style="font-size:72px;">Dev-Sahad</text>
+  <text x="600" y="260" text-anchor="middle" class="desc">6+ Years of Journey</text>
+</svg>
 
 ## The Long Road: My Complete Development Journey
 
