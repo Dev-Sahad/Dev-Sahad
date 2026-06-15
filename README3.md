@@ -134,50 +134,61 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <div align="center">
 
 ### ⚡ MINNAL BOT
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/MINNAL-BOT)
-<img src="https://img.shields.io/badge/-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
+<a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
 **Discord Bot** • 50+ slash commands, economy & leveling, auto XP, rewards, music player, admin panel
 
 ---
 
 ### 🦖 GODZILLA BOT v3.0.0
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Godzilla)
-<img src="https://img.shields.io/badge/-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Working" />
+<a href="https://github.com/Dev-Sahad/Godzilla" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/WORKING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Working" />
 **Telegram Bot** • Media downloader with database, admin panel, referrals, batch downloads
 
 ---
 
 ### 🎵 Noiz
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Noiz)
-<img src="https://img.shields.io/badge/-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Working" />
+<a href="https://github.com/Dev-Sahad/Noiz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/WORKING-FFA500?style=flat-square&logo=hammer&logoColor=black" width="70" alt="Working" />
 **Music Streaming** • Full-stack app with intuitive UI, optimized audio, custom playlists
 
 ---
 
 ### 🎬 SHA-MOVIES-BOT
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/SHA-MOVIES-BOT)
-<img src="https://img.shields.io/badge/-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
+<a href="https://github.com/Dev-Sahad/SHA-MOVIES-BOT" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
 **Telegram Movie Bot** • Movie search, trending, genres, trailers, watchlist, web dashboard
 
 ---
 
 ### 💼 portfolio-v1
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/portfolio-v1)
-<img src="https://img.shields.io/badge/-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
+<a href="https://github.com/Dev-Sahad/portfolio-v1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
 **Next.js Portfolio** • 3D hero, smooth animations, comments system, admin dashboard
 
 ---
 
 ### 🔗 BioLink Premium
-[Private Repository - Live Soon]
-<img src="https://img.shields.io/badge/-3B82F6?style=flat-square&logo=rocket&logoColor=white" width="70" alt="Soon" />
-**Bio Link Platform** • Premium guns.lol-style bio pages with animated themes, music, video, gallery & analytics. Features: 8 themes (Dark/Light/Cyber/Neon/Midnight/Sunset/Ocean/Forest), drag & drop link builder, analytics dashboard (views/clicks/7-day charts), SEO & OG cards, QR generation, OAuth login (Google/GitHub/Discord), admin panel, particle/snow effects, password-protected links
+🔒 <img src="https://img.shields.io/badge/LIVE_SOON-3B82F6?style=flat-square&logo=rocket&logoColor=white" width="85" alt="Live Soon" />
+**Bio Link Platform** • Premium guns.lol-style bio pages with animated themes, music, video, gallery & analytics. Features: 8 themes, drag & drop builder, analytics, SEO, QR, OAuth, admin panel
 
 ---
 
 ### ⚡ SAHAD_AI v2.5
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Sahad-Ai-v2.5)
-<img src="https://img.shields.io/badge/-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
+<a href="https://github.com/Dev-Sahad/Sahad-Ai-v2.5" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
+</a>
+<img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
 **AI Workspace** • Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI
 
 </div>
