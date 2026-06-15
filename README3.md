@@ -1,16 +1,16 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1A1A1A,2C2C2C,3A3A3A&height=320&section=header&text=" alt="bg" />
-  
-  <div style="margin-top: -195px; position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=45&duration=3400&pause=1500&color=FFFFFF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
-         alt="Journey" 
-         style="filter: drop-shadow(0 0 20px #FFFFFF) drop-shadow(0 0 40px #BBBBBB);"/>
-  </div>
+  <!-- Main Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion+Meets+Persistence+%7C+6%2B+Years+of+Relentless+Journey&descAlignY=62" alt="Sahad Sha Banner"/>
 </div>
 
-<br><br>
+<div align="center">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=%F0%9F%9A%80+Building+Since+2020;%E2%9D%A4%EF%B8%8F+Passion+Meets+Persistence;%F0%9F%92%AA+6%2B+Years+of+Relentless+Journey" alt="Typing SVG"/>
+</div>
+
+<br>
 
 ## The Long Road: My Complete Development Journey
 
