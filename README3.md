@@ -36,13 +36,13 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2020-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="280" />
+      <img src="https://img.shields.io/badge/2020-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="280" alt="2020" />
       <br><br>
       <strong>2020</strong>
       <br>Started learning from scratch during lockdown with tutorials
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/2023-Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" width="280" />
+      <img src="https://img.shields.io/badge/2023-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="280" alt="2023" />
       <br><br>
       <strong>2023</strong>
       <br>Joined Web Development course, built solid foundation
@@ -50,13 +50,13 @@ The entire journey spans over six years of self-learning and growth. Every line 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2024-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="280" />
+      <img src="https://img.shields.io/badge/2024-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="280" alt="2024" />
       <br><br>
       <strong>2024</strong>
       <br>Built customized WhatsApp clone with unique features
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/2025-FiveM-000000?style=for-the-badge&logo(gamepass-xbox&logoColor=white) style=for-the-badge&logo=game&logoColor=white" width="280" />
+      <img src="https://img.shields.io/badge/2025-Gaming-000000?style=for-the-badge&logo=xbox&logoColor=white" width="280" alt="2025" />
       <br><br>
       <strong>2025</strong>
       <br>Expanded into FiveM, Discord bots, Telegram bots
@@ -64,7 +64,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/2026-Exploration-3B82F6?style=for-the-badge&logo=compass&logoColor=white" width="580" />
+      <img src="https://img.shields.io/badge/2026-Exploration-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" width="580" alt="2026" />
       <br><br>
       <strong>2026</strong>
       <br>Exploring, traveling, preparing for next project
@@ -79,26 +79,28 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ## Technologies and Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend_Skills-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Skills" />
+  <img src="https://img.shields.io/badge/Frontend-38BDF8?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Skills" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend_Skills-10B981?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Skills" />
+  <img src="https://img.shields.io/badge/Backend-10B981?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Skills" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -107,15 +109,17 @@ The entire journey spans over six years of self-learning and growth. Every line 
   <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Tools-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Tools" />
+  <img src="https://img.shields.io/badge/Tools-8B5CF6?style=for-the-badge&logo=vscode&logoColor=white" alt="Tools" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div>
 
@@ -143,7 +147,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify" loading="lazy" />
 </div>
 
 ---
