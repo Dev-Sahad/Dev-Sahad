@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![SAHAD SHA](https://capsule-render.vercel.app/api?type=waving&color=0A1428,00BFFF&height=290&section=header&text=SAHAD%20SHA&fontSize=90&fontColor=FFFFFF&animation=scaleIn&desc=Dev-Sahad%20%E2%80%A2%206%2B%20Years%20of%20Journey&descAlign=center&descSize=27)
+![SAHAD SHA - Animated Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=0A1428,112244,1E3A8A&height=300&section=header&text=SAHAD%20SHA&fontSize=92&fontColor=00F0FF&animation=twinkling&desc=Dev-Sahad%20%E2%80%A2%206%2B%20Years%20of%20Journey&descAlign=center&descSize=28)
 
 ## The Long Road: My Complete Development Journey
 
