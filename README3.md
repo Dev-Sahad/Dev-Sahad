@@ -1,17 +1,17 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <div style="position: relative; display: inline-block;">
-    <!-- Dark Gray-Black Gradient Background -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1A1A1A,2C2C2C,4A4A4A&height=300&section=header&text=" alt="bg" />
-    
-    <!-- White Text - Perfectly Synced -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center; z-index: 2;">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=46&duration=3400&pause=1400&color=FFFFFF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
-           alt="Journey" 
-           style="filter: drop-shadow(0 0 15px #FFFFFF) drop-shadow(0 0 30px #CCCCCC);"/>
-    </div>
+  
+  <!-- Dark Gradient Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1A1A1A,2C2C2C,3A3A3A&height=300&section=header&text=" alt="Background" />
+  
+  <!-- White Typing Text -->
+  <div style="margin-top: -165px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=45&duration=3400&pause=1500&color=FFFFFF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
+         alt="Journey Header" 
+         style="filter: drop-shadow(0 0 20px #FFFFFF) drop-shadow(0 0 35px #AAAAAA);"/>
   </div>
+
 </div>
 
 <br><br>
