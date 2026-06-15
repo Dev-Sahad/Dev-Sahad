@@ -180,7 +180,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 ### ⚡ SAHAD-AI-V2.5
 <a href="https://github.com/Dev-Sahad/Sahad-Ai-v2.5" target="_blank">
-  <img src="https://img.shields.io/badge/PRIVATE+TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="Private Testing" />
+🔒 <img src="https://img.shields.io/badge/PRIVATE+TESTING-3B82F6?style=flat-square&logo=bug&logoColor=white" width="70" alt="Private Testing" />
 **AI Workspace** • Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI
 
 </div>
