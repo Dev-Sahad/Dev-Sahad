@@ -1,12 +1,12 @@
-# MUHAMMAD SAHAD (SAHAD SHA)
-### Full-Stack Software Engineer | System Architect | Bot Developer
+# SAHAD SHA (Dev-Sahad)
+### Junior Developer | Software Engineer | System Architect | Bot Developer | Web Designer 
 
 > Clean architecture, modular code, and production-ready scalability.
 
 ---
 
 ## About Me
-I am a senior full-stack software engineer and system architect focused on building production-ready, scalable, and maintainable solutions. I design robust backend architectures, automate workflows with custom bots, and develop immersive digital experiences. 
+I am a Junior software engineer and system architect focused on building production-ready, scalable, and maintainable solutions. I design robust backend architectures, automate workflows with custom bots, and develop immersive digital experiences. 
 
 * **Location:** United Arab Emirates
 * **Core Principle:** Clean architecture, modular code, and async execution.
@@ -17,7 +17,7 @@ I am a senior full-stack software engineer and system architect focused on build
 ## Project Directories
 The profile is structured into dedicated sub-sections. Select a directory below to view the specific codebases:
 
-* **[Development Portfolio](./README-PORTFOLIO.md)** Next.js, Supabase, and responsive frontend architectures.
+* **[Development Portfolio](./README1.md)** Next.js, Supabase, and responsive frontend architectures.
 * **[Automation & Bot Development](./README-BOTS.md)** Discord, WhatsApp, and Telegram automation engines built with Python and Node.js.
 * **[Gaming Ecosystems](./README-GAMING.md)** FiveM server infrastructure, custom environments, and economy systems.
 
