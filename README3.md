@@ -2,7 +2,7 @@
      HERO / HEADER
 ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion%20Meets%20Persistence%20%7C%206%2B%20Years%20of%20Relentless%20Journey&descAlignY=60" alt="Sahad Sha Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion+Meets+Persistence+%7C+6%2B+Years+of+Relentless+Journey&descAlignY=60" alt="Sahad Sha Header" />
 </div>
 
 <div align="center">
@@ -13,13 +13,36 @@
 
 ## The Long Road: My Journey
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/youtube.svg" width="40" alt="YouTube" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/code.svg" width="40" alt="Coding" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/book.svg" width="40" alt="Learning" />
+</div>
+
 My journey into software development began during the Corona pandemic lockdown 💻. With the outside world on hold, I found myself with time and a restless mind full of ideas. I had a clear dream: to build something of my own, a mobile application 📱 or a website 🌐 that could connect people and solve problems.
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/html.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/css.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/javascript.svg" width="40" alt="JavaScript" />
+</div>
 
 I had zero formal experience in coding at the start. I began from the basics, watching YouTube tutorials on app development and web technologies. Late nights were spent taking notes, trying to replicate what I saw, and staring at error messages for hours 🤯. Those early months taught me patience and the value of persistence.
 
 By 2023, I enrolled in a comprehensive online Web Development course 🎓. This was a turning point. I immersed myself in HTML for structure, CSS for styling, JavaScript for interactivity, and backend concepts. Every module unlocked new understanding. I built small projects, debugged impossible issues, and revisited concepts until they became natural. This year solidified my foundation ✨.
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/whatsapp.svg" width="60" alt="WhatsApp" />
+</div>
+
 In 2024, all my knowledge culminated in my first major project: a customized WhatsApp clone with unique modifications and features 💬. It involved real-time messaging, UI customization, security, and performance optimization. Turning a conceptual idea into a working application was incredibly rewarding 🎉. It represented years of self-learning materializing into something tangible.
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/game.svg" width="40" alt="FiveM" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/discord.svg" width="40" alt="Discord" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/telegram.svg" width="40" alt="Telegram" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/robot.svg" width="40" alt="Bot" />
+</div>
 
 The momentum continued into 2025, a year of expansion 🚀. I ventured into FiveM server development for GTA V roleplay communities 🎮, learning Lua scripting and server configuration. I also explored Discord and Telegram bot development, creating MINNAL (a Discord bot) and GODZILLA (a Telegram bot) 🤖. These required mastering APIs, async operations, and database integrations.
 
@@ -75,12 +98,12 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| **WhatsApp Clone** | Custom messaging app with unique features and modified UI/UX |
-| **MINNAL** | Feature-rich Discord bot for server management |
-| **GODZILLA** | Versatile Telegram bot for utility and engagement |
-| **FiveM Server** | Roleplay server development and scripting |
+| Project | Icon | Description |
+|---|---|---|
+| **WhatsApp Clone** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/whatsapp.svg" width="30" /> | Custom messaging app with unique features and modified UI/UX |
+| **MINNAL** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/discord.svg" width="30" /> | Feature-rich Discord bot for server management |
+| **GODZILLA** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/telegram.svg" width="30" /> | Versatile Telegram bot for utility and engagement |
+| **FiveM Server** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/game.svg" width="30" /> | Roleplay server development and scripting |
 
 </div>
 
@@ -92,13 +115,19 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=1db954&center=true&vCenter=true&width=500&lines=Spotify" alt="Spotify" />
 </div>
 
-<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&redirect=true)
-</div>
+<center>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify Now Playing" />
+</center>
 
 ---
 
 ## Connect With Me
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/github.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/linkedin.svg" width="40" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/instagram.svg" width="40" alt="Instagram" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Dev-Sahad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
