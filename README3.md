@@ -1,4 +1,4 @@
-# Sahad Sha | Dev-Sahad
+# SAHAD SHA | Dev-Sahad
 
 <div align="center">
   <!-- Main Animated Banner -->
