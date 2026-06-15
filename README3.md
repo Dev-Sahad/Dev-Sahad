@@ -1,14 +1,16 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <!-- Animated Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F2C,003366,00BFFF&height=280&section=header&text=" alt="bg" />
-  
-  <!-- Typing Text -->
-  <div style="margin-top: -165px; position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=46&duration=3400&pause=1400&color=00F0FF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
-         alt="Journey" 
-         style="filter: drop-shadow(0 0 18px #00F0FF) drop-shadow(0 0 35px #00BFFF);"/>
+  <div style="position: relative; display: inline-block;">
+    <!-- Animated Background -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F2C,003366,00BFFF&height=290&section=header&text=" alt="bg" />
+    
+    <!-- Typing Text - Perfectly Centered on Background -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center; z-index: 2;">
+      <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=46&duration=3400&pause=1400&color=00F0FF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
+           alt="Journey" 
+           style="filter: drop-shadow(0 0 20px #00F0FF) drop-shadow(0 0 40px #00BFFF);"/>
+    </div>
   </div>
 </div>
 
