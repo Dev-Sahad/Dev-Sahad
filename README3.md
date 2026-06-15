@@ -19,19 +19,39 @@
 
 ## The Long Road: My Complete Development Journey
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Coding animation" />
+</div>
+
 My journey into software development began during one of the most uncertain periods in recent history, the Corona pandemic lockdown. With the outside world on hold, I found myself with an abundance of time and a restless mind full of ideas. I had a clear dream: to build something of my own, a mobile-based application or a fully functional website that could connect people, solve everyday problems, or simply bring joy to users.
 
 At that time, I had zero formal experience in coding. I started from absolute basics. Late nights were spent scouring YouTube, watching tutorial after tutorial on app development, web technologies, and programming fundamentals. I would pause videos repeatedly, take notes, try to replicate what I saw, and often stare at error messages for hours. Those early months were filled with frustration, small victories, and a growing realization that consistent effort could bridge the gap between aspiration and capability. This phase planted the seeds of persistence that would define the years ahead.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" alt="Learning and debugging animation" />
+</div>
+
 By 2023, I knew it was time to structure my learning. I enrolled in a comprehensive online Web Development course. This was a turning point. I immersed myself completely, diving deep into HTML for structure, CSS for styling and responsive design, JavaScript for interactivity, and gradually exploring backend concepts. Every module felt like unlocking a new layer of understanding. I spent countless hours building small projects, debugging issues that seemed impossible at first, and revisiting concepts until they became second nature. The course provided direction, but my real growth came from applying what I learned outside the curriculum, experimenting, and pushing my limits. This year solidified my foundation and transformed my scattered curiosity into focused skill-building.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD6z2R2l2rJ9t7u/giphy.gif" width="280" alt="Development progress animation" />
+</div>
+
 In 2024, all the accumulated knowledge and late nights culminated in my first major personal project: a fully customized WhatsApp clone, inspired by GBWhatsApp but taken further with unique modifications and additional features tailored to my vision. Developing this involved handling real-time messaging logic, user interface customization, security considerations, and performance optimization. Turning a conceptual idea into a working application that felt polished and usable was incredibly rewarding. It represented years of self-directed learning finally materializing into something tangible. The process taught me not just technical skills but also project management, user experience thinking, and the discipline required to see complex work through to completion.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270" alt="Teamwork and project animation" />
+</div>
 
 The momentum continued into 2025, a year of significant expansion and diversification. I ventured into FiveM server development for Grand Theft Auto V roleplay communities, learning the intricacies of Lua scripting, server configuration, resource management, and creating immersive gameplay experiences. Alongside this, I explored automation and community engagement tools by diving into Discord and Telegram bot development.
 
 This led to the creation of two notable bots: MINNAL, a feature-rich Discord bot designed to enhance server management and user interaction, and GODZILLA, a versatile Telegram bot built for utility and engagement. These projects required mastering APIs, handling asynchronous operations, database integrations for persistence, and ensuring reliability across different environments.
 
 During this period, I also collaborated as a supporter with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project. Working alongside others taught me the value of teamwork, code review, integrating contributions, and building tools that serve active communities. 2025 was a year of applying knowledge in real-world scenarios, scaling from solo projects to collaborative environments, and understanding how code can foster communities.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="280" alt="Future and reflection animation" />
+</div>
 
 As of 2026, I am in a phase of reflection and exploration. With several years of dedicated progress behind me, I am traveling, observing the world, gathering fresh inspiration, and thoughtfully planning my next major project. This period of stepping back allows me to evaluate what I have built so far and envision even more ambitious goals ahead.
 
@@ -64,6 +84,22 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,lua,discord,telegram" alt="Tools and Platforms" />
 </div>
+
+---
+
+## Spotify Now Playing
+
+<div align="center">
+  <a href="https://github.com/Dev-Sahad">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f5y2r3x4n4k2p7m7m4z5wqj2ii&cover_image=true&theme=novatorem&show_offline=true&background_color=0f172a&interchange=false&bar_color=38bdf8&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f5y2r3x4n4k2p7m7m4z5wqj2ii&cover_image=true&theme=compact&show_offline=true&background_color=0f172a&interchange=false&bar_color=38bdf8&bar_color_cover=false" alt="Spotify Compact Widget" />
+</div>
+
+> Replace the Spotify user id above with your own linked Spotify widget id from the widget service you use.
 
 ---
 
