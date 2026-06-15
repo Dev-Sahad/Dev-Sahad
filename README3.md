@@ -20,20 +20,66 @@
 
 ## The Long Road: My Complete Development Journey
 
-My journey into software development began during one of the most uncertain periods in recent history, the Corona pandemic lockdown. With the outside world on hold, I found myself with an abundance of time and a restless mind full of ideas 🧠. I had a clear dream: to build something of my own, a mobile-based application 📱 or a fully functional website 🌐 that could connect people, solve everyday problems, or simply bring joy to users 😊. I still remember that excitement, the feeling that one day I would turn my imagination into something real ✨.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l0Ex6oyumaKhqKg831/giphy.gif" width="260" alt="Learning GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2020%3A+Lockdown+Learning" alt="2020 Header" />
 </div>
 
-At that time, I had zero formal experience in coding 💻. I started from absolute basics 🔰. Late nights were spent scouring YouTube 📺, watching tutorial after tutorial on app development, web technologies, and programming fundamentals ⚙️. I would pause videos repeatedly, take notes 📝, try to replicate what I saw 👀, and often stare at error messages for hours 🤯. Those early months were filled with frustration 😓, small victories 🏆, and a growing realization that consistent effort could bridge the gap between aspiration and capability 🌉. That stage taught me patience, discipline, and the value of never giving up 🛡️.
+My journey into software development began during one of the most uncertain periods in recent history, the Corona pandemic lockdown. With the outside world on hold, I found myself with an abundance of time and a restless mind full of ideas 🧠💡. I had a clear dream: to build something of my own, a mobile-based application 📱 or a fully functional website 🌐 that could connect people, solve everyday problems, or simply bring joy to users 😊✨. I still remember that excitement, the feeling that one day I would turn my imagination into something real 🌟💫.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=YouTube+%7C+Tutorials+%7C+Practice" alt="Learning" />
+</div>
+
+At that time, I had zero formal experience in coding 💻❌. I started from absolute basics 🔰📖. Late nights were spent scouring YouTube 📺🎬, watching tutorial after tutorial on app development, web technologies, and programming fundamentals ⚙️🔧. I would pause videos repeatedly, take notes 📝🖊️, try to replicate what I saw 👀🎯, and often stare at error messages for hours 🤯😓. Those early months were filled with frustration 😤, small victories 🏆✅, and a growing realization that consistent effort could bridge the gap between aspiration and capability 🌉🛤️. That stage taught me patience, discipline, and the value of never giving up 🛡️💪.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2023%3A+Structured+Learning" alt="2023 Header" />
+</div>
+
+By 2023, I knew it was time to structure my learning 📚🎓. I enrolled in a comprehensive online Web Development course 🎓💻. This was a turning point 🔄⏩. I immersed myself completely, diving deep into HTML for structure 🏗️, CSS for styling and responsive design 🎨, JavaScript for interactivity ⚡, and gradually exploring backend concepts 🧠🔌. Every module felt like unlocking a new layer of understanding 🔓💡. I spent countless hours building small projects 🧱🏠, debugging issues that seemed impossible at first 🐞🔍, and revisiting concepts until they became second nature 🔄♻️. The course provided direction ⟶🎯, but my real growth came from applying what I learned outside the curriculum, experimenting 🔬🧪, and pushing my limits 🚀⬆️. That year gave my journey shape, direction, and real momentum 🌟💫.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2024%3A+WhatsApp+Clone" alt="2024 Header" />
+</div>
+
+In 2024, all the accumulated knowledge and late nights culminated in my first major personal project: a fully customized WhatsApp clone 💬📱, inspired by GBWhatsApp but taken further with unique modifications and additional features tailored to my vision 🎯✨. Developing this involved handling real-time messaging logic ⚙️⚡, user interface customization 🎨🖌️, security considerations 🔒🛡️, and performance optimization ⚡🚀. Turning a conceptual idea into a working application that felt polished and usable was incredibly rewarding 🎉🏆. It represented years of self-directed learning finally materializing into something tangible ✨💫. The process taught me not just technical skills but also project management 📋🗂️, user experience thinking, and the discipline required to see complex work through to completion ✅🏁. That was the moment I felt like I was truly building, not just learning 🔧🛠️.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2025%3A+Expansion+%26+Bots" alt="2025 Header" />
+</div>
+
+The momentum continued into 2025, a year of significant expansion and diversification 🌍🌐. I ventured into FiveM server development for Grand Theft Auto V roleplay communities 🎮🏘️, learning the intricacies of Lua scripting, server configuration, resource management, and creating immersive gameplay experiences. Alongside this, I explored automation and community engagement tools by diving into Discord and Telegram bot development 🤖💬. Each new area opened another door and showed me how broad the development world could be 🚪🌉.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1db954&center=true&vCenter=true&width=550&lines=MINNAL+%7C+GODZILLA" alt="Bots" />
+</div>
+
+This led to the creation of two notable bots: MINNAL, a feature-rich Discord bot designed to enhance server management and user interaction 💬🤖, and GODZILLA, a versatile Telegram bot built for utility and engagement 🛠️🤖. These projects required mastering APIs, handling asynchronous operations ⚙️⚡, database integrations for persistence, and ensuring reliability across different environments 🌐💾. Every release gave me a stronger understanding of what it means to build something people can actually use 🎉✨.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=3b82f6&center=true&vCenter=true&width=500&lines=Teamwork+%7C+Collaboration" alt="Teamwork" />
+</div>
+
+During this period, I also collaborated as a supporter with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project 🤝👥. Working alongside others taught me the value of teamwork, code review 📖🔍, integrating contributions, and building tools that serve active communities 👥🏘️. 2025 was a year of applying knowledge in real-world scenarios, scaling from solo projects to collaborative environments, and understanding how code can foster communities 🌱💫. That experience made the journey feel bigger than just personal growth 🌟🌍.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2026%3A+Reflection+%26+Exploration" alt="2026 Header" />
+</div>
+
+As of 2026, I am in a phase of reflection and exploration 🧭🌿. With several years of dedicated progress behind me, I am traveling ✈️🗺️, observing the world, gathering fresh inspiration 🌿💡, and thoughtfully planning my next major project 🔮🚀. This period of stepping back allows me to evaluate what I have built so far and envision even more ambitious goals ahead 🚀⬆️. I see it as a reset phase before the next leap forward 🔄⏩.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=8b5cf6&center=true&vCenter=true&width=550&lines=Six+Years+of+Growth" alt="Conclusion" />
+</div>
+
+The entire journey, from those initial YouTube videos during lockdown to shipping real applications and community tools, has spanned over six years of consistent self-learning, iteration, and growth 🛠️💫. There were no shortcuts ⚠️❌. Every line of code, every bug fixed, and every feature implemented reflects real experiences, challenges overcome, and lessons learned through dedication 💪🏆. Looking back, I can say the journey itself became the real achievement 🏆✨.
 
 ---
 
 ## Journey Timeline with Animated Milestones
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=900&lines=2020-2026;My+Complete+Development+Journey" alt="Timeline Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=900&lines=My+Complete+Development+Journey;2020--2026" alt="Timeline Header" />
 </div>
 
 <div align="center">
@@ -41,14 +87,18 @@ At that time, I had zero formal experience in coding 💻. I started from absolu
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.sp-gwjtN4lzbGVyLWdpZn人才招聘L2NsaXBlLWdpZmYvZ2lmZnkyLzNvN2FEMnNhYTJCYndlSUJEYS9jacGY/giphy.gif" width="120" alt="2020" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/youtube.svg" width="40" alt="2020" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/code.svg" width="40" alt="2020" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/book.svg" width="40" alt="2020" />
       <br><br>
       <strong>2020</strong>
       <br>Started learning from scratch during lockdown with YouTube tutorials and hands-on practice.
       <br>🔰 📺 💻 🧠
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.sp-gwjtN4l zbGVyLciwb250ZW5 0LWdpZmYvZ2lmZnkyLzNvN2FEMnNhYTJCYndlSUJEYS9jacGY/giphy-loop.gif" width="120" alt="2023" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html.svg" width="40" alt="2023" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/css.svg" width="40" alt="2023" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/js.svg" width="40" alt="2023" />
       <br><br>
       <strong>2023</strong>
       <br>Joined a structured online Web Development course and built a solid technical foundation.
@@ -57,14 +107,18 @@ At that time, I had zero formal experience in coding 💻. I started from absolu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="2024" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/message.svg" width="40" alt="2024" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/phone.svg" width="40" alt="2024" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/settings.svg" width="40" alt="2024" />
       <br><br>
       <strong>2024</strong>
       <br>Built a customized WhatsApp clone with unique features and custom modifications.
       <br>💬 🎯 🔧 ✨
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="2025" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/game.svg" width="40" alt="2025" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/robot.svg" width="40" alt="2025" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/users.svg" width="40" alt="2025" />
       <br><br>
       <strong>2025</strong>
       <br>Expanded into FiveM development, Discord bots, Telegram bots, and team collaboration.
@@ -73,7 +127,9 @@ At that time, I had zero formal experience in coding 💻. I started from absolu
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="260" alt="2026" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/compass.svg" width="50" alt="2026" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/airplane.svg" width="50" alt="2026" />
+      <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/lightbulb.svg" width="50" alt="2026" />
       <br><br>
       <strong>2026</strong>
       <br>Exploring, traveling, reflecting, and preparing for the next major project.
@@ -109,16 +165,16 @@ At that time, I had zero formal experience in coding 💻. I started from absolu
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31qfxqe4xjnevgtz6lc5l2hkjpnq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfxqe4xjnevgtz6lc5l2hkjpnq&count=1" alt="Spotify Recently Played" />
+  <a href="https://open.spotify.com/user/31qfxqe4xjnevgtz6lc5l2hkjpnq" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=novatorem&show_offline=true&background_color=0f172a&interchange=false&bar_color=38bdf8&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfxqe4xjnevgtz6lc5l2hkjpnq&count=3" alt="Spotify Recently Played 3" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qfxqe4xjnevgtz6lc5l2hkjpnq&count=1" alt="Spotify Recently Played" />
 </div>
 
-> This widget shows your recently played songs from Spotify. It uses your Spotify user ID from your profile URL. [web:51]
+> This widget shows your currently playing and recently played songs from Spotify using your Spotify user ID. You need to connect your Spotify account at kittinan/spotify-github-profile to make it work. [web:51][web:100][web:102]
 
 ---
 
