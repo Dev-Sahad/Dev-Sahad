@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:7c3aed,100:c084fc&text=Dev%20Sahad%20(Sahad%20Sha)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Builder&descAlignY=60" alt="Sahad Sha Banner"/>
+</div>
+
+
 # Hey, I’m Sahad Sha (Dev-Sahad) 👋
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=39D353&width=500&lines=Hi,+I'm+a+Junior+Developer;Web+Designer+%26+Developer;Bot+Builder;I+build+scalable+systems;Let's+collaborate!)
