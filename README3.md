@@ -2,11 +2,11 @@
      HERO / HEADER
 ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion+Meets+Persistence+%7C+6%2B+Years+of+Relentless+Journey&descAlignY=60" alt="Sahad Sha Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&width=1000&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion+Meets+Persistence+%7C+6%2B+Years+of+Relentless+Journey&descAlignY=60" alt="Sahad Sha Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=940&lines=Building+Since+2020;Passion+Meets+Persistence;6%2B+Years+of+Relentless+Journey" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Since+2020;Passion+Meets+Persistence;6%2B+Years+of+Relentless+Journey" alt="Typing" />
 </div>
 
 ---
@@ -233,5 +233,5 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3b82f6,50:1e3a8a,100:0f172a&section=footer&text=&fontSize=28" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&width=1000&color=0:3b82f6,50:1e3a8a,100:0f172a&section=footer&text=&fontSize=28" alt="Footer" />
 </div>
