@@ -6,101 +6,63 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=940&lines=Building+Since+2020;Passion+Meets+Persistence;6%2B+Years+of+Relentless+Journey;Web+Development;Bot+Development;FiveM+Server+Development" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-Sahad&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=940&lines=Building+Since+2020;Passion+Meets+Persistence;6%2B+Years+of+Relentless+Journey" alt="Typing" />
 </div>
 
 ---
 
-## The Long Road: My Complete Development Journey
+## The Long Road: My Journey
+
+My journey into software development began during the Corona pandemic lockdown 💻. With the outside world on hold, I found myself with time and a restless mind full of ideas. I had a clear dream: to build something of my own, a mobile application 📱 or a website 🌐 that could connect people and solve problems.
+
+I had zero formal experience in coding at the start. I began from the basics, watching YouTube tutorials on app development and web technologies. Late nights were spent taking notes, trying to replicate what I saw, and staring at error messages for hours 🤯. Those early months taught me patience and the value of persistence.
+
+By 2023, I enrolled in a comprehensive online Web Development course 🎓. This was a turning point. I immersed myself in HTML for structure, CSS for styling, JavaScript for interactivity, and backend concepts. Every module unlocked new understanding. I built small projects, debugged impossible issues, and revisited concepts until they became natural. This year solidified my foundation ✨.
+
+In 2024, all my knowledge culminated in my first major project: a customized WhatsApp clone with unique modifications and features 💬. It involved real-time messaging, UI customization, security, and performance optimization. Turning a conceptual idea into a working application was incredibly rewarding 🎉. It represented years of self-learning materializing into something tangible.
+
+The momentum continued into 2025, a year of expansion 🚀. I ventured into FiveM server development for GTA V roleplay communities 🎮, learning Lua scripting and server configuration. I also explored Discord and Telegram bot development, creating MINNAL (a Discord bot) and GODZILLA (a Telegram bot) 🤖. These required mastering APIs, async operations, and database integrations.
+
+I also collaborated with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project 🤝. Working with others taught me teamwork, code review, and building tools for active communities. 2025 was about applying knowledge in real-world scenarios.
+
+As of 2026, I am in a phase of reflection 🧭. I am traveling, observing the world, gathering inspiration, and planning my next project. This period allows me to evaluate what I have built and envision more ambitious goals ahead.
+
+The entire journey spans over six years of self-learning and growth 💪. Every line of code reflects challenges overcome and lessons learned through dedication. The journey itself became the real achievement 🏆.
+
+---
+
+## Journey Timeline
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2020%3A+Lockdown+Learning" alt="2020 Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=800&lines=2020-2026;My+Development+Journey" alt="Timeline" />
 </div>
-
-My journey into software development began during one of the most uncertain periods in recent history, the Corona pandemic lockdown. With the outside world on hold, I found myself with an abundance of time and a restless mind full of ideas 🧠💡. I had a clear dream: to build something of my own, a mobile-based application 📱 or a fully functional website 🌐 that could connect people, solve everyday problems, or simply bring joy to users 😊✨. I still remember that excitement, the feeling that one day I would turn my imagination into something real 🌟💫.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=YouTube+%7C+Tutorials+%7C+Practice" alt="Learning" />
+
+| Year | Milestone |
+|---|---|
+| 2020 | Started learning from scratch during lockdown with YouTube tutorials |
+| 2023 | Joined structured online Web Development course, built solid foundation |
+| 2024 | Built customized WhatsApp clone with unique features |
+| 2025 | Expanded into FiveM, Discord bots, Telegram bots, team collaboration |
+| 2026 | Exploring, traveling, reflecting, preparing for next project |
+
 </div>
-
-At that time, I had zero formal experience in coding 💻❌. I started from absolute basics 🔰📖. Late nights were spent scouring YouTube 📺🎬, watching tutorial after tutorial on app development, web technologies, and programming fundamentals ⚙️🔧. I would pause videos repeatedly, take notes 📝🖊️, try to replicate what I saw 👀🎯, and often stare at error messages for hours 🤯😓. Those early months were filled with frustration 😤, small victories 🏆✅, and a growing realization that consistent effort could bridge the gap between aspiration and capability 🌉🛤️. That stage taught me patience, discipline, and the value of never giving up 🛡️💪.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2023%3A+Structured+Learning" alt="2023 Header" />
-</div>
-
-By 2023, I knew it was time to structure my learning 📚🎓. I enrolled in a comprehensive online Web Development course 🎓💻. This was a turning point 🔄⏩. I immersed myself completely, diving deep into HTML for structure 🏗️, CSS for styling and responsive design 🎨, JavaScript for interactivity ⚡, and gradually exploring backend concepts 🧠🔌. Every module felt like unlocking a new layer of understanding 🔓💡. I spent countless hours building small projects 🧱🏠, debugging issues that seemed impossible at first 🐞🔍, and revisiting concepts until they became second nature 🔄♻️. The course provided direction ⟶🎯, but my real growth came from applying what I learned outside the curriculum, experimenting 🔬🧪, and pushing my limits 🚀⬆️. That year gave my journey shape, direction, and real momentum 🌟💫.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2024%3A+WhatsApp+Clone" alt="2024 Header" />
-</div>
-
-In 2024, all the accumulated knowledge and late nights culminated in my first major personal project: a fully customized WhatsApp clone 💬📱, inspired by GBWhatsApp but taken further with unique modifications and additional features tailored to my vision 🎯✨. Developing this involved handling real-time messaging logic ⚙️⚡, user interface customization 🎨🖌️, security considerations 🔒🛡️, and performance optimization ⚡🚀. Turning a conceptual idea into a working application that felt polished and usable was incredibly rewarding 🎉🏆. It represented years of self-directed learning finally materializing into something tangible ✨💫. The process taught me not just technical skills but also project management 📋🗂️, user experience thinking, and the discipline required to see complex work through to completion ✅🏁. That was the moment I felt like I was truly building, not just learning 🔧🛠️.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2025%3A+Expansion+%26+Bots" alt="2025 Header" />
-</div>
-
-The momentum continued into 2025, a year of significant expansion and diversification 🌍🌐. I ventured into FiveM server development for Grand Theft Auto V roleplay communities 🎮🏘️, learning the intricacies of Lua scripting, server configuration, resource management, and creating immersive gameplay experiences. Alongside this, I explored automation and community engagement tools by diving into Discord and Telegram bot development 🤖💬. Each new area opened another door and showed me how broad the development world could be 🚪🌉.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1db954&center=true&vCenter=true&width=550&lines=MINNAL+%7C+GODZILLA" alt="Bots" />
-</div>
-
-This led to the creation of two notable bots: MINNAL, a feature-rich Discord bot designed to enhance server management and user interaction 💬🤖, and GODZILLA, a versatile Telegram bot built for utility and engagement 🛠️🤖. These projects required mastering APIs, handling asynchronous operations ⚙️⚡, database integrations for persistence, and ensuring reliability across different environments 🌐💾. Every release gave me a stronger understanding of what it means to build something people can actually use 🎉✨.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=3b82f6&center=true&vCenter=true&width=500&lines=Teamwork+%7C+Collaboration" alt="Teamwork" />
-</div>
-
-During this period, I also collaborated as a supporter with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project 🤝👥. Working alongside others taught me the value of teamwork, code review 📖🔍, integrating contributions, and building tools that serve active communities 👥🏘️. 2025 was a year of applying knowledge in real-world scenarios, scaling from solo projects to collaborative environments, and understanding how code can foster communities 🌱💫. That experience made the journey feel bigger than just personal growth 🌟🌍.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=700&lines=2026%3A+Reflection+%26+Exploration" alt="2026 Header" />
-</div>
-
-As of 2026, I am in a phase of reflection and exploration 🧭🌿. With several years of dedicated progress behind me, I am traveling ✈️🗺️, observing the world, gathering fresh inspiration 🌿💡, and thoughtfully planning my next major project 🔮🚀. This period of stepping back allows me to evaluate what I have built so far and envision even more ambitious goals ahead 🚀⬆️. I see it as a reset phase before the next leap forward 🔄⏩.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=8b5cf6&center=true&vCenter=true&width=550&lines=Six+Years+of+Growth" alt="Conclusion" />
-</div>
-
-The entire journey, from those initial YouTube videos during lockdown to shipping real applications and community tools, has spanned over six years of consistent self-learning, iteration, and growth 🛠️💫. There were no shortcuts ⚠️❌. Every line of code, every bug fixed, and every feature implemented reflects real experiences, challenges overcome, and lessons learned through dedication 💪🏆. Looking back, I can say the journey itself became the real achievement 🏆✨.
 
 ---
 
 ## Technologies and Skills
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack" />
 </div>
 
 <div align="center">
   <img src="https://cdn.skill-icons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&dark" alt="Frontend" />
-  <br>
+  <br><br>
   <img src="https://cdn.skill-icons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java&dark" alt="Backend" />
-  <br>
+  <br><br>
   <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua,discord,telegram&dark" alt="Tools" />
-</div>
-
----
-
-## Spotify Now Playing
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=1db954&center=true&vCenter=true&width=500&lines=Spotify;Now+Playing" alt="Spotify Header" />
-</div>
-
-<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&redirect=true)
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=600&color=999999&center=true&vCenter=true&width=700&lines=Connect+your+Spotify+at+kittinan/spotify-github-profile+to+show+your+current+song" alt="Note" />
 </div>
 
 ---
@@ -108,34 +70,35 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 ## Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Featured+Projects" alt="Projects Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Projects" alt="Projects" />
 </div>
 
 <div align="center">
 
 | Project | Description |
 |---|---|
-| **WhatsApp Clone** | Custom-built messaging project with unique features and modified UI/UX 💬 🔧 |
-| **MINNAL** | Feature-rich Discord bot for server management and user interaction 🤖 💬 |
-| **GODZILLA** | Versatile Telegram bot built for utility and engagement 🤖 🛠️ |
-| **FiveM Server Work** | Roleplay server development, scripting, and resource management 🎮 ⚙️ |
+| **WhatsApp Clone** | Custom messaging app with unique features and modified UI/UX |
+| **MINNAL** | Feature-rich Discord bot for server management |
+| **GODZILLA** | Versatile Telegram bot for utility and engagement |
+| **FiveM Server** | Roleplay server development and scripting |
 
 </div>
 
 ---
 
+## Spotify Now Playing
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=1db954&center=true&vCenter=true&width=500&lines=Spotify" alt="Spotify" />
+</div>
+
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&redirect=true)
+</div>
+
+---
+
 ## Connect With Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Connect+With+Me" alt="Connect Header" />
-</div>
-
-<div align="center">
-
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin) | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram) | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord) |
-|---|---|---|---|
-
-</div>
 
 <div align="center">
   <a href="https://github.com/Dev-Sahad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -151,7 +114,7 @@ The entire journey, from those initial YouTube videos during lockdown to shippin
 
 <div align="center">
   <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi Badge" />
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
   </a>
 </div>
 
