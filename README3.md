@@ -184,11 +184,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LIVE_Projects-22C55E?style=for-the-badge&logo=checkmark&logoColor=white" alt="4 LIVE" />
-  <img src="https://img.shields.io/badge/Working_Progress-FFA500?style=for-the-badge&logo=hammer&logoColor=black" alt="2 Working" />
-  <img src="https://img.shields.io/badge/Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="1 Private" />
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Dev-Sahad" target="_blank">
