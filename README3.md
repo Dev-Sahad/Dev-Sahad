@@ -43,7 +43,13 @@ I have worked across various technologies throughout my journey:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/853166408212807701)
 
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/devsahad1)
+## ☕ Support My Work
+
+<div align="center">
+  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi Badge"/>
+  </a>
+</div>
 
 ## Current Focus
 
