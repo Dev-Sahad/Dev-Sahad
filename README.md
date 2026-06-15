@@ -63,7 +63,7 @@
 
 <p align="left">
   <a href="https://github.com/Dev-Sahad" target="_blank">
-    <img src="https://img.shields.io/github/followers/Dev-Sahad?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Dev--Sahad-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
   <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">
@@ -78,6 +78,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 -----
 
