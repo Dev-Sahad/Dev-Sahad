@@ -1,11 +1,13 @@
-# Muhammad Sahad | Dev-Sahad
+# Sahad Sha | Dev-Sahad
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=310&color=gradient&customColor=0f172a,1e2937,334155&text=SAHAD+SHA&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Self-Taught+Developer+%7C+6%2B+Years+Journey&descAlignY=63" alt="Banner"/>
+  <!-- Main Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e3a8a,100:3b82f6&text=SAHAD%20SHA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passion+Meets+Persistence+%7C+6%2B+Years+of+Relentless+Journey&descAlignY=62" alt="Sahad Sha Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1100&color=67E8F9&center=true&vCenter=true&width=930&lines=%F0%9F%94%A5+Passion+Meets+Persistence;%F0%9F%93%85+Building+Since+2020;%F0%9F%8F%86+6%2B+Years+of+Relentless+Journey" alt="Typing"/>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=%F0%9F%9A%80+Building+Since+2020;%E2%9D%A4%EF%B8%8F+Passion+Meets+Persistence;%F0%9F%92%AA+6%2B+Years+of+Relentless+Journey" alt="Typing SVG"/>
 </div>
 
 <br>
