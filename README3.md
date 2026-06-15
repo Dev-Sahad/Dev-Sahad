@@ -16,7 +16,7 @@ The momentum continued into **2025**, a year of significant expansion and divers
 
 This led to the creation of two notable bots: **MINNAL**, a feature-rich Discord bot designed to enhance server management and user interaction, and **GODZILLA**, a versatile Telegram bot built for utility and engagement. These projects required mastering APIs, handling asynchronous operations, database integrations for persistence, and ensuring reliability across different environments. 
 
-During this period, I also collaborated as a supporter with [@devkrish](https://github.com/krishanunni77) on a **FiveM server** project. Working alongside others taught me the value of teamwork, code review, integrating contributions, and building tools that serve active communities. 2025 was a year of applying knowledge in real-world scenarios, scaling from solo projects to collaborative environments, and understanding how code can foster communities.
+During this period, I also collaborated as a supporter with [@devkrish](https://github.com/Krishnanunni77) on a **FiveM server** project. Working alongside others taught me the value of teamwork, code review, integrating contributions, and building tools that serve active communities. 2025 was a year of applying knowledge in real-world scenarios, scaling from solo projects to collaborative environments, and understanding how code can foster communities.
 
 As of **2026**, I am in a phase of reflection and exploration. With several years of dedicated progress behind me, I am traveling, observing the world, gathering fresh inspiration, and thoughtfully planning my next major project. This period of stepping back allows me to evaluate what I have built so far and envision even more ambitious goals ahead. 
 
