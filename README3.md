@@ -1,6 +1,6 @@
 # Muhammad Sahad | Dev-Sahad
 
-![Profile Banner](https://via.placeholder.com/1200x300/0A2540/00BFFF?text=Muhammad+Sahad+-+Self-Taught+Developer+-+From+Lockdown+Dreams+to+Real+Projects)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0A2540,00BFFF&height=280&section=header&text=Muhammad%20Sahad%20%E2%80%A2%20Dev-Sahad&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 ## The Long Road: My Complete Development Journey
 
