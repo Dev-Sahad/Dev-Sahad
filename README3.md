@@ -1,7 +1,8 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=46&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=880&lines=Self-Taught+Developer;Turning+Ideas+Into+Reality;6%2B+Years+of+Continuous+Growth" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A1428,1E2A44,00BFFF&height=280&section=header&text=&desc=&fontColor=transparent" alt="Background" style="border-radius: 15px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=47&duration=3400&pause=1600&color=00E5FF&center=true&vCenter=true&width=900&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" alt="Typing Animation" style="margin-top: -160px; position: relative; z-index: 2;" />
 </div>
 
 ## The Long Road: My Complete Development Journey
