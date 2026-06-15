@@ -13,44 +13,19 @@
 
 ## The Long Road: My Journey
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/youtube.svg" width="40" alt="YouTube" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/code.svg" width="40" alt="Coding" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/book.svg" width="40" alt="Learning" />
-</div>
+My journey into software development began during the Corona pandemic lockdown. I had zero formal experience in coding at the start. I began from the basics, watching YouTube tutorials on app development and web technologies. Late nights were spent taking notes and staring at error messages for hours.
 
-My journey into software development began during the Corona pandemic lockdown 💻. With the outside world on hold, I found myself with time and a restless mind full of ideas. I had a clear dream: to build something of my own, a mobile application 📱 or a website 🌐 that could connect people and solve problems.
+By 2023, I enrolled in a comprehensive online Web Development course. This was a turning point. I immersed myself in HTML for structure, CSS for styling, JavaScript for interactivity, and backend concepts. Every module unlocked new understanding. This year solidified my foundation.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/html.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/css.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/javascript.svg" width="40" alt="JavaScript" />
-</div>
+In 2024, all my knowledge culminated in my first major project: a customized WhatsApp clone with unique modifications and features. It involved real-time messaging, UI customization, security, and performance optimization. Turning a conceptual idea into a working application was incredibly rewarding.
 
-I had zero formal experience in coding at the start. I began from the basics, watching YouTube tutorials on app development and web technologies. Late nights were spent taking notes, trying to replicate what I saw, and staring at error messages for hours 🤯. Those early months taught me patience and the value of persistence.
+The momentum continued into 2025, a year of expansion. I ventured into FiveM server development for GTA V roleplay communities, learning Lua scripting and server configuration. I also explored Discord and Telegram bot development, creating MINNAL (a Discord bot) and GODZILLA (a Telegram bot).
 
-By 2023, I enrolled in a comprehensive online Web Development course 🎓. This was a turning point. I immersed myself in HTML for structure, CSS for styling, JavaScript for interactivity, and backend concepts. Every module unlocked new understanding. I built small projects, debugged impossible issues, and revisited concepts until they became natural. This year solidified my foundation ✨.
+I also collaborated with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project. Working with others taught me teamwork, code review, and building tools for active communities.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/whatsapp.svg" width="60" alt="WhatsApp" />
-</div>
+As of 2026, I am in a phase of reflection. I am traveling, observing the world, gathering inspiration, and planning my next project.
 
-In 2024, all my knowledge culminated in my first major project: a customized WhatsApp clone with unique modifications and features 💬. It involved real-time messaging, UI customization, security, and performance optimization. Turning a conceptual idea into a working application was incredibly rewarding 🎉. It represented years of self-learning materializing into something tangible.
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/game.svg" width="40" alt="FiveM" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/discord.svg" width="40" alt="Discord" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/telegram.svg" width="40" alt="Telegram" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/robot.svg" width="40" alt="Bot" />
-</div>
-
-The momentum continued into 2025, a year of expansion 🚀. I ventured into FiveM server development for GTA V roleplay communities 🎮, learning Lua scripting and server configuration. I also explored Discord and Telegram bot development, creating MINNAL (a Discord bot) and GODZILLA (a Telegram bot) 🤖. These required mastering APIs, async operations, and database integrations.
-
-I also collaborated with [@devkrish](https://github.com/Krishnanunni77) on a FiveM server project 🤝. Working with others taught me teamwork, code review, and building tools for active communities. 2025 was about applying knowledge in real-world scenarios.
-
-As of 2026, I am in a phase of reflection 🧭. I am traveling, observing the world, gathering inspiration, and planning my next project. This period allows me to evaluate what I have built and envision more ambitious goals ahead.
-
-The entire journey spans over six years of self-learning and growth 💪. Every line of code reflects challenges overcome and lessons learned through dedication. The journey itself became the real achievement 🏆.
+The entire journey spans over six years of self-learning and growth. Every line of code reflects challenges overcome and lessons learned through dedication.
 
 ---
 
@@ -64,11 +39,11 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
 
 | Year | Milestone |
 |---|---|
-| 2020 | Started learning from scratch during lockdown with YouTube tutorials |
-| 2023 | Joined structured online Web Development course, built solid foundation |
+| 2020 | Started learning from scratch during lockdown with tutorials |
+| 2023 | Joined Web Development course, built solid foundation |
 | 2024 | Built customized WhatsApp clone with unique features |
-| 2025 | Expanded into FiveM, Discord bots, Telegram bots, team collaboration |
-| 2026 | Exploring, traveling, reflecting, preparing for next project |
+| 2025 | Expanded into FiveM, Discord bots, Telegram bots |
+| 2026 | Exploring, traveling, preparing for next project |
 
 </div>
 
@@ -77,15 +52,11 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
 ## Technologies and Skills
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Tech Stack" />
-</div>
-
-<div align="center">
   <img src="https://cdn.skill-icons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&dark" alt="Frontend" />
   <br><br>
   <img src="https://cdn.skill-icons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java&dark" alt="Backend" />
   <br><br>
-  <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua,discord,telegram&dark" alt="Tools" />
+  <img src="https://cdn.skill-icons.dev/icons?i=git,github,linux,vscode,lua" alt="Tools" />
 </div>
 
 ---
@@ -93,17 +64,13 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
 ## Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=0ea5e9&center=true&vCenter=true&width=500&lines=Projects" alt="Projects" />
-</div>
 
-<div align="center">
-
-| Project | Icon | Description |
-|---|---|---|
-| **WhatsApp Clone** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/whatsapp.svg" width="30" /> | Custom messaging app with unique features and modified UI/UX |
-| **MINNAL** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/discord.svg" width="30" /> | Feature-rich Discord bot for server management |
-| **GODZILLA** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/telegram.svg" width="30" /> | Versatile Telegram bot for utility and engagement |
-| **FiveM Server** | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/game.svg" width="30" /> | Roleplay server development and scripting |
+| Project | Description |
+|---|---|
+| **WhatsApp Clone** | Custom messaging app with unique features and modified UI/UX |
+| **MINNAL** | Feature-rich Discord bot for server management |
+| **GODZILLA** | Versatile Telegram bot for utility and engagement |
+| **FiveM Server** | Roleplay server development and scripting |
 
 </div>
 
@@ -111,23 +78,13 @@ The entire journey spans over six years of self-learning and growth 💪. Every 
 
 ## Spotify Now Playing
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=1db954&center=true&vCenter=true&width=500&lines=Spotify" alt="Spotify" />
-</div>
-
 <center>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify Now Playing" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="350" alt="Spotify" />
 </center>
 
 ---
 
 ## Connect With Me
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/github.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/linkedin.svg" width="40" alt="LinkedIn" />
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/assets/icons/instagram.svg" width="40" alt="Instagram" />
-</div>
 
 <div align="center">
   <a href="https://github.com/Dev-Sahad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
