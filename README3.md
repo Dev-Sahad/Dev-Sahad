@@ -1,17 +1,11 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  
-  <!-- Dark Gradient Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1A1A1A,2C2C2C,3A3A3A&height=300&section=header&text=" alt="Background" />
-  
-  <!-- White Typing Text -->
-  <div style="margin-top: -165px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=45&duration=3400&pause=1500&color=FFFFFF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
-         alt="Journey Header" 
-         style="filter: drop-shadow(0 0 20px #FFFFFF) drop-shadow(0 0 35px #AAAAAA);"/>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1A1A1A,2C2C2C,3A3A3A&height=280&section=header&text=" alt="bg" />
+</div>
 
+<div align="center" style="margin-top: -120px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=46&duration=3400&pause=1500&color=FFFFFF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" alt="Journey" />
 </div>
 
 <br><br>
