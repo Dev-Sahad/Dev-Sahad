@@ -125,8 +125,6 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 ---
 
----
-
 ## Featured Projects
 
 <div align="center">
@@ -182,7 +180,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <img src="https://img.shields.io/badge/-22C55E?style=flat-square&logo=check&logoColor=white" width="70" alt="LIVE" />
 **AI Workspace** • Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI
 
-
+</div>
 
 <div align="center">
   <a href="https://github.com/Dev-Sahad" target="_blank">
