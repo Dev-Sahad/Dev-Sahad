@@ -15,34 +15,6 @@
 
 -----
 
-## 🤖 Featured Projects
-
-### ⚡ MINNAL BOT — Discord Bot (🟢 Live)
-
-> A feature-rich Discord bot built for community management and engagement.
-
-- 🛠 **Stack:** Python · discord.py · HTML
-- 💬 **99+ slash commands** — Admin, Economy, Music, Giveaways, Utilities & more
-- 📊 XP/Leveling system · Daily rewards · Leaderboard
-- 🎵 Music player with queue & volume control
-- 🌐 Web Admin Panel deployable on [Railway](https://railway.app)
-- 🔗 Real-time web-to-bot bridge via `/link`
-- ☁️ Supports Replit · PythonAnywhere · Railway · Oracle Cloud
-
------
-
-### 🦖 GODZILLA BOT — Telegram / WhatsApp Bot (🟢 Live)
-
-> A powerful messaging automation bot built for community engagement.
-
-- 🛠 **Stack:** Node.js · Baileys (WhatsApp Web API)
-- 📥 Media downloading · AI chat integration
-- 🎮 Games & group admin tools
-- ⚡ 24/7 uptime — deployed on Railway
-- 👤 Personal brand: **GODZILLA by Sxhd**
-
------
-
 ## 🧰 Tech Stack
 
 <p align="left">
