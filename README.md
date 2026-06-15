@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:7c3aed,100:c084fc&text=Sahad%20Sha%20(Dev%20Sahad)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Developer%20%7C%20System%20Architect%20%7C%20AI%20Builder%20%7c%20Web%20Designer&descAlignY=60" alt="Sahad Sha Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:7c3aed,100:c084fc&text=Sahad%20Sha%20(Dev%20Sahad)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Developer%20%7C%20System%20Architect%20%7C%20AI%20Builder%20%7c%20Web%20Designer&descAlignY=60" alt="Sahad Sha Banner"/>
 </div>
 
+# Hey, I'm Sahad Sha (Dev-Sahad) 👋
 
-# Hey, I’m Sahad Sha (Dev-Sahad) 👋
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=39D353&width=900&lines=Hi,+I'm+a+Junior+Developer;Web+Designer+%26+Developer;Bot+Builder;I+build+scalable+systems;Let's+collaborate!)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=39D353&width=500&lines=Hi,+I'm+a+Junior+Developer;Web+Designer+%26+Developer;Bot+Builder;I+build+scalable+systems;Let's+collaborate!)
+> **Software Developer · Bot Builder · Open Source Contributor**  
+> *Building automation tools that power real communities — 24/7.*
 
-> **Software Developer · Bot Builder · Open Source Contributor** > *Building automation tools that power real communities — 24/7.*
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Sahad&theme=github-dark-neon&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Sahad's Activity Graph" />
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🧰 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff" alt="HTML" />
@@ -29,16 +29,42 @@
 
 ## 📊 GitHub Metrics & Insights
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="48%" alt="Dev-Sahad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="48%" alt="Sahad's Top Languages" />
 </p>
 
 -----
 
+## 🔗 Demo Links
+
+<p align="center">
+  <a href="https://github.com/Dev-Sahad" target="_blank">
+    <img src="https://img.shields.io/badge/My_Profile_README-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Profile README" />
+  </a>
+  
+  <a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
+    <img src="https://img.shields.io/badge/MINNAL_BOT-181717?style=for-the-badge&logo=discord&logoColor=white" alt="MINNAL Bot" />
+  </a>
+  
+  <a href="https://github.com/Dev-Sahad/Godzilla" target="_blank">
+    <img src="https://img.shields.io/badge/GODZILLA_BOT-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="GODZILLA Bot" />
+  </a>
+  
+  <a href="https://github.com/Dev-Sahad/Noiz" target="_blank">
+    <img src="https://img.shields.io/badge/NOIZ-181717?style=for-the-badge&logo=music&logoColor=white" alt="Noiz Music" />
+  </a>
+  
+  <a href="https://github.com/Dev-Sahad/portfolio-v1" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-V1-181717?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+-----
+
 ## 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Dev-Sahad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Dev--Sahad-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -56,11 +82,10 @@
   </a>
 </p>
 
-
 -----
 
 <p align="center">
   <sub>Built with ❤️ by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Bot Developer & Open Source Builder</sub>
 </p>
- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:c084fc" alt="Footer Banner"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=1000&section=footer&color=0:0f172a,50:7c3aed,100:c084fc" alt="Footer Banner"/>
