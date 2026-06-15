@@ -1,9 +1,18 @@
 # Muhammad Sahad | Dev-Sahad
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A1428,1E2A44,00BFFF&height=280&section=header&text=&desc=&fontColor=transparent" alt="Background" style="border-radius: 15px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=47&duration=3400&pause=1600&color=00E5FF&center=true&vCenter=true&width=900&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" alt="Typing Animation" style="margin-top: -160px; position: relative; z-index: 2;" />
+  <!-- Animated Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F2C,003366,00BFFF&height=280&section=header&text=" alt="bg" />
+  
+  <!-- Typing Text -->
+  <div style="margin-top: -165px; position: relative; z-index: 2;">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=46&duration=3400&pause=1400&color=00F0FF&center=true&vCenter=true&width=920&lines=Passion+Meets+Persistence;Building+Since+2020;6%2B+Years+of+Relentless+Journey" 
+         alt="Journey" 
+         style="filter: drop-shadow(0 0 18px #00F0FF) drop-shadow(0 0 35px #00BFFF);"/>
+  </div>
 </div>
+
+<br><br>
 
 ## The Long Road: My Complete Development Journey
 
