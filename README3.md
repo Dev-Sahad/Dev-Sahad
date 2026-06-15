@@ -125,6 +125,8 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 ---
 
+---
+
 ## Featured Projects
 
 <div align="center">
@@ -133,15 +135,45 @@ The entire journey spans over six years of self-learning and growth. Every line 
 
 <div align="center">
 
-| Project | View | Type | Description |
-|---|---|---|---|
-| **MINNAL BOT** | [📄 GitHub](https://github.com/Dev-Sahad/MINNAL-BOT) | Discord Bot | 50+ slash commands, economy, leveling, music player, admin panel & web dashboard |
-| **GODZILLA BOT** | [📄 GitHub](https://github.com/Dev-Sahad/Godzilla) | Telegram Bot | Powerful Telegram media downloader with database, admin panel, batch downloads |
-| **Noiz** | [📄 GitHub](https://github.com/Dev-Sahad/Noiz) | Music App | Full-stack music streaming with intuitive UI, optimized audio & custom playlists |
-| **SHA-MOVIES-BOT** | [📄 GitHub](https://github.com/Dev-Sahad/SHA-MOVIES-BOT) | Telegram Bot | Movie search bot with trending, genres, trailers, watchlist & web dashboard |
-| **portfolio-v1** | [📄 GitHub](https://github.com/Dev-Sahad/portfolio-v1) | Portfolio | Next.js 13 portfolio with 3D hero, animations, comments & secure admin dashboard |
-| **BioLink** | [📄 GitHub](https://github.com/Dev-Sahad/BioLink) | Bio Link | Premium bio-link with animated themes, music, gallery, analytics & OAuth login |
-| **SAHAD_AI v2.5** | [📄 GitHub](https://github.com/Dev-Sahad/Sahad-Ai-v2.5) | AI Platform | AI dev workspace with Gemini 2.0 Flash, multimodal vision & cyberpunk UI |
+### ⚡ MINNAL BOT
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/MINNAL-BOT)
+**Discord Bot** • 50+ slash commands, economy & leveling system, auto XP, daily/weekly rewards, giveaway, music player, reaction roles, birthday announcements, auto-moderation, welcome/goodbye messages, web admin panel, real-time bot status, daily admin reports
+
+---
+
+### 🦖 GODZILLA BOT v3.0.0
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Godzilla)
+**Telegram Bot** • Powerful media downloader with database, admin panel, referrals, favorites, batch downloads, quality selector, and Discord integration
+
+---
+
+### 🎵 Noiz
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Noiz)
+**Music Streaming App** • Modern full-stack music app with intuitive UI, optimized audio rendering, custom playlists, and scalable production-ready architecture
+
+---
+
+### 🎬 SHA-MOVIES-BOT
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/SHA-MOVIES-BOT)
+**Telegram Movie Bot** • Movie search by title, trending movies, browse by 12 genres, YouTube trailers, cast info, MongoDB watchlist, inline mode, admin panel, Flask web dashboard
+
+---
+
+### 💼 portfolio-v1
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/portfolio-v1)
+**Next.js Portfolio** • Built with Next.js 13 App Router, 3D interactive hero, smooth animations, live comments system, secure admin dashboard, dark minimal aesthetic, fast & smooth
+
+---
+
+### 🔗 BioLink Premium
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/BioLink)
+**Bio Link Platform** • Premium guns.lol-style bio pages with animated themes, music, video, gallery, analytics, 8 themes, drag & drop builder, QR codes, OAuth login, admin panel, particle effects
+
+---
+
+### ⚡ SAHAD_AI v2.5
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad/Sahad-Ai-v2.5)
+**AI Development Workspace** • AI-powered full-stack platform with Gemini 2.0 Flash, multimodal vision analysis, JWT authentication, real-time AI responses, cloud deployment, cyberpunk UI
 
 </div>
 
