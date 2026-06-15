@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Sahad%20Sha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Builder&descAlignY=60" alt="Sahad Sa Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Sahad%20Sha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Builder&descAlignY=60" alt="Sahad Sha Banner"/>
 </div>
 
 <div align="center">
