@@ -265,24 +265,24 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:3b82f6,50:1e3a8a&text=6+%2B&fontSize=56&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Years%20Learning&descAlignY=75" alt="6+ Years"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:3b82f6,50:1e3a8a&text=6+%2B&fontSize=80&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Years%20Learning&descAlignY=75" alt="6+ Years"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:10b981,50:047857&text=7&fontSize=56&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Projects%20Built&descAlignY=75" alt="7 Projects"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:10b981,50:047857&text=7&fontSize=80&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Projects%20Built&descAlignY=75" alt="7 Projects"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:f59e0b,50:b45309&text=20+%2B&fontSize=56&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Technologies&descAlignY=75" alt="20+ Technologies"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:f59e0b,50:b45309&text=20+%2B&fontSize=80&fontColor=ffffff&animation=countUp&fontAlignY=45&desc=Technologies&descAlignY=75" alt="20+ Technologies"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:8b5cf6,50:5b21b6&text=✓&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Open%20Source&descAlignY=75" alt="Open Source"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:8b5cf6,50:5b21b6&text=✓&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Open%20Source&descAlignY=75" alt="Open Source"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:ec4899,50:be185d&text=✓&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Bot%20Developer&descAlignY=75" alt="Bot Developer"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:ec4899,50:be185d&text=✓&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Bot%20Developer&descAlignY=75" alt="Bot Developer"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=250&color=0:06b6d4,50:0e7490&text=✓&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Collaborator&descAlignY=75" alt="Collaborator"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=350&color=0:06b6d4,50:0e7490&text=✓&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Collaborator&descAlignY=75" alt="Collaborator"/>
       </td>
     </tr>
   </table>
