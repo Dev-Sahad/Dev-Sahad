@@ -44,7 +44,7 @@
     </a>
   </td>
   <td>
-    <a href="https://discord.com/users/853166408212807701" target="_blank">!              𝑺   𝒙   𝑫  </&gt;</a>
+    <a href="https://discord.com/users/853166408212807701" target="_blank">!              𝑺   𝒙   𝑫  <span style="font-family: 'Courier New', monospace; font-size: 20px; color: #5865F2;">&lt;/&gt;</span></a>
   </td>
 </tr>
     <tr>
