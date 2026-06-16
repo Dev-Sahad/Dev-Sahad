@@ -257,32 +257,30 @@
 
 ## 🏆 Key Achievements
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Achievements Banner"/>
-</div>
+<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #f59e0b, #8b5cf6, #ec4899); padding: 20px; border-radius: 10px; font-size: 40px;">ACHIEVEMENTS</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/6%2B_Years_Learning-3b82f6?style=for-the-badge&logo=year&logoColor=white&labelColor=1e3a8a" alt="6+ Years"/>
+        <img src="https://img.shields.io/badge/6%2B_Years_Learning-3b82f6?style=for-the-badge" alt="6+ Years"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/7_Projects_Built-10b981?style=for-the-badge&logo=check&logoColor=white&labelColor=047857" alt="7 Projects"/>
+        <img src="https://img.shields.io/badge/7_Projects_Built-10b981?style=for-the-badge" alt="7 Projects"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/20%2B_Technologies-f59e0b?style=for-the-badge&logo=code&logoColor=white&labelColor=b45309" alt="20+ Technologies"/>
+        <img src="https://img.shields.io/badge/20%2B_Technologies-f59e0b?style=for-the-badge" alt="20+ Technologies"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source_Contributor-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=5b21b6" alt="Open Source"/>
+        <img src="https://img.shields.io/badge/Open_Source_Contributor-8b5cf6?style=for-the-badge" alt="Open Source"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Bot_Developer_ec4899?style=for-the-badge&logo=discord&logoColor=white&labelColor=be185d" alt="Bot Developer"/>
+        <img src="https://img.shields.io/badge/Bot_Developer-ec4899?style=for-the-badge" alt="Bot Developer"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Collaborator-06b6d4?style=for-the-badge&logo=team&logoColor=white&labelColor=0e7490" alt="Collaborator"/>
+        <img src="https://img.shields.io/badge/Collaborator-06b6d4?style=for-the-badge" alt="Collaborator"/>
       </td>
     </tr>
   </table>
