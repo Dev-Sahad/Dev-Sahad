@@ -1,197 +1,396 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:3b82f6,100:1e3a8a&text=SAHAD%20SHA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20System%20Architect%20%7C%20Bot%20Developer%20%7C%20Web%20Designer&descAlignY=60" alt="Sahad Sha CV Banner"/>
+  <svg width="1000" height="300" viewBox="0 0 1000 300">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="300" fill="url(#grad1)"/>
+    <text x="500" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">SAHAD SHA</text>
+    <text x="500" y="170" font-family="Arial, sans-serif" font-size="32" fill="#cbd5e1" text-anchor="middle">Junior Developer · Bot Architect · AI Engineer</text>
+    <text x="500" y="220" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8" text-anchor="middle">Building the Future with Code · 6+ Years of Growth</text>
+  </svg>
 </div>
 
-# 👨‍💻 Sahad Sha (Dev-Sahad)
-> **Junior Developer · System Architect · Bot Developer · Web Designer**
+# 📬 Contact Information
 
-📍 **Location:** Not specified (Open to Remote)  
-📧 **Email:** Not specified  
-🔗 **GitHub:** [Dev-Sahad](https://github.com/Dev-Sahad)  
-💼 **LinkedIn:** [Muhammad Sahad](https://www.linkedin.com/in/muhammad-sahad-78b827352)  
-📱 **Discord:** 853166408212807701  
-📸 **Instagram:** [sahad_____sha](https://instagram.com/sahad_____sha)  
-✈️ **Telegram:** [@Sxhd_Sha](https://t.me/Sxhd_Sha)
+| Icon | Field | Value |
+|---|---|---|
+| 🌐 | **GitHub** | [Dev-Sahad](https://github.com/Dev-Sahad) |
+| 💼 | **LinkedIn** | [Muhammad Sahad](https://www.linkedin.com/in/muhammad-sahad-78b827352) |
+| 🎮 | **Discord** | [853166408212807701](https://discord.com/users/853166408212807701) |
+| 📸 | **Instagram** | [@sahad_____sha](https://instagram.com/sahad_____sha) |
+| ✈️ | **Telegram** | [@Sxhd_Sha](https://t.me/Sxhd_Sha) |
 
------
+---
 
-## 📋 Professional Summary
+## 🎯 Professional Summary
 
-**Junior Developer** with **6+ years of self-learning experience** specializing in bot development, web development, AI automation, and system architecture. Passionate about building automation tools that power real communities 24/7.
+<div align="center">
+  <svg width="900" height="80" viewBox="0 0 900 80">
+    <rect width="900" height="80" rx="10" fill="#f1f5f9"/>
+    <text x="450" y="45" font-family="Arial, sans-serif" font-size="22" fill="#1e293b" text-anchor="middle">
+      Junior Developer with 6+ years of self-learning · Built 7 production projects
+    </text>
+  </svg>
+</div>
 
-**Key Strengths:**
-- 🤖 Discord & Telegram Bot Development
-- 🌐 Full-Stack Web Development (React, Next.js)
-- 🧠 AI & Automation (Python, Node.js)
-- 🏗️ Scalable System Architecture
-- 🎨 UI/UX Design & Implementation
+**Junior Developer** with **6+ years of self-learning experience** specializing in bot development, web development, AI automation, and system architecture. Built **7 production-ready projects** including live Discord bots and Next.js applications. Passionate about building automation tools that power real communities 24/7.
 
------
+---
 
-## 🎯 Technical Skills
+## 🛠️ Technical Skills
+
+<div align="center">
+  <svg width="900" height="60" viewBox="0 0 900 60">
+    <rect width="900" height="60" rx="8" fill="#1e293b"/>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#00ff88" text-anchor="middle">TECHNICAL SKILLS</text>
+  </svg>
+</div>
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-</p>
+<div align="center">
+  <svg width="800" height="50" viewBox="0 0 800 50">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#3776AB"/>
+    <text x="80" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Python</text>
+    <rect x="160" y="0" width="160" height="50" rx="6" fill="#F7DF1E"/>
+    <text x="240" y="30" font-family="Arial" font-size="16" fill="black" text-anchor="middle">JavaScript</text>
+    <rect x="320" y="0" width="160" height="50" rx="6" fill="#3178C6"/>
+    <text x="400" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">TypeScript</text>
+    <rect x="480" y="0" width="160" height="50" rx="6" fill="#339933"/>
+    <text x="560" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Node.js</text>
+    <rect x="640" y="0" width="160" height="50" rx="6" fill="#E76F00"/>
+    <text x="720" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Java</text>
+  </svg>
+</div>
 
 ### 🌐 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<div align="center">
+  <svg width="800" height="50" viewBox="0 0 800 50">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#E34F26"/>
+    <text x="80" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">HTML5</text>
+    <rect x="160" y="0" width="160" height="50" rx="6" fill="#1572B6"/>
+    <text x="240" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">CSS3</text>
+    <rect x="320" y="0" width="160" height="50" rx="6" fill="#61DAFB"/>
+    <text x="400" y="30" font-family="Arial" font-size="16" fill="black" text-anchor="middle">React</text>
+    <rect x="480" y="0" width="160" height="50" rx="6" fill="#000000"/>
+    <text x="560" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Next.js</text>
+    <rect x="640" y="0" width="160" height="50" rx="6" fill="#06B6D4"/>
+    <text x="720" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Tailwind</text>
+  </svg>
+</div>
 
 ### 🗄️ Backend & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<div align="center">
+  <svg width="800" height="50" viewBox="0 0 800 50">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#000000"/>
+    <text x="80" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Express</text>
+    <rect x="160" y="0" width="160" height="50" rx="6" fill="#4DB33D"/>
+    <text x="240" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">MongoDB</text>
+    <rect x="320" y="0" width="160" height="50" rx="6" fill="#3ECF8E"/>
+    <text x="400" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Supabase</text>
+    <rect x="480" y="0" width="160" height="50" rx="6" fill="#FFCA28"/>
+    <text x="560" y="30" font-family="Arial" font-size="16" fill="black" text-anchor="middle">Firebase</text>
+  </svg>
+</div>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/discord.py-4578DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py" />
-  <img src="https://img.shields.io/badge/Baileys_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
-</p>
+<div align="center">
+  <svg width="800" height="50" viewBox="0 0 800 50">
+    <rect x="0" y="0" width="160" height="50" rx="6" fill="#F05032"/>
+    <text x="80" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Git</text>
+    <rect x="160" y="0" width="160" height="50" rx="6" fill="#181717"/>
+    <text x="240" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">GitHub</text>
+    <rect x="320" y="0" width="160" height="50" rx="6" fill="#007ACC"/>
+    <text x="400" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">VS Code</text>
+    <rect x="480" y="0" width="160" height="50" rx="6" fill="#FCC624"/>
+    <text x="560" y="30" font-family="Arial" font-size="16" fill="black" text-anchor="middle">Linux</text>
+    <rect x="640" y="0" width="160" height="50" rx="6" fill="#5865F2"/>
+    <text x="720" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Discord</text>
+  </svg>
+</div>
 
------
+---
 
-## 🚀 Featured Projects
+## 🚀 Projects Portfolio
 
-### ✅ Live Projects
+<div align="center">
+  <svg width="900" height="60" viewBox="0 0 900 60">
+    <rect width="900" height="60" rx="8" fill="#3b82f6"/>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">PROJECT PORTFOLIO</text>
+  </svg>
+</div>
 
-| Project | Type | Description | Link |
+### ✅ LIVE Projects (Production)
+
+| Project | Type | Key Features | Status |
 |---|---|---|---|
-| **MINNAL BOT** | Discord Bot | 50+ slash commands, economy, leveling, music player, admin panel | [View](https://github.com/Dev-Sahad/MINNAL-BOT) |
-| **PORTFOLIO-V1** | Next.js Website | 3D hero, smooth animations, comments system, admin dashboard | [View](https://github.com/Dev-Sahad/portfolio-v1) |
+| **MINNAL BOT** | Discord Bot | 50+ commands, economy, leveling, music, admin panel | 🟢 LIVE |
+| **PORTFOLIO-V1** | Next.js Website | 3D hero, animations, comments system, admin dashboard | 🟢 LIVE |
 
-### 🚧 In Development
+### 🚧 Active Development
 
-| Project | Type | Description | Status |
+<div align="center">
+  <svg width="850" height="40" viewBox="0 0 850 40">
+    <rect width="850" height="40" rx="6" fill="#fbbf24"/>
+    <text x="425" y="25" font-family="Arial" font-size="18" font-weight="bold" fill="#7c2d12" text-anchor="middle">IN DEVELOPMENT</text>
+  </svg>
+</div>
+
+| Project | Type | Key Features | Progress |
 |---|---|---|---|
-| **GODZILLA BOT** | Telegram Bot | Media downloader, database, admin panel, batch downloads | CODING |
-| **SHA-MOVIES-BOT** | Telegram Bot | Movie search, trending, genres, trailers, watchlist | CODING |
+| **GODZILLA BOT** | Telegram Bot | Media downloader, database, admin panel, batch downloads | 🟡 CODING |
+| **SHA-MOVIES-BOT** | Telegram Bot | Movie search, trending, genres, trailers, watchlist | 🟡 CODING |
 
 ### 🔬 Testing Phase
 
-| Project | Type | Description | Status |
-|---|---|---|---|
-| **Noiz** | Music Streaming | Full-stack app, intuitive UI, optimized audio, playlists | TESTING |
-| **BIOLINK** | Bio Link Platform | Animated themes, music, analytics, OAuth, QR codes | TESTING |
-| **SAHAD-AI-V2.5** | AI Workspace | Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI | TESTING |
-
------
-
-## 🗺️ Experience Timeline
-
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2020-Starting-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="280" />
-      <br><br>
-      <strong>2020</strong>
-      <br>Started self-learning during pandemic
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2023-Foundation-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="280" />
-      <br><br>
-      <strong>2023</strong>
-      <br>Web Development course completed
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2024-First+Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="280" />
-      <br><br>
-      <strong>2024</strong>
-      <br>Built WhatsApp clone (first major project)
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2025-Expansion-000000?style=for-the-badge&logo=xbox&logoColor=white" width="280" />
-      <br><br>
-      <strong>2025</strong>
-      <br>Bots, FiveM, collaboration projects
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/2026-Growth-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" width="580" />
-      <br><br>
-      <strong>2026</strong>
-      <br>Building scalable systems & AI tools
-    </td>
-  </tr>
-</table>
-
+  <svg width="850" height="40" viewBox="0 0 850 40">
+    <rect width="850" height="40" rx="6" fill="#06b6d4"/>
+    <text x="425" y="25" font-family="Arial" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">TESTING</text>
+  </svg>
 </div>
 
------
+| Project | Type | Key Features | Phase |
+|---|---|---|---|
+| **Noiz** | Music Streaming | Full-stack app, intuitive UI, optimized audio, playlists | 🔵 TESTING |
+| **BIOLINK** | Bio Link Platform | Animated themes, music, analytics, OAuth, QR codes | 🔵 TESTING |
+| **SAHAD-AI** | AI Workspace | Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI | 🔵 TESTING |
+
+---
+
+## 🗺️ Career Timeline
+
+<div align="center">
+  <svg width="900" height="60" viewBox="0 0 900 60">
+    <rect width="900" height="60" rx="8" fill="#10b981"/>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">CAREER TIMELINE</text>
+  </svg>
+</div>
+
+<div align="center">
+  <svg width="900" height="280" viewBox="0 0 900 280">
+    <!-- 2020 -->
+    <circle cx="100" cy="50" r="30" fill="#3b82f6"/>
+    <text x="100" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">20</text>
+    <text x="100" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">STARTING</text>
+    <line x1="100" y1="80" x2="250" y2="80" stroke="#3b82f6" stroke-width="3"/>
+    
+    <!-- 2023 -->
+    <circle cx="300" cy="50" r="30" fill="#3b82f6"/>
+    <text x="300" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">23</text>
+    <text x="300" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">FOUNDATION</text>
+    <line x1="300" y1="80" x2="450" y2="80" stroke="#3b82f6" stroke-width="3"/>
+    
+    <!-- 2024 -->
+    <circle cx="500" cy="50" r="30" fill="#3b82f6"/>
+    <text x="500" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">24</text>
+    <text x="500" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">FIRST PROJECT</text>
+    <line x1="500" y1="80" x2="650" y2="80" stroke="#3b82f6" stroke-width="3"/>
+    
+    <!-- 2025 -->
+    <circle cx="700" cy="50" r="30" fill="#3b82f6"/>
+    <text x="700" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">25</text>
+    <text x="700" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">EXPANSION</text>
+    
+    <!-- 2026 -->
+    <circle cx="300" cy="180" r="30" fill="#10b981"/>
+    <text x="300" y="185" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">26</text>
+    <text x="300" y="220" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">GROWTH</text>
+    <text x="300" y="245" font-family="Arial" font-size="12" fill="#d1fae5" text-anchor="middle">Scalable systems + AI</text>
+  </svg>
+</div>
+
+---
 
 ## 🏆 Key Achievements
 
-✅ **6+ Years** of continuous self-learning  
-✅ **7 Projects** built (2 LIVE, 2 CODING, 3 TESTING)  
-✅ **20+ Technologies** mastered  
-✅ **Open Source Contributor**  
-✅ **Bot Developer** for active communities  
-✅ **Collaborated** with [@devkrish](https://github.com/Krishnanunni77) on FiveM server  
+<div align="center">
+  <svg width="900" height="60" viewBox="0 0 900 60">
+    <rect width="900" height="60" rx="8" fill="#f59e0b"/>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">ACHIEVEMENTS</text>
+  </svg>
+</div>
 
------
+<div align="center">
+  <svg width="850" height="200" viewBox="0 0 850 200">
+    <!-- Achievement 1 -->
+    <rect x="20" y="20" width="260" height="60" rx="8" fill="#3b82f6"/>
+    <text x="150" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">6+</text>
+    <text x="150" y="75" font-family="Arial" font-size="16" fill="#dbeafe" text-anchor="middle">Years Self-Learning</text>
+    
+    <!-- Achievement 2 -->
+    <rect x="295" y="20" width="260" height="60" rx="8" fill="#10b981"/>
+    <text x="425" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">7</text>
+    <text x="425" y="75" font-family="Arial" font-size="16" fill="#d1fae5" text-anchor="middle">Projects Built</text>
+    
+    <!-- Achievement 3 -->
+    <rect x="570" y="20" width="260" height="60" rx="8" fill="#f59e0b"/>
+    <text x="700" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">20+</text>
+    <text x="700" y="75" font-family="Arial" font-size="16" fill="#fef3c7" text-anchor="middle">Technologies</text>
+    
+    <!-- Achievement 4 -->
+    <rect x="20" y="100" width="260" height="60" rx="8" fill="#8b5cf6"/>
+    <text x="150" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Open Source</text>
+    <text x="150" y="150" font-family="Arial" font-size="14" fill="#ede9fe" text-anchor="middle">Contributor</text>
+    
+    <!-- Achievement 5 -->
+    <rect x="295" y="100" width="260" height="60" rx="8" fill="#ec4899"/>
+    <text x="425" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Bot Developer</text>
+    <text x="425" y="150" font-family="Arial" font-size="14" fill="#fce7f3" text-anchor="middle">For Communities</text>
+    
+    <!-- Achievement 6 -->
+    <rect x="570" y="100" width="260" height="60" rx="8" fill="#06b6d4"/>
+    <text x="700" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Collaborator</text>
+    <text x="700" y="150" font-family="Arial" font-size="14" fill="#e0f2fe" text-anchor="middle">FiveM Server</text>
+  </svg>
+</div>
+
+---
 
 ## 🎓 Education
 
-**Self-Learned Developer** (2020 - Present)  
-- YouTube tutorials & documentation
-- Online Web Development course (2023)
-- Hands-on project development
-- Community collaboration & code review
+<div align="center">
+  <svg width="900" height="60" viewBox="0 0 900 60">
+    <rect width="900" height="60" rx="8" fill="#6366f1"/>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">EDUCATION & CERTIFICATIONS</text>
+  </svg>
+</div>
 
------
+### 📜 Self-Taught Developer Program
 
-## 💬 Let's Connect
+**Independent Study** | 2020 – Present  
+*Self-Directed Software Development Curriculum*
+
+| Component | Description | Duration |
+|---|---|---|
+| **🎥 Online Video Courses** | YouTube tutorials, official documentation, tech channel courses | 2020 – Present |
+| **💻 Web Development Certification** | Completed comprehensive Online Web Development course | 2023 |
+| **🛠️ Project-Based Learning** | Hands-on development of 7 production-ready applications | 2024 – Present |
+| **🤝 Community Collaboration** | Open source contributions, code review, peer collaboration | 2025 – Present |
+
+---
+
+### 📚 Technical Competencies Acquired
+
+<div align="center">
+  <svg width="850" height="180" viewBox="0 0 850 180">
+    <!-- Backend -->
+    <rect x="20" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
+    <text x="150" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#3b82f6" text-anchor="middle">BACKEND</text>
+    <text x="150" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Python, Node.js, Express</text>
+    <text x="150" y="105" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• MongoDB, Supabase, Firebase</text>
+    <text x="150" y="130" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• REST APIs, JWT Auth</text>
+    <text x="150" y="155" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• System Architecture</text>
+    
+    <!-- Frontend -->
+    <rect x="295" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
+    <text x="425" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#10b981" text-anchor="middle">FRONTEND</text>
+    <text x="425" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• HTML5, CSS3, JavaScript</text>
+    <text x="425" y="105" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• React, Next.js 13</text>
+    <text x="425" y="130" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Tailwind CSS, Figma</text>
+    <text x="425" y="155" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• UI/UX Design</text>
+    
+    <!-- Tools -->
+    <rect x="570" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
+    <text x="700" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#f59e0b" text-anchor="middle">TOOLS</text>
+    <text x="700" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Git, GitHub, VS Code</text>
+    <text x="700" y="105" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Linux, Discord.py</text>
+    <text x="700" y="130" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Baileys (WhatsApp)</text>
+    <text x="700" y="155" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• AI Integration</text>
+  </svg>
+</div>
+
+---
+
+### 🏅 Professional Development
+
+- **Continuous Learning:** 6+ years of dedicated self-study in software development
+- **Practical Application:** Built 7 production-ready projects (2 LIVE, 2 IN DEVELOPMENT, 3 TESTING)
+- **Open Source:** Active contributor to GitHub community
+- **Collaboration:** Partnered on FiveM server development with [@devkrish](https://github.com/Krishnanunni77)
+
+---
+
+<div align="center">
+  <svg width="850" height="60" viewBox="0 0 850 60">
+    <rect width="850" height="60" rx="8" fill="#f1f5f9"/>
+    <text x="425" y="35" font-family="Arial" font-size="16" fill="#64748b" text-anchor="middle">
+      ⚡ Equipped with industry-standard development skills through comprehensive self-directed learning
+    </text>
+  </svg>
+</div>
+
+---
+
+## 🤝 Open to Opportunities
+
+<div align="center">
+  <svg width="900" height="100" viewBox="0 0 900 100">
+    <rect width="900" height="100" rx="8" fill="#1e293b"/>
+    <text x="450" y="30" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00ff88" text-anchor="middle">SEEKING OPPORTUNITIES</text>
+    
+    <!-- Opportunity 1 -->
+    <rect x="50" y="50" width="180" height="40" rx="6" fill="#3b82f6"/>
+    <text x="140" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">💼 Remote Work</text>
+    
+    <!-- Opportunity 2 -->
+    <rect x="250" y="50" width="180" height="40" rx="6" fill="#10b981"/>
+    <text x="340" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">🤝 Collaboration</text>
+    
+    <!-- Opportunity 3 -->
+    <rect x="450" y="50" width="180" height="40" rx="6" fill="#f59e0b"/>
+    <text x="540" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">🎯 Freelance</text>
+    
+    <!-- Opportunity 4 -->
+    <rect x="650" y="50" width="180" height="40" rx="6" fill="#8b5cf6"/>
+    <text x="740" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">💡 Innovation</text>
+  </svg>
+</div>
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+  <svg width="700" height="70" viewBox="0 0 700 70">
+    <rect x="0" y="0" width="130" height="70" rx="8" fill="#181717"/>
+    <text x="65" y="45" font-family="Arial" font-size="35" fill="white" text-anchor="middle">🌐</text>
+    
+    <rect x="130" y="0" width="130" height="70" rx="8" fill="#0A66C2"/>
+    <text x="195" y="45" font-family="Arial" font-size="35" fill="white" text-anchor="middle">💼</text>
+    
+    <rect x="260" y="0" width="130" height="70" rx="8" fill="#5865F2"/>
+    <text x="325" y="45" font-family="Arial" font-size="35" fill="white" text-anchor="middle">🎮</text>
+    
+    <rect x="390" y="0" width="130" height="70" rx="8" fill="#E4405F"/>
+    <text x="455" y="45" font-family="Arial" font-size="35" fill="white" text-anchor="middle">📸</text>
+    
+    <rect x="520" y="0" width="130" height="70" rx="8" fill="#2CA5E0"/>
+    <text x="585" y="45" font-family="Arial" font-size="35" fill="white" text-anchor="middle">✈️</text>
+  </svg>
+</div>
+
+---
 
 <p align="center">
-  <a href="https://github.com/Dev-Sahad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://discord.com/users/853166408212807701" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <a href="https://instagram.com/sahad_____sha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="https://t.me/Sxhd_Sha" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <sub>📄 Professional CV with SVG graphics by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
 </p>
 
------
-
-<p align="center">
-  <sub>📄 Professional CV created by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Collaboration & Remote Work</sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a" alt="Footer Banner"/>
+<div align="center">
+  <svg width="1000" height="100" viewBox="0 0 1000 100">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="100" fill="url(#grad2)"/>
+    <text x="500" y="55" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle">
+      Last Updated: June 2026 · Available for: Remote Work | Collaboration | Freelance
+    </text>
+  </svg>
+</div>
