@@ -226,11 +226,11 @@
 
 | Year | Milestone | Description |
 |:---:|:---:|:---|
-| **2020** | 🎬 Starting | Started self-learning during pandemic (YouTube tutorials) |
-| **2023** | 📚 Foundation | Completed Web Development course (HTML, CSS, JS, Backend) |
-| **2024** | 🛠️ First Project | Built first major project (WhatsApp clone) |
-| **2025** | 🚀 Expansion | Bots + FiveM + Collaboration projects |
-| **2026** | ⚡ Growth | Building scalable systems + AI tools |
+| **2020** | <img src="https://img.shields.io/badge/Starting-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Starting"/> | Started self-learning during pandemic (YouTube tutorials) |
+| **2023** | <img src="https://img.shields.io/badge/Foundation-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Foundation"/> | Completed Web Development course (HTML, CSS, JS, Backend) |
+| **2024** | <img src="https://img.shields.io/badge/First+Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="First Project"/> | Built first major project (WhatsApp clone) |
+| **2025** | <img src="https://img.shields.io/badge/Expansion-000000?style=for-the-badge&logo=xbox&logoColor=white" alt="Expansion"/> | Bots + FiveM + Collaboration projects |
+| **2026** | <img src="https://img.shields.io/badge/Growth-3B82F6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Growth"/> | Building scalable systems + AI tools |
 
 ---
 
