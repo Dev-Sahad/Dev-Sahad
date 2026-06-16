@@ -374,15 +374,10 @@
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(90deg, #0f172a, #3b82f6, #1e3a8a); padding: 30px; border-radius: 10px; color: white; max-width: 800px;">
-    <h3 style="font-size: 28px; margin: 0;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h3>
-    <p style="font-size: 18px; margin: 15px 0;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/Dev-Sahad" style="color: #3b82f6; text-decoration: none;">GitHub</a>
-      <span style="margin: 0 10px;">•</span>
-      <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" style="color: #3b82f6; text-decoration: none;">LinkedIn</a>
-      <span style="margin: 0 10px;">•</span>
-      <a href="https://discord.com/users/853166408212807701" style="color: #3b82f6; text-decoration: none;">Discord</a>
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/Professional_CV_by_Dev-Sahad-0f172a?style=for-the-badge&logo=github&logoColor=00ff88" alt="Footer"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Available_for_Remote_Work-3b82f6?style=for-the-badge&logoColor=white" alt="Remote Work"/>
+  <img src="https://img.shields.io/badge/Collaboration-10b981?style=for-the-badge&logoColor=white" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/Freelance-f59e0b?style=for-the-badge&logoColor=white" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/Innovation-8b5cf6?style=for-the-badge&logoColor=white" alt="Innovation"/>
 </div>
