@@ -54,7 +54,7 @@
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/sahad_____sha" target="_blank">@sahad_____sha</a>
+        <a href="https://instagram.com/sahad_____sha" target="_blank">Sahad Sha 🇦🇪</a>
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
         </a>
       </td>
       <td>
-        <a href="https://t.me/Sxhd_Sha" target="_blank">@Sxhd_Sha</a>
+        <a href="https://t.me/Sxhd_Sha" target="_blank">Sxhd Sha</a>
       </td>
     </tr>
   </table>
