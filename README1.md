@@ -282,10 +282,10 @@
 
 | Component | Description | Duration |
 |:---:|:---|:---:|
-| 🎥 | **Online Video Courses** - YouTube tutorials, official documentation | 2020 – Present |
-| 💻 | **Web Development Certification** - Comprehensive online course | 2023 |
-| 🛠️ | **Project-Based Learning** - 7 production-ready applications | 2024 – Present |
-| 🤝 | **Community Collaboration** - Open source, code review | 2025 – Present |
+| <img src="https://img.shields.io/badge/Online+Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Online Courses"/> | **Online Video Courses** - YouTube tutorials, official documentation | 2020 – Present |
+| <img src="https://img.shields.io/badge/Certification-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Certification"/> | **Web Development Certification** - Comprehensive online course | 2023 |
+| <img src="https://img.shields.io/badge/Project+Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Project Learning"/> | **Project-Based Learning** - 7 production-ready applications | 2024 – Present |
+| <img src="https://img.shields.io/badge/Collaboration-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Collaboration"/> | **Community Collaboration** - Open source, code review | 2025 – Present |
 
 ### 📚 Technical Competencies
 
