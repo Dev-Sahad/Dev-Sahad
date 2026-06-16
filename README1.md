@@ -302,7 +302,7 @@
 | Component | Description | Duration |
 |:---:|:---|:---:|
 | <img src="https://img.shields.io/badge/YouTube-FF0000?style=round&logo=youtube&logoColor=white" width="140" alt="YouTube"/> | **Online Video Courses** - YouTube tutorials, official documentation | 2020 – Present |
-| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="140" alt="VS Code"/> | **Web Development Certification** - Comprehensive online course | 2023 |
+| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> | **Web Development Certification** - Comprehensive online course | 2023 |
 | <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" width="140" alt="Node.js"/> | **Project-Based Learning** - 7 production-ready applications | 2024 – Present |
 | <img src="https://img.shields.io/badge/Discord-5865F2?style=for-you&logo=discord&logoColor=white" width="140" alt="Discord"/> | **Community Collaboration** - Open source, code review | 2025 – Present |
 
