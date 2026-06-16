@@ -44,7 +44,7 @@
         </a>
       </td>
       <td>
-        <a href="https://discord.com/users/853166408212807701" target="_blank">853166408212807701</a>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">sxhd_sha</a>
       </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@
 ## 🎯 Professional Summary
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?src=Junior%20Developer%20with%206%2B%20years%20of%20self-learning%20%7C%20Built%207%20production%20projects&color=3b82f6&width=890&height=60" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&width=890&color=3b82f6&text=Junior%20Developer%20with%206%2B%20years%20of%20self-learning%20%7C%20Built%207%20production%20projects&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Summary Banner"/>
 </div>
 
 **Junior Developer** with **6+ years of self-learning experience** specializing in:
