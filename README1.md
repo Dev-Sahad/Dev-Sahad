@@ -373,6 +373,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Last%20Updated:%20June%202026&fontSize=18&fontColor=cbd5e1&animation=fadeIn&fontAlignY=50" alt="Footer"/>
 </div>
 
-<p align="center">
-  <sub>📄 Professional CV by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=75&rectAngle=10" alt="Footer Banner"/>
+</div>
