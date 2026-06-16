@@ -20,7 +20,7 @@
 |---|---|---|
 | 🌐 | **GitHub** | [Dev-Sahad](https://github.com/Dev-Sahad) |
 | 💼 | **LinkedIn** | [Muhammad Sahad](https://www.linkedin.com/in/muhammad-sahad-78b827352) |
-| 🎮 | **Discord** | [853166408212807701](https://discord.com/users/853166408212807701) |
+| 🎮 | **Discord** | [sxhd_sha](https://discord.com/users/853166408212807701) |
 | 📸 | **Instagram** | [@sahad_____sha](https://instagram.com/sahad_____sha) |
 | ✈️ | **Telegram** | [@Sxhd_Sha](https://t.me/Sxhd_Sha) |
 
@@ -172,30 +172,25 @@
 
 <div align="center">
   <svg width="900" height="280" viewBox="0 0 900 280">
-    <!-- 2020 -->
     <circle cx="100" cy="50" r="30" fill="#3b82f6"/>
     <text x="100" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">20</text>
     <text x="100" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">STARTING</text>
     <line x1="100" y1="80" x2="250" y2="80" stroke="#3b82f6" stroke-width="3"/>
     
-    <!-- 2023 -->
     <circle cx="300" cy="50" r="30" fill="#3b82f6"/>
     <text x="300" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">23</text>
     <text x="300" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">FOUNDATION</text>
     <line x1="300" y1="80" x2="450" y2="80" stroke="#3b82f6" stroke-width="3"/>
     
-    <!-- 2024 -->
     <circle cx="500" cy="50" r="30" fill="#3b82f6"/>
     <text x="500" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">24</text>
     <text x="500" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">FIRST PROJECT</text>
     <line x1="500" y1="80" x2="650" y2="80" stroke="#3b82f6" stroke-width="3"/>
     
-    <!-- 2025 -->
     <circle cx="700" cy="50" r="30" fill="#3b82f6"/>
     <text x="700" y="55" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">25</text>
     <text x="700" y="90" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">EXPANSION</text>
     
-    <!-- 2026 -->
     <circle cx="300" cy="180" r="30" fill="#10b981"/>
     <text x="300" y="185" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">26</text>
     <text x="300" y="220" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">GROWTH</text>
@@ -216,32 +211,26 @@
 
 <div align="center">
   <svg width="850" height="200" viewBox="0 0 850 200">
-    <!-- Achievement 1 -->
     <rect x="20" y="20" width="260" height="60" rx="8" fill="#3b82f6"/>
     <text x="150" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">6+</text>
     <text x="150" y="75" font-family="Arial" font-size="16" fill="#dbeafe" text-anchor="middle">Years Self-Learning</text>
     
-    <!-- Achievement 2 -->
     <rect x="295" y="20" width="260" height="60" rx="8" fill="#10b981"/>
     <text x="425" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">7</text>
     <text x="425" y="75" font-family="Arial" font-size="16" fill="#d1fae5" text-anchor="middle">Projects Built</text>
     
-    <!-- Achievement 3 -->
     <rect x="570" y="20" width="260" height="60" rx="8" fill="#f59e0b"/>
     <text x="700" y="45" font-family="Arial" font-size="40" fill="white" text-anchor="middle">20+</text>
     <text x="700" y="75" font-family="Arial" font-size="16" fill="#fef3c7" text-anchor="middle">Technologies</text>
     
-    <!-- Achievement 4 -->
     <rect x="20" y="100" width="260" height="60" rx="8" fill="#8b5cf6"/>
     <text x="150" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Open Source</text>
     <text x="150" y="150" font-family="Arial" font-size="14" fill="#ede9fe" text-anchor="middle">Contributor</text>
     
-    <!-- Achievement 5 -->
     <rect x="295" y="100" width="260" height="60" rx="8" fill="#ec4899"/>
     <text x="425" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Bot Developer</text>
     <text x="425" y="150" font-family="Arial" font-size="14" fill="#fce7f3" text-anchor="middle">For Communities</text>
     
-    <!-- Achievement 6 -->
     <rect x="570" y="100" width="260" height="60" rx="8" fill="#06b6d4"/>
     <text x="700" y="125" font-family="Arial" font-size="20" font-weight="bold" fill="white" text-anchor="middle">✓ Collaborator</text>
     <text x="700" y="150" font-family="Arial" font-size="14" fill="#e0f2fe" text-anchor="middle">FiveM Server</text>
@@ -277,7 +266,6 @@
 
 <div align="center">
   <svg width="850" height="180" viewBox="0 0 850 180">
-    <!-- Backend -->
     <rect x="20" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
     <text x="150" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#3b82f6" text-anchor="middle">BACKEND</text>
     <text x="150" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Python, Node.js, Express</text>
@@ -285,7 +273,6 @@
     <text x="150" y="130" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• REST APIs, JWT Auth</text>
     <text x="150" y="155" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• System Architecture</text>
     
-    <!-- Frontend -->
     <rect x="295" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
     <text x="425" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#10b981" text-anchor="middle">FRONTEND</text>
     <text x="425" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• HTML5, CSS3, JavaScript</text>
@@ -293,7 +280,6 @@
     <text x="425" y="130" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Tailwind CSS, Figma</text>
     <text x="425" y="155" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• UI/UX Design</text>
     
-    <!-- Tools -->
     <rect x="570" y="20" width="260" height="140" rx="8" fill="#1e293b"/>
     <text x="700" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="#f59e0b" text-anchor="middle">TOOLS</text>
     <text x="700" y="80" font-family="Arial" font-size="14" fill="#cbd5e1" text-anchor="middle">• Git, GitHub, VS Code</text>
@@ -332,19 +318,15 @@
     <rect width="900" height="100" rx="8" fill="#1e293b"/>
     <text x="450" y="30" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00ff88" text-anchor="middle">SEEKING OPPORTUNITIES</text>
     
-    <!-- Opportunity 1 -->
     <rect x="50" y="50" width="180" height="40" rx="6" fill="#3b82f6"/>
     <text x="140" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">💼 Remote Work</text>
     
-    <!-- Opportunity 2 -->
     <rect x="250" y="50" width="180" height="40" rx="6" fill="#10b981"/>
     <text x="340" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">🤝 Collaboration</text>
     
-    <!-- Opportunity 3 -->
     <rect x="450" y="50" width="180" height="40" rx="6" fill="#f59e0b"/>
     <text x="540" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">🎯 Freelance</text>
     
-    <!-- Opportunity 4 -->
     <rect x="650" y="50" width="180" height="40" rx="6" fill="#8b5cf6"/>
     <text x="740" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle">💡 Innovation</text>
   </svg>
@@ -380,7 +362,7 @@
 </p>
 
 <div align="center">
-  <svg width="1000" height="100" viewBox="0 0 1000 100">
+  <svg width="1000" height="80" viewBox="0 0 1000 80">
     <defs>
       <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
@@ -388,8 +370,8 @@
         <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <rect width="1000" height="100" fill="url(#grad2)"/>
-    <text x="500" y="55" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle">
+    <rect width="1000" height="80" fill="url(#grad2)"/>
+    <text x="500" y="45" font-family="Arial, sans-serif" font-size="16" fill="#cbd5e1" text-anchor="middle">
       Last Updated: June 2026 · Available for: Remote Work | Collaboration | Freelance
     </text>
   </svg>
