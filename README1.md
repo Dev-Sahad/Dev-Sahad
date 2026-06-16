@@ -16,7 +16,6 @@
     <tr>
       <th>Platform</th>
       <th>Link</th>
-      <th>Icon</th>
     </tr>
     <tr>
       <td>
@@ -26,11 +25,6 @@
       </td>
       <td>
         <a href="https://github.com/Dev-Sahad" target="_blank">Dev-Sahad</a>
-      </td>
-      <td>
-        <a href="https://github.com/Dev-Sahad" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/github.svg" width="32" alt="GitHub"/>
-        </a>
       </td>
     </tr>
     <tr>
@@ -42,11 +36,6 @@
       <td>
         <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">Muhammad Sahad</a>
       </td>
-      <td>
-        <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/linkedin.svg" width="32" alt="LinkedIn"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -56,11 +45,6 @@
       </td>
       <td>
         <a href="https://discord.com/users/853166408212807701" target="_blank">853166408212807701</a>
-      </td>
-      <td>
-        <a href="https://discord.com/users/853166408212807701" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/discord.svg" width="32" alt="Discord"/>
-        </a>
       </td>
     </tr>
     <tr>
@@ -72,11 +56,6 @@
       <td>
         <a href="https://instagram.com/sahad_____sha" target="_blank">@sahad_____sha</a>
       </td>
-      <td>
-        <a href="https://instagram.com/sahad_____sha" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/instagram.svg" width="32" alt="Instagram"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -86,11 +65,6 @@
       </td>
       <td>
         <a href="https://t.me/Sxhd_Sha" target="_blank">@Sxhd_Sha</a>
-      </td>
-      <td>
-        <a href="https://t.me/Sxhd_Sha" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="32" alt="Telegram"/>
-        </a>
       </td>
     </tr>
   </table>
@@ -173,19 +147,13 @@
     </tr>
     <tr>
       <td><strong>MINNAL BOT</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/discord.svg" width="24" alt="Discord"/> 
-        Discord Bot
-      </td>
+      <td>🎮 Discord Bot</td>
       <td>50+ commands, economy, leveling, music, admin panel</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
     <tr>
       <td><strong>PORTFOLIO-V1</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/nextjs.svg" width="24" alt="Next.js"/> 
-        Next.js Website
-      </td>
+      <td>🌐 Next.js Website</td>
       <td>3D hero, animations, comments system, admin dashboard</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
@@ -204,19 +172,13 @@
     </tr>
     <tr>
       <td><strong>GODZILLA BOT</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="24" alt="Telegram"/> 
-        Telegram Bot
-      </td>
+      <td>✈️ Telegram Bot</td>
       <td>Media downloader, database, admin panel, batch downloads</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
     <tr>
       <td><strong>SHA-MOVIES-BOT</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="24" alt="Telegram"/> 
-        Telegram Bot
-      </td>
+      <td>✈️ Telegram Bot</td>
       <td>Movie search, trending, genres, trailers, watchlist</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
@@ -235,28 +197,19 @@
     </tr>
     <tr>
       <td><strong>Noiz</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/music.svg" width="24" alt="Music"/> 
-        Music Streaming
-      </td>
+      <td>🎵 Music Streaming</td>
       <td>Full-stack app, intuitive UI, optimized audio, playlists</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>BIOLINK</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/link.svg" width="24" alt="Link"/> 
-        Bio Link Platform
-      </td>
+      <td>🔗 Bio Link Platform</td>
       <td>Animated themes, music, analytics, OAuth, QR codes</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>SAHAD-AI</strong></td>
-      <td>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/ai.svg" width="24" alt="AI"/> 
-        AI Workspace
-      </td>
+      <td>🧠 AI Workspace</td>
       <td>Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
@@ -402,5 +355,5 @@
 </div>
 
 <p align="center">
-  <sub>📄 Professional CV with SVG app icons by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
+  <sub>📄 Professional CV by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
 </p>
