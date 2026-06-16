@@ -370,14 +370,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Last%20Updated:%20June%202026&fontSize=18&fontColor=cbd5e1&animation=fadeIn&fontAlignY=50" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=70&rectAngle=10" alt="Footer Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Professional_CV_by_Dev-Sahad-0f172a?style=for-the-badge&logo=github&logoColor=00ff88" alt="Footer"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Available_for_Remote_Work-3b82f6?style=for-the-badge&logoColor=white" alt="Remote Work"/>
-  <img src="https://img.shields.io/badge/Collaboration-10b981?style=for-the-badge&logoColor=white" alt="Collaboration"/>
-  <img src="https://img.shields.io/badge/Freelance-f59e0b?style=for-the-badge&logoColor=white" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/Innovation-8b5cf6?style=for-the-badge&logoColor=white" alt="Innovation"/>
+  <img src="https://img.shields.io/badge/Last_Updated-0f172a?style=for-the-badge&logo=calendar&logoColor=00ff88" alt="Last Updated"/>
+  <br/>
+  <sub>Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script></sub>
 </div>
