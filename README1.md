@@ -370,11 +370,9 @@
 ---
 
 <div align="center">
-  <div style="background: linear-gradient(90deg, #0f172a, #3b82f6, #1e3a8a); padding: 30px; border-radius: 10px; color: white; max-width: 800px;">
-    <h3 style="font-size: 28px; margin: 0;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h3>
-    <p style="font-size: 18px; margin: 15px 0;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
-    <p style="font-size: 16px; color: #cbd5e1; margin: 10px 0;">
-      🚀 Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script>
-    </p>
-  </div>
+  <h2 style="color: #3b82f6; font-size: 32px;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h2>
+  <p style="color: #64748b; font-size: 20px;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
+  <p style="color: #94a3b8; font-size: 16px;">
+    🚀 Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script>
+  </p>
 </div>
