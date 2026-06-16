@@ -258,12 +258,6 @@
 ## 🏆 Key Achievements
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&rectAngle=10" alt="Achievements Banner"/>
-</div>
-
-## 🏆 Key Achievements
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&rectAngle=10" alt="Achievements Banner"/>
 </div>
 
