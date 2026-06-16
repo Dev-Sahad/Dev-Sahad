@@ -147,13 +147,19 @@
     </tr>
     <tr>
       <td><strong>MINNAL BOT</strong></td>
-      <td>🎮 Discord Bot</td>
+      <td>
+        <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
+        Bot
+      </td>
       <td>50+ commands, economy, leveling, music, admin panel</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
     <tr>
       <td><strong>PORTFOLIO-V1</strong></td>
-      <td>🌐 Next.js Website</td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
+        Website
+      </td>
       <td>3D hero, animations, comments system, admin dashboard</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
@@ -172,13 +178,19 @@
     </tr>
     <tr>
       <td><strong>GODZILLA BOT</strong></td>
-      <td>✈️ Telegram Bot</td>
+      <td>
+        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> 
+        Bot
+      </td>
       <td>Media downloader, database, admin panel, batch downloads</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
     <tr>
       <td><strong>SHA-MOVIES-BOT</strong></td>
-      <td>✈️ Telegram Bot</td>
+      <td>
+        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> 
+        Bot
+      </td>
       <td>Movie search, trending, genres, trailers, watchlist</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
@@ -197,19 +209,28 @@
     </tr>
     <tr>
       <td><strong>Noiz</strong></td>
-      <td>🎵 Music Streaming</td>
+      <td>
+        <img src="https://img.shields.io/badge/Music_App-1DB954?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Music"/> 
+        Streaming
+      </td>
       <td>Full-stack app, intuitive UI, optimized audio, playlists</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>BIOLINK</strong></td>
-      <td>🔗 Bio Link Platform</td>
+      <td>
+        <img src="https://img.shields.io/badge/Bio_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bio Link"/> 
+        Platform
+      </td>
       <td>Animated themes, music, analytics, OAuth, QR codes</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>SAHAD-AI</strong></td>
-      <td>🧠 AI Workspace</td>
+      <td>
+        <img src="https://img.shields.io/badge/AI_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI"/> 
+        Workspace
+      </td>
       <td>Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
