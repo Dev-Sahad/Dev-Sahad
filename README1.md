@@ -258,31 +258,31 @@
 ## 🏆 Key Achievements
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&rectAngle=10" alt="Achievements Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Achievements Banner"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:3b82f6,50:1e3a8a&text=6+%2B&fontSize=120&fontColor=ffffff&animation=countUp&fontAlignY=38&desc=Years%20Learning&descAlignY=85&rectAngle=50" alt="6+ Years"/>
+        <img src="https://img.shields.io/badge/6%2B_Years_Learning-3b82f6?style=for-the-badge&logo=year&logoColor=white&labelColor=1e3a8a" alt="6+ Years"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:10b981,50:047857&text=7&fontSize=120&fontColor=ffffff&animation=countUp&fontAlignY=38&desc=Projects%20Built&descAlignY=85&rectAngle=50" alt="7 Projects"/>
+        <img src="https://img.shields.io/badge/7_Projects_Built-10b981?style=for-the-badge&logo=check&logoColor=white&labelColor=047857" alt="7 Projects"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:f59e0b,50:b45309&text=20+%2B&fontSize=120&fontColor=ffffff&animation=countUp&fontAlignY=38&desc=Technologies&descAlignY=85&rectAngle=50" alt="20+ Technologies"/>
+        <img src="https://img.shields.io/badge/20%2B_Technologies-f59e0b?style=for-the-badge&logo=code&logoColor=white&labelColor=b45309" alt="20+ Technologies"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:8b5cf6,50:5b21b6&text=Open%20Source&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&rectAngle=50" alt="Open Source"/>
+        <img src="https://img.shields.io/badge/Open_Source_Contributor-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=5b21b6" alt="Open Source"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:ec4899,50:be185d&text=Bot%20Developer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&rectAngle=50" alt="Bot Developer"/>
+        <img src="https://img.shields.io/badge/Bot_Developer_ec4899?style=for-the-badge&logo=discord&logoColor=white&labelColor=be185d" alt="Bot Developer"/>
       </td>
       <td align="center">
-        <img src="https://capsule-render.vercel.app/api?type=elongated&height=220&width=320&color=0:06b6d4,50:0e7490&text=Collaborator&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&rectAngle=50" alt="Collaborator"/>
+        <img src="https://img.shields.io/badge/Collaborator-06b6d4?style=for-the-badge&logo=team&logoColor=white&labelColor=0e7490" alt="Collaborator"/>
       </td>
     </tr>
   </table>
