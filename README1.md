@@ -370,9 +370,5 @@
 ---
 
 <div align="center">
-  <h2 style="color: #3b82f6; font-size: 32px;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h2>
-  <p style="color: #64748b; font-size: 20px;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
-  <p style="color: #94a3b8; font-size: 16px;">
-    🚀 Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=70&rectAngle=10" alt="Footer Banner"/>
 </div>
