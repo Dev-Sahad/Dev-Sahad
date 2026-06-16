@@ -38,15 +38,15 @@
       </td>
     </tr>
     <tr>
-  <td>
-    <a href="https://discord.com/users/853166408212807701" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://discord.com/users/853166408212807701" target="_blank">!              𝑺   𝒙   𝑫  <span style="font-family: 'Courier New', monospace; font-size: 20px; color: #5865F2;">&lt;/&gt;</span></a>
-  </td>
-</tr>
+      <td>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">!              𝑺   𝒙   𝑫  </></a>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://instagram.com/sahad_____sha" target="_blank">
@@ -54,7 +54,7 @@
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/sahad_____sha" target="_blank">Sahad Sha 🇦🇪</a>
+        <a href="https://instagram.com/sahad_____sha" target="_blank">@sahad_____sha</a>
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
         </a>
       </td>
       <td>
-        <a href="https://t.me/Sxhd_Sha" target="_blank">Sxhd Sha</a>
+        <a href="https://t.me/Sxhd_Sha" target="_blank">@Sxhd_Sha</a>
       </td>
     </tr>
   </table>
@@ -257,33 +257,17 @@
 
 ## 🏆 Key Achievements
 
-<h2 align="center" style="color: #ffffff; background: linear-gradient(90deg, #f59e0b, #8b5cf6, #ec4899); padding: 20px; border-radius: 10px; font-size: 40px;">ACHIEVEMENTS</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=900&color=0:f59e0b,50:8b5cf6,100:ec4899&text=ACHIEVEMENTS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Achievements Banner"/>
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/6%2B_Years_Learning-3b82f6?style=for-the-badge" alt="6+ Years"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/7_Projects_Built-10b981?style=for-the-badge" alt="7 Projects"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/20%2B_Technologies-f59e0b?style=for-the-badge" alt="20+ Technologies"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source_Contributor-8b5cf6?style=for-the-badge" alt="Open Source"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Bot_Developer-ec4899?style=for-the-badge" alt="Bot Developer"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Collaborator-06b6d4?style=for-the-badge" alt="Collaborator"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/6%2B_Years_Learning-3b82f6?style=flat-square&logoColor=white" alt="6+ Years"/>
+  <img src="https://img.shields.io/badge/7_Projects_Built-10b981?style=flat-square&logoColor=white" alt="7 Projects"/>
+  <img src="https://img.shields.io/badge/20%2B_Technologies-f59e0b?style=flat-square&logoColor=white" alt="20+ Technologies"/>
+  <img src="https://img.shields.io/badge/Open_Source-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Bot_Developer-ec4899?style=flat-square&logo=discord&logoColor=white" alt="Bot Developer"/>
+  <img src="https://img.shields.io/badge/Collaborator-06b6d4?style=flat-square&logoColor=white" alt="Collaborator"/>
 </div>
 
 ---
@@ -301,10 +285,10 @@
 
 | Component | Description | Duration |
 |:---:|:---|:---:|
-| <img src="https://img.shields.io/badge/YouTube-FF0000?style=round&logo=youtube&logoColor=white" width="140" alt="YouTube"/> | **Online Video Courses** - YouTube tutorials, official documentation | 2020 – Present |
-| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> | **Web Development Certification** - Comprehensive online course | 2023 |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" width="140" alt="Node.js"/> | **Project-Based Learning** - 7 production-ready applications | 2024 – Present |
-| <img src="https://img.shields.io/badge/Discord-5865F2?style=for-you&logo=discord&logoColor=white" width="140" alt="Discord"/> | **Community Collaboration** - Open source, code review | 2025 – Present |
+| <img src="https://img.shields.io/badge/Online+Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Online Courses"/> | **Online Video Courses** - YouTube tutorials, official documentation | 2020 – Present |
+| <img src="https://img.shields.io/badge/Certification-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Certification"/> | **Web Development Certification** - Comprehensive online course | 2023 |
+| <img src="https://img.shields.io/badge/Project+Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Project Learning"/> | **Project-Based Learning** - 7 production-ready applications | 2024 – Present |
+| <img src="https://img.shields.io/badge/Collaboration-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Collaboration"/> | **Community Collaboration** - Open source, code review | 2025 – Present |
 
 ### 📚 Technical Competencies
 
@@ -319,26 +303,14 @@
 ## 🤝 Open to Opportunities
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=900&color=0:1e293b,50:3b82f6,100:10b981&text=SEEKING%20OPPORTUNITIES&fontSize=36&fontColor=00ff88&animation=fadeIn&fontAlignY=50&rectAngle=10" alt="Opportunities Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=900&color=0:1e293b,50:3b82f6,100:10b981&text=SEEKING%20OPPORTUNITIES&fontSize=36&fontColor=00ff88&animation=fadeIn&fontAlignY=50&rectAngle=10" alt="Opportunities Banner"/>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💼_Remote_Work-3b82f6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Remote Work"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤝_Collaboration-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Freelance-f59e0b?style=for-the-badge&logo=godbounce&logoColor=white" alt="Freelance"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💡_Innovation-8b5cf6?style=for-the-badge&logo=spinnak&logoColor=white" alt="Innovation"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/💼_Remote_Work-3b82f6?style=for-the-badge&logoColor=white" alt="Remote Work"/>
+  <img src="https://img.shields.io/badge/🤝_Collaboration-10b981?style=for-the-badge&logoColor=white" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/🎯_Freelance-f59e0b?style=for-the-badge&logoColor=white" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/💡_Innovation-8b5cf6?style=for-the-badge&logoColor=white" alt="Innovation"/>
 </div>
 
 ---
