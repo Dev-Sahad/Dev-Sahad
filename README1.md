@@ -374,5 +374,15 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=75&rectAngle=10" alt="Footer Banner"/>
+  <div style="background: linear-gradient(90deg, #0f172a, #3b82f6, #1e3a8a); padding: 30px; border-radius: 10px; color: white; max-width: 800px;">
+    <h3 style="font-size: 28px; margin: 0;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h3>
+    <p style="font-size: 18px; margin: 15px 0;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/Dev-Sahad" style="color: #3b82f6; text-decoration: none;">GitHub</a>
+      <span style="margin: 0 10px;">•</span>
+      <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" style="color: #3b82f6; text-decoration: none;">LinkedIn</a>
+      <span style="margin: 0 10px;">•</span>
+      <a href="https://discord.com/users/853166408212807701" style="color: #3b82f6; text-decoration: none;">Discord</a>
+    </div>
+  </div>
 </div>
