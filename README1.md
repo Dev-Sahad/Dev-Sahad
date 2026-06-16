@@ -370,11 +370,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=70&rectAngle=10" alt="Footer Banner"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-0f172a?style=for-the-badge&logo=calendar&logoColor=00ff88" alt="Last Updated"/>
-  <br/>
-  <sub>Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script></sub>
+  <div style="background: linear-gradient(90deg, #0f172a, #3b82f6, #1e3a8a); padding: 30px; border-radius: 10px; color: white; max-width: 800px;">
+    <h3 style="font-size: 28px; margin: 0;">📄 Professional CV by <span style="color: #00ff88;">Dev-Sahad</span></h3>
+    <p style="font-size: 18px; margin: 15px 0;">✨ Available for Remote Work · Collaboration · Freelance · Innovation</p>
+    <p style="font-size: 16px; color: #cbd5e1; margin: 10px 0;">
+      🚀 Last Updated: <script>document.write(new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'}))</script>
+    </p>
+  </div>
 </div>
