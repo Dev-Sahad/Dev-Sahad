@@ -11,13 +11,90 @@
 
 ## 📬 Contact Information
 
-| Icon | Field | Link |
-|:---:|:---:|:---:|
-| 🌐 | **GitHub** | [Dev-Sahad](https://github.com/Dev-Sahad) |
-| 💼 | **LinkedIn** | [Muhammad Sahad](https://www.linkedin.com/in/muhammad-sahad-78b827352) |
-| 🎮 | **Discord** | [853166408212807701](https://discord.com/users/853166408212807701) |
-| 📸 | **Instagram** | [@sahad_____sha](https://instagram.com/sahad_____sha) |
-| ✈️ | **Telegram** | [@Sxhd_Sha](https://t.me/Sxhd_Sha) |
+<div align="center">
+  <table>
+    <tr>
+      <th>Platform</th>
+      <th>Link</th>
+      <th>Icon</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Dev-Sahad" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dev-Sahad" target="_blank">Dev-Sahad</a>
+      </td>
+      <td>
+        <a href="https://github.com/Dev-Sahad" target="_blank">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/github.svg" width="32" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">Muhammad Sahad</a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/muhammad-sahad-78b827352" target="_blank">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/linkedin.svg" width="32" alt="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">853166408212807701</a>
+      </td>
+      <td>
+        <a href="https://discord.com/users/853166408212807701" target="_blank">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/discord.svg" width="32" alt="Discord"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://instagram.com/sahad_____sha" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/sahad_____sha" target="_blank">@sahad_____sha</a>
+      </td>
+      <td>
+        <a href="https://instagram.com/sahad_____sha" target="_blank">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/instagram.svg" width="32" alt="Instagram"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://t.me/Sxhd_Sha" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://t.me/Sxhd_Sha" target="_blank">@Sxhd_Sha</a>
+      </td>
+      <td>
+        <a href="https://t.me/Sxhd_Sha" target="_blank">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="32" alt="Telegram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -28,10 +105,10 @@
 </div>
 
 **Junior Developer** with **6+ years of self-learning experience** specializing in:
-- 🤖 Bot Development (Discord, Telegram, WhatsApp)
-- 🌐 Web Development (React, Next.js, Full-stack)
-- 🧠 AI & Automation (Python, Node.js, AI integrations)
-- 🏗️ System Architecture (Scalable backends, APIs, databases)
+- 🤖 **Bot Development** (Discord, Telegram, WhatsApp)
+- 🌐 **Web Development** (React, Next.js, Full-stack)
+- 🧠 **AI & Automation** (Python, Node.js, AI integrations)
+- 🏗️ **System Architecture** (Scalable backends, APIs, databases)
 
 **Built 7 production-ready projects** including live Discord bots and Next.js applications. Passionate about building automation tools that power real communities 24/7.
 
@@ -96,13 +173,19 @@
     </tr>
     <tr>
       <td><strong>MINNAL BOT</strong></td>
-      <td>Discord Bot</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/discord.svg" width="24" alt="Discord"/> 
+        Discord Bot
+      </td>
       <td>50+ commands, economy, leveling, music, admin panel</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
     <tr>
       <td><strong>PORTFOLIO-V1</strong></td>
-      <td>Next.js Website</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/nextjs.svg" width="24" alt="Next.js"/> 
+        Next.js Website
+      </td>
       <td>3D hero, animations, comments system, admin dashboard</td>
       <td><img src="https://img.shields.io/badge/LIVE-10b981?style=for-the-badge" alt="LIVE"/></td>
     </tr>
@@ -121,13 +204,19 @@
     </tr>
     <tr>
       <td><strong>GODZILLA BOT</strong></td>
-      <td>Telegram Bot</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="24" alt="Telegram"/> 
+        Telegram Bot
+      </td>
       <td>Media downloader, database, admin panel, batch downloads</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
     <tr>
       <td><strong>SHA-MOVIES-BOT</strong></td>
-      <td>Telegram Bot</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/telegram.svg" width="24" alt="Telegram"/> 
+        Telegram Bot
+      </td>
       <td>Movie search, trending, genres, trailers, watchlist</td>
       <td><img src="https://img.shields.io/badge/CODING-fbbf24?style=for-the-badge" alt="CODING"/></td>
     </tr>
@@ -146,19 +235,28 @@
     </tr>
     <tr>
       <td><strong>Noiz</strong></td>
-      <td>Music Streaming</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/music.svg" width="24" alt="Music"/> 
+        Music Streaming
+      </td>
       <td>Full-stack app, intuitive UI, optimized audio, playlists</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>BIOLINK</strong></td>
-      <td>Bio Link Platform</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/link.svg" width="24" alt="Link"/> 
+        Bio Link Platform
+      </td>
       <td>Animated themes, music, analytics, OAuth, QR codes</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
     <tr>
       <td><strong>SAHAD-AI</strong></td>
-      <td>AI Workspace</td>
+      <td>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/ai.svg" width="24" alt="AI"/> 
+        AI Workspace
+      </td>
       <td>Gemini 2.0 Flash, multimodal vision, JWT auth, cyberpunk UI</td>
       <td><img src="https://img.shields.io/badge/TESTING-06b6d4?style=for-the-badge" alt="TESTING"/></td>
     </tr>
@@ -256,16 +354,16 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/💼_Remote_Work-3b82f6?style=for-the-badge&logoColor=white" alt="Remote Work"/>
+        <img src="https://img.shields.io/badge/💼_Remote_Work-3b82f6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Remote Work"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🤝_Collaboration-10b981?style=for-the-badge&logoColor=white" alt="Collaboration"/>
+        <img src="https://img.shields.io/badge/🤝_Collaboration-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Freelance-f59e0b?style=for-the-badge&logoColor=white" alt="Freelance"/>
+        <img src="https://img.shields.io/badge/🎯_Freelance-f59e0b?style=for-the-badge&logo=godbounce&logoColor=white" alt="Freelance"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/💡_Innovation-8b5cf6?style=for-the-badge&logoColor=white" alt="Innovation"/>
+        <img src="https://img.shields.io/badge/💡_Innovation-8b5cf6?style=for-the-badge&logo=spinnak&logoColor=white" alt="Innovation"/>
       </td>
     </tr>
   </table>
@@ -304,5 +402,5 @@
 </div>
 
 <p align="center">
-  <sub>📄 Professional CV by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
+  <sub>📄 Professional CV with SVG app icons by <strong><a href="https://github.com/Dev-Sahad">Dev-Sahad</a></strong> · Available for Opportunities</sub>
 </p>
