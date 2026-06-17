@@ -231,15 +231,6 @@
 </div>
 
 ---
-<!-- Badges Section -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sahad)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Dev-Sahad)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Example Visitor Badge -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dev-Sahad)
-
----
 
 
 <div align="center">
