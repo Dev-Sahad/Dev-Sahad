@@ -231,6 +231,16 @@
 </div>
 
 ---
+<!-- Badges Section -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sahad)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Dev-Sahad)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Example Visitor Badge -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dev-Sahad)
+
+---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20❤️%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bot%20Developer%20%7C%20Open%20Source%20Builder%20%7C%20Available%20for%20Opportunities&descAlignY=70&rectAngle=10" alt="Footer Banner"/>
