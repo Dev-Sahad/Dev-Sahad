@@ -224,11 +224,9 @@
 
 ## 💖 Support My Work
 
-<div align="center">
-  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
-  </a>
-</div>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V3J021DSLA)
+
 
 ---
 
