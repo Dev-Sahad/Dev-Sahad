@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:3b82f6,100:1e3a8a&text=SAHAD%20SHA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Bot%20Architect%20%7C%20AI%20Engineer&descAlignY=60" alt="Sahad Sha Banner"/>
 </div>
 
-### 👋 Hey,
+## 👋 Hey,
 # I'm Sahad Sha (Dev-Sahad)
 
 > **Junior Developer · Bot Architect · AI Engineer**  
