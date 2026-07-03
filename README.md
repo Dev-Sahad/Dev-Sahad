@@ -253,7 +253,7 @@
 
 ---
 
-## DISCORD 🎮
+## 🎮 DISCORD
 
 [![sxhd_sha's Discord status](https://dsc-readme.tsuni.dev/api/user/853166408212807701?aboutMe=JUNIOR+DEVELOPER%0A&pronouns=%E1%B5%83%E1%B5%8F%E1%B5%83+++%E1%B4%8D%C9%AA%C9%B4%C9%B4%E1%B4%80%CA%9F&theme=dark&width=512)](https://github.com/the-snesler/discord-github-preview)
 
