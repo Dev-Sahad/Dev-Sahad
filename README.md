@@ -393,6 +393,11 @@ _Last updated automatically_
 
 ---
 
+## 📊 Live Developer Metrics
+
+<!-- METRICS_START -->
+<!-- METRICS_END -->
+
 ![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/metrics.svg)
 
 ---
