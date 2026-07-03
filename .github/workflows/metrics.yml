@@ -20,18 +20,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Dev-Sahad
-          filename: metrics.svg
 
           template: classic
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Dubai
+          config_twemoji: yes
+          config_octicon: yes
 
+          # 📊 Core stable plugins
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           plugin_languages: yes
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
 
@@ -43,4 +45,5 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
 
-          plugin_lines: yes
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
