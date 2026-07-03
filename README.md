@@ -2,7 +2,7 @@
 
 ## **Dev-Sahad**
 
-![Sahad Sha Banner](https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:3b82f6,100:1e3a8a&text=SAHAD%20SHA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlign=50)
+![Sahad Sha Banner](https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:3b82f6,100:1e3a8a&text=SAHAD%20SHA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
 [![Static Badge](https://img.shields.io/badge/Dev-Sahad-brightgreen?style=flat&logo=github&logoColor=rgb&logoSize=auto&labelColor=rgb&cacheSeconds=3600&link=Dev-Sahad)](https://github.com/Dev-Sahad)
 
@@ -256,7 +256,7 @@
 ## 🎵 Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qfxqe4xjnevgtz6lc5l2hkjpnq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Status"/>
 </div>
 
 ---
@@ -297,5 +297,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=75"/>
 </div>
