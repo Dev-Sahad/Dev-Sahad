@@ -393,6 +393,20 @@ _Last updated automatically_
 
 ---
 
+## 🚀 Recent Activity
+
+<!--START_ACTIVITY-->
+<!--END_ACTIVITY-->
+
+---
+
+## 📦 Latest Projects
+
+<!--START_PROJECTS-->
+<!--END_PROJECTS-->
+
+---
+
 ## 📊 Live Developer Metrics
 
 <!-- METRICS_START -->
