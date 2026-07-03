@@ -9,26 +9,43 @@ on:
 jobs:
   lint-and-test:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        
+
+      - name: Check if Node project exists
+        id: check_node
+        run: |
+          if [ -f package.json ]; then
+            echo "node=true" >> $GITHUB_OUTPUT
+          else
+            echo "node=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Set up Node.js
+        if: steps.check_node.outputs.node == 'true'
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          cache: 'npm'
-          
+          node-version: 18
+          cache: npm
+
       - name: Install dependencies
-        run: npm ci --if-present
-        
+        if: steps.check_node.outputs.node == 'true'
+        run: npm ci
+
       - name: Run ESLint
-        run: npm run lint --if-present || echo "✅ No linting configured"
-        
+        if: steps.check_node.outputs.node == 'true'
+        run: npm run lint || echo "No lint script"
+
       - name: Run tests
-        run: npm test --if-present || echo "✅ No tests configured"
-        
+        if: steps.check_node.outputs.node == 'true'
+        run: npm test || echo "No tests configured"
+
+      - name: Skip message
+        if: steps.check_node.outputs.node == 'false'
+        run: echo "⚠️ No Node project detected — skipping lint & tests"
+
       - name: Comment PR
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
@@ -38,5 +55,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '✅ Code quality checks completed!'
+              body: '✅ Code quality workflow completed successfully!'
             })
