@@ -20,6 +20,8 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)
 
+![summary](https://github.com/Dev-Sahad/Dev-Sahad/blob/gh-pages/summary.svg)
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Sahad&theme=github-dark-neon&bg_color=0d1117&hide_border=true&area=true)
