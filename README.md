@@ -53,7 +53,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-Sahad&theme=github-dark-dimmed&hide_border=true&border_radius=5)
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=discord&no-frame=true&row=1&column=6)
+  ![Trophy](https://github-trophies.devomb.com/?username=Dev-Sahad&theme=discord)
 
 </div>
 
