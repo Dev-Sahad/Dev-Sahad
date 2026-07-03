@@ -40,6 +40,15 @@
   
 
 <!--START_LANGUAGES-->
+## 🧠 Top Languages
+
+- **TypeScript** — 41.9%
+- **JavaScript** — 41.0%
+- **HTML** — 11.9%
+- **CSS** — 3.0%
+- **Shell** — 1.0%
+
+_Last updated automatically_
 <!--END_LANGUAGES-->
 
 </div>
