@@ -28,7 +28,7 @@
 
   [![Dev-Sahad](https://github-trophies.devomb.com/?username=Dev-Sahad&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-![trophy](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/trophy.svg)
+![trophy](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/assets/trophy.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-Sahad&theme=github-dark-dimmed&hide_border=true&border_radius=0)
 
