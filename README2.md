@@ -1,3 +1,5 @@
+# Sahad Sha Profile
+
 <!-- ============================= -->
 <!--      SAHAD SHA PROFILE       -->
 <!-- ============================= -->
@@ -22,8 +24,8 @@
 
 ```💡 Focused on architecting scalable architectures, clean code modularity, and automated workflows.```
 
-*   💻 **Core Specialization:** Senior Full-Stack Engineering & System Architecture.
-*   🤖 **AI Ecosystems:** Building production-grade workspaces, automation bots, and LLM integrations.
+* 💻 **Core Specialization:** Senior Full-Stack Engineering & System Architecture.
+* 🤖 **AI Ecosystems:** Building production-grade workspaces, automation bots, and LLM integrations.
 *   📱 **Platforms:** Cross-platform web architectures, automated microservices, and mobile endpoints.
 *   ⚡ **Philosophy:** Writing decoupled, maintainable code with strict error handling and async efficiency.
 
@@ -32,10 +34,13 @@
 ## 🛠 Tech Arsenal
 
 ### 🌐 Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
+
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma)
 
 ### ⚙️ Backend, Databases & Cloud
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,supabase,firebase,java" alt="Backend Skills" />
+
 
 ### 🧰 DevOps & Workspace
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tooling Skills" />
@@ -58,7 +63,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sahad Development Analytics"/>
 </div>
-
 
 ---
 
