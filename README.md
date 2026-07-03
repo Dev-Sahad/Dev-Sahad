@@ -393,9 +393,7 @@ _Last updated automatically_
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=75"/>
-</div>
+![Metrics](https://metrics.lecoq.io/Dev-Sahad?template=classic&repositories.forks=true&languages=1&steam=1&support=1&introduction=1&projects=1&code=1&traffic=1&achievements=1&starlists=1&sponsors=1&sponsorships=1&lines=1&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&support=false&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=undefined&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=Asia%2FDubai&config.octicon=true)
 
 ---
 
@@ -407,3 +405,10 @@ _Last updated automatically_
     <a href="/.github/workflows"><strong>View All Workflows</strong></a>
   </p>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=75"/>
+</div>
+
