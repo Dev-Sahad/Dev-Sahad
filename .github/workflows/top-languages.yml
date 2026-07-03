@@ -1,0 +1,84 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const username = "Dev-Sahad";
+
+            const query = `
+              query {
+                user(login: "${username}") {
+                  repositories(first: 100, ownerAffiliations: OWNER) {
+                    nodes {
+                      languages(first: 10) {
+                        edges {
+                          size
+                          node {
+                            name
+                            color
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query);
+
+            const repos = result.user.repositories.nodes;
+
+            const langMap = {};
+
+            repos.forEach(repo => {
+              repo.languages.edges.forEach(lang => {
+                const name = lang.node.name;
+                const size = lang.size;
+                langMap[name] = (langMap[name] || 0) + size;
+              });
+            });
+
+            const sorted = Object.entries(langMap)
+              .sort((a, b) => b[1] - a[1])
+              .slice(0, 5);
+
+            const markdown = `
+## 🧠 Top Languages
+
+${sorted.map(([name, size]) => `- **${name}**`).join('\n')}
+
+_Last updated automatically_
+`;
+
+            const fs = require('fs');
+            const file = fs.readFileSync('README.md', 'utf8');
+
+            const updated = file.replace(
+              /<!--START_LANGUAGES-->[\s\S]*<!--END_LANGUAGES-->/,
+              `<!--START_LANGUAGES-->\n${markdown}\n<!--END_LANGUAGES-->`
+            );
+
+            fs.writeFileSync('README.md', updated);
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "🔄 Update Top Languages" || echo "No changes"
+          git push
