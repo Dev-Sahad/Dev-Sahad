@@ -13,7 +13,7 @@ If you discover a security issue:
 - Do NOT open a public issue
 - Report it privately via email
 
-📧 Email: devsahad@example.com
+📧 Email: ![Mail](dev.sxhd@gmail.com)
 
 ---
 
