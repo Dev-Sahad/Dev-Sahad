@@ -1,18 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240">
-  <!-- Trophy Cup -->
-  <path d="M 50 80 Q 50 40 80 40 L 120 40 Q 150 40 150 80 L 150 100 Q 150 120 130 120 L 70 120 Q 50 120 50 100 Z" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
-  
-  <!-- Cup Handle -->
-  <path d="M 150 80 Q 180 80 180 110 Q 180 140 150 140" fill="none" stroke="#FFD700" stroke-width="8" stroke-linecap="round"/>
-  
-  <!-- Trophy Base Stem -->
-  <rect x="85" y="120" width="30" height="40" fill="#DAA520" stroke="#B8860B" stroke-width="1"/>
-  
-  <!-- Trophy Base -->
-  <ellipse cx="100" cy="160" rx="60" ry="15" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
-  <ellipse cx="100" cy="158" rx="60" ry="12" fill="#FFF8DC"/>
-  
-  <!-- Decorative Rings on Base -->
-  <ellipse cx="100" cy="170" rx="55" ry="10" fill="none" stroke="#DAA520" stroke-width="1"/>
-  <ellipse cx="100" cy="175" rx="50" ry="8" fill="none" stroke="#DAA520" stroke-width="1"/>
-</svg>
+Payment required
+
+DEPLOYMENT_DISABLED
+
+iad1::xb4wd-1783086909209-2077d7957c12
