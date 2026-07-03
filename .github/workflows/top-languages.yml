@@ -6,17 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-languages:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Top Languages
+      - name: Generate Languages
         uses: actions/github-script@v7
         with:
           script: |
+            const fs = require("fs");
+
             const username = "Dev-Sahad";
 
             const query = `
@@ -43,41 +45,42 @@ jobs:
             let langMap = {};
             let total = 0;
 
-            repos.forEach(repo => {
-              repo.languages.edges.forEach(lang => {
+            for (const repo of repos) {
+              for (const lang of repo.languages.edges) {
                 const name = lang.node.name;
                 const size = lang.size;
 
                 langMap[name] = (langMap[name] || 0) + size;
                 total += size;
-              });
-            });
+              }
+            }
 
             const sorted = Object.entries(langMap)
               .sort((a, b) => b[1] - a[1])
               .slice(0, 5);
 
-            const markdown =
-`## 🧠 Top Languages
+            let markdown = "## 🧠 Top Languages\n\n";
 
-${sorted.map(([name]) => `- **${name}**`).join('\n')}
+            for (const [name, size] of sorted) {
+              const percent = total ? ((size / total) * 100).toFixed(1) : 0;
+              markdown += `- **${name}** — ${percent}%\n`;
+            }
 
-_Last updated automatically_`;
+            markdown += "\n_Last updated automatically_";
 
-            const fs = require('fs');
-            const file = fs.readFileSync('README.md', 'utf8');
+            const file = fs.readFileSync("README.md", "utf8");
 
             const updated = file.replace(
               /<!--START_LANGUAGES-->[\s\S]*<!--END_LANGUAGES-->/,
               `<!--START_LANGUAGES-->\n${markdown}\n<!--END_LANGUAGES-->`
             );
 
-            fs.writeFileSync('README.md', updated);
+            fs.writeFileSync("README.md", updated);
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "🔄 Update Top Languages" || echo "No changes"
+          git commit -m "update languages" || echo "no changes"
           git push
