@@ -13,21 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # IMPORTANT: clone repo first
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate trophy SVG
-      - name: Generate trophy
+      - name: Generate trophy SVG
         run: |
           curl "https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia" -o trophy.svg
 
-      # Commit & push to main
-      - name: Commit and push
+      - name: Commit and push to assets branch
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add trophy.svg
           git commit -m "update trophy" || echo "no changes"
-          git push
+
+          git push origin HEAD:assets --force
