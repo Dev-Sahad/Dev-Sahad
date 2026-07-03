@@ -21,6 +21,7 @@
 ## 🚀 Automated Workflows
 
 ### **GitHub Actions Integration**
+
 <div align="center">
   
   [![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Automated-00AA00?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows)
