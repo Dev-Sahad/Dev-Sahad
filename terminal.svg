@@ -1,26 +1,25 @@
-
 <svg width="720" height="468" xmlns="http://www.w3.org/2000/svg">
-<style>
+<style><![CDATA[
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 text { font-family: 'Fira Code', monospace; font-size: 16px; fill: #00FF66; white-space: pre; }
 rect { fill: #000; }
 @keyframes fadeIn { to { opacity: 1; } }
-</style>
+]]></style>
 <rect width="100%" height="100%"/>
-<text x="20" y="40" opacity="0" style="animation: fadeIn 0.4s 0s forwards">$ whoami</text>
+<text x="20" y="40" opacity="0" style="animation: fadeIn 0.4s 0.0s forwards">$ whoami</text>
 <text x="20" y="64" opacity="0" style="animation: fadeIn 0.4s 0.3s forwards">Dev-Sahad</text>
 <text x="20" y="88" opacity="0" style="animation: fadeIn 0.4s 0.6s forwards"></text>
-<text x="20" y="112" opacity="0" style="animation: fadeIn 0.4s 0.8999999999999999s forwards">$ hostnamectl</text>
+<text x="20" y="112" opacity="0" style="animation: fadeIn 0.4s 0.9s forwards">$ hostnamectl</text>
 <text x="20" y="136" opacity="0" style="animation: fadeIn 0.4s 1.2s forwards"> Static hostname: devbox</text>
 <text x="20" y="160" opacity="0" style="animation: fadeIn 0.4s 1.5s forwards"> Operating Sys  : GNU/Linux (GitHub)</text>
-<text x="20" y="184" opacity="0" style="animation: fadeIn 0.4s 1.7999999999999998s forwards"> Kernel         : 5.x (container)</text>
+<text x="20" y="184" opacity="0" style="animation: fadeIn 0.4s 1.8s forwards"> Kernel         : 5.x (container)</text>
 <text x="20" y="208" opacity="0" style="animation: fadeIn 0.4s 2.1s forwards"> Shell          : bash 5.x</text>
 <text x="20" y="232" opacity="0" style="animation: fadeIn 0.4s 2.4s forwards"></text>
-<text x="20" y="256" opacity="0" style="animation: fadeIn 0.4s 2.6999999999999997s forwards">$ uptime</text>
-<text x="20" y="280" opacity="0" style="animation: fadeIn 0.4s 3s forwards"> up 4018 hours, load average: 0.87, 0.87, 0.87</text>
+<text x="20" y="256" opacity="0" style="animation: fadeIn 0.4s 2.7s forwards">$ uptime</text>
+<text x="20" y="280" opacity="0" style="animation: fadeIn 0.4s 3.0s forwards"> up 7695 hours, load average: 1.40, 1.40, 1.40</text>
 <text x="20" y="304" opacity="0" style="animation: fadeIn 0.4s 3.3s forwards"></text>
-<text x="20" y="328" opacity="0" style="animation: fadeIn 0.4s 3.5999999999999996s forwards">$ fortune</text>
-<text x="20" y="352" opacity="0" style="animation: fadeIn 0.4s 3.9s forwards">Code. Commit. Repeat.</text>
+<text x="20" y="328" opacity="0" style="animation: fadeIn 0.4s 3.6s forwards">$ fortune</text>
+<text x="20" y="352" opacity="0" style="animation: fadeIn 0.4s 3.9s forwards">Hack the planet.</text>
 <text x="20" y="376" opacity="0" style="animation: fadeIn 0.4s 4.2s forwards"></text>
 <text x="20" y="400" opacity="0" style="animation: fadeIn 0.4s 4.5s forwards">$ exit</text>
 <text x="20" y="424" opacity="0" style="animation: fadeIn 0.4s 4.8s forwards">logout</text>
