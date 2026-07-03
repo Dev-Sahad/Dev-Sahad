@@ -39,7 +39,8 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&card_width=500&include_all_commits=true&count_private=true)
 
-  ![Languages](./languages.svg)
+<!--START_LANGUAGES-->
+<!--END_LANGUAGES-->
 
 </div>
 
