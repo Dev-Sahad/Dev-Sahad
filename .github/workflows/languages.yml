@@ -1,0 +1,25 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily update
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats file
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
