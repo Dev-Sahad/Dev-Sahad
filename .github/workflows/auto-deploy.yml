@@ -10,34 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-          cache: npm
-
-      - name: Install dependencies
+      - name: Deploy
         run: |
-          if [ -f package-lock.json ]; then
-            npm ci
-          else
-            npm install
-          fi
-
-      - name: Build project
-        run: npm run build --if-present
-
-      - name: Deploy to hosting
-        run: |
-          echo "✅ Deploy step completed"
-          echo "Configure your deployment platform (Vercel, Netlify, etc.)"
-
-      - name: Notify deployment
-        if: always()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            console.log('✅ Deployment workflow completed successfully');
+          echo "No build needed - static or non-node project"
