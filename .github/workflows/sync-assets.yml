@@ -1,8 +1,9 @@
-name: Update Top Languages
+name: Update Profile Assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Completely automatic (Runs every 12 hours)
+    - cron: "0 */12 * * *" # Runs automatically every 12 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,22 +16,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Generate Trophy SVG
+        run: |
+          curl "https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia" -o trophy.svg
+
       - name: Fetch Top Languages SVG
         run: |
           curl "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" -o top-languages.svg
 
-      - name: Commit and push updates
+      - name: Commit and Push Assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Assets/top-languages.svg
+          # Stage both generated assets
+          git add trophy.svg top-languages.svg
           
-          # Only proceed if changes exist to avoid empty commit noise
+          # Check if either file has actual modifications before making a commit
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update top-languages.svg"
+            git commit -m "chore: update profile assets (trophies & languages)"
             git push origin HEAD:${{ github.ref_name }}
           else
-            echo "No language stats changes detected."
+            echo "No changes detected in assets."
           fi
           

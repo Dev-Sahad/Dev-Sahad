@@ -18,7 +18,7 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           user: Dev-Sahad
 
           template: classic

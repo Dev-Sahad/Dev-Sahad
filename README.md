@@ -393,13 +393,34 @@ _Last updated automatically_
 
 ---
 
+## 🚀 Recent Activity
+
+<!--START_ACTIVITY-->
+<!--END_ACTIVITY-->
+
+---
+
+## 📦 Latest Projects
+
+<!--START_PROJECTS-->
+<!--END_PROJECTS-->
+
+---
+
+## 📊 Live Developer Metrics
+
+<!-- METRICS_START -->
+<!-- METRICS_END -->
+
 ![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/metrics.svg)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Sahad&theme=github_dark)
 
 ---
 
 <div align="center">
   <p>
-    <strong>Last Updated:</strong> <code>2026-07-03</code>
+    <strong>Last Updated: <code>2026-07-04</code>
   </p>
   <p>
     <a href="/.github/workflows"><strong>View All Workflows</strong></a>
