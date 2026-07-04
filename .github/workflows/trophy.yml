@@ -1,4 +1,4 @@
-name: Update Trophies
+name: Update GitHub Trophy
 
 on:
   schedule:
@@ -9,23 +9,32 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update-trophy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
+      - name: Generate Trophy SVG
         run: |
-          curl "https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia" -o trophy.svg
+          mkdir -p Assets
+          curl -L "https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia&no-frame=true&no-bg=true&margin-w=10" \
+          -o Assets/trophy.svg
 
-      - name: Commit and push to assets branch
+      - name: Commit Changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add trophy.svg
-          git commit -m "update trophy" || echo "no changes"
+          git add Assets/trophy.svg
 
-          git push origin HEAD:assets --force
+          git diff --cached --quiet && exit 0
+
+          git commit -m "chore: update GitHub trophy"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ github.ref_name }}
