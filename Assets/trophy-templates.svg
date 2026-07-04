@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 140" width="100%" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 12px; }
+    .card { fill: #161b22; stroke: #21262d; stroke-width: 1; rx: 8px; }
+    .title { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #58a6ff; }
+    .value { font: 800 26px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+    .label { font: 600 11px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+    .progress-bg { fill: #21262d; rx: 2px; }
+    .progress-bar { fill: url(#blue-grad); rx: 2px; }
+    @keyframes pulse { 0% { opacity: 0.7; } 50% { opacity: 1; } 100% { opacity: 0.7; } }
+    .glow { animation: pulse 3s infinite ease-in-out; }
+  </style>
+  
+  <defs>
+    <linearGradient id="blue-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#58a6ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="960" height="140" class="bg" />
+
+  <!-- Card 1: Commits -->
+  <g transform="translate(20, 20)">
+    <rect width="210" height="100" class="card" />
+    <text x="15" y="30" class="title">COMMITS</text>
+    <text x="15" y="65" class="value">{{COMMITS}}</text>
+    <text x="15" y="85" class="label">Total Contributions</text>
+  </g>
+
+  <!-- Card 2: Stars -->
+  <g transform="translate(250, 20)">
+    <rect width="210" height="100" class="card" />
+    <text x="15" y="30" class="title">STARS</text>
+    <text x="15" y="65" class="value">{{STARS}}</text>
+    <text x="15" y="85" class="label">Earned Stars</text>
+  </g>
+
+  <!-- Card 3: Repositories -->
+  <g transform="translate(480, 20)">
+    <rect width="210" height="100" class="card" />
+    <text x="15" y="30" class="title">REPOSITORIES</text>
+    <text x="15" y="65" class="value">{{REPOS}}</text>
+    <text x="15" y="85" class="label">Public Projects</text>
+  </g>
+
+  <!-- Card 4: Followers -->
+  <g transform="translate(710, 20)">
+    <rect width="230" height="100" class="card" />
+    <text x="15" y="30" class="title">FOLLOWERS</text>
+    <text x="15" y="65" class="value">{{FOLLOWERS}}</text>
+    <text x="15" y="85" class="label">Network Growth</text>
+  </g>
+</svg>
