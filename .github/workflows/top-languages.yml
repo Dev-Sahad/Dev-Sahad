@@ -2,85 +2,35 @@ name: Update Top Languages
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Completely automatic (Runs every 12 hours)
+
+permissions:
+  contents: write
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Languages
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require("fs");
-
-            const username = "Dev-Sahad";
-
-            const query = `
-            query {
-              user(login: "${username}") {
-                repositories(first: 100, ownerAffiliations: OWNER) {
-                  nodes {
-                    languages(first: 10) {
-                      edges {
-                        size
-                        node {
-                          name
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }`;
-
-            const result = await github.graphql(query);
-            const repos = result.user.repositories.nodes;
-
-            let langMap = {};
-            let total = 0;
-
-            for (const repo of repos) {
-              for (const lang of repo.languages.edges) {
-                const name = lang.node.name;
-                const size = lang.size;
-
-                langMap[name] = (langMap[name] || 0) + size;
-                total += size;
-              }
-            }
-
-            const sorted = Object.entries(langMap)
-              .sort((a, b) => b[1] - a[1])
-              .slice(0, 5);
-
-            let markdown = "## 🧠 Top Languages\n\n";
-
-            for (const [name, size] of sorted) {
-              const percent = total ? ((size / total) * 100).toFixed(1) : 0;
-              markdown += `- **${name}** — ${percent}%\n`;
-            }
-
-            markdown += "\n_Last updated automatically_";
-
-            const file = fs.readFileSync("README.md", "utf8");
-
-            const updated = file.replace(
-              /<!--START_LANGUAGES-->[\s\S]*<!--END_LANGUAGES-->/,
-              `<!--START_LANGUAGES-->\n${markdown}\n<!--END_LANGUAGES-->`
-            );
-
-            fs.writeFileSync("README.md", updated);
-
-      - name: Commit changes
+      - name: Fetch Top Languages SVG
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "update languages" || echo "no changes"
-          git push
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" -o top-languages.svg
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add Assets/top-languages.svg
+          
+          # Only proceed if changes exist to avoid empty commit noise
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update top-languages.svg"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No language stats changes detected."
+          fi
+          
