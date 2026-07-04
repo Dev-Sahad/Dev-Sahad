@@ -65,16 +65,32 @@ const req = https.request(options, (res) => {
       const followers = user.followers.totalCount || 0;
       const stars = user.repositories.nodes.reduce((acc, node) => acc + node.stargazerCount, 0);
 
-      // Path Resolutions
-      const templatePath = path.join(__dirname, '../Assets/trophy-template.svg');
-      const outputPath = path.join(__dirname, '../Assets/trophy.svg');
+      // Dynamic fallback layout paths
+const possibleTemplatePaths = [
+  path.join(__dirname, '../Assets/trophy-template.svg'),
+  path.join(__dirname, '../assets/trophy-template.svg'),
+  path.join(__dirname, '../trophy-template.svg')
+];
 
-      if (!fs.existsSync(templatePath)) {
-        console.error(`Template not found at: ${templatePath}`);
-        process.exit(1);
-      }
+let templatePath = null;
+for (const p of possibleTemplatePaths) {
+  if (fs.existsSync(p)) {
+    templatePath = p;
+    break;
+  }
+}
 
-      let template = fs.readFileSync(templatePath, 'utf8');
+if (!templatePath) {
+  console.error(`Error: trophy-template.svg could not be resolved in Assets/, assets/, or root.`);
+  console.error(`Current directory structure:`, fs.readdirSync(path.join(__dirname, '..')));
+  process.exit(1);
+}
+
+// Dynamically target the exact same directory matching the template location
+const outputPath = templatePath.replace('trophy-template.svg', 'trophy.svg');
+
+let template = fs.readFileSync(templatePath, 'utf8');
+
 
       // Inject metrics safely into SVG structure
       const updatedSvg = template
