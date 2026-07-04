@@ -414,6 +414,8 @@ _Last updated automatically_
 
 ![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/metrics.svg)
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Sahad&theme=github_dark)
+
 ---
 
 <div align="center">
