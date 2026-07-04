@@ -16,25 +16,26 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy SVG
-        run: |
-          mkdir -p Assets
-          curl -L "https://github-profile-trophy.vercel.app/?username=Dev-Sahad&theme=algolia&no-frame=true&no-bg=true&margin-w=10" \
-          -o Assets/trophy.svg
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: Commit Changes
+      - name: Generate Custom Dynamic Trophy
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node scripts/generate-trophy.js
+
+      - name: Commit and Push Assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          
           git add Assets/trophy.svg
-
+          
+          # Only proceed with changes if the output data array differs
           git diff --cached --quiet && exit 0
-
-          git commit -m "chore: update GitHub trophy"
-
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: ${{ github.ref_name }}
+          
+          git commit -m "chore: update GitHub profile metrics trophy [skip ci]"
+          git push origin HEAD:${{ github.ref_name }}
+          
