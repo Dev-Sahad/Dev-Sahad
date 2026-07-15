@@ -16,10 +16,10 @@ rect { fill: #000; }
 <text x="20" y="208" opacity="0" style="animation: fadeIn 0.4s 2.1s forwards"> Shell          : bash 5.x</text>
 <text x="20" y="232" opacity="0" style="animation: fadeIn 0.4s 2.4s forwards"></text>
 <text x="20" y="256" opacity="0" style="animation: fadeIn 0.4s 2.7s forwards">$ uptime</text>
-<text x="20" y="280" opacity="0" style="animation: fadeIn 0.4s 3.0s forwards"> up 1000 hours, load average: 0.22, 0.22, 0.22</text>
+<text x="20" y="280" opacity="0" style="animation: fadeIn 0.4s 3.0s forwards"> up 8012 hours, load average: 0.94, 0.94, 0.94</text>
 <text x="20" y="304" opacity="0" style="animation: fadeIn 0.4s 3.3s forwards"></text>
 <text x="20" y="328" opacity="0" style="animation: fadeIn 0.4s 3.6s forwards">$ fortune</text>
-<text x="20" y="352" opacity="0" style="animation: fadeIn 0.4s 3.9s forwards">In Linux we trust.</text>
+<text x="20" y="352" opacity="0" style="animation: fadeIn 0.4s 3.9s forwards">Keep it simple.</text>
 <text x="20" y="376" opacity="0" style="animation: fadeIn 0.4s 4.2s forwards"></text>
 <text x="20" y="400" opacity="0" style="animation: fadeIn 0.4s 4.5s forwards">$ exit</text>
 <text x="20" y="424" opacity="0" style="animation: fadeIn 0.4s 4.8s forwards">logout</text>
