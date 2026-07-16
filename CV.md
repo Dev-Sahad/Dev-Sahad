@@ -341,6 +341,10 @@
 
 ---
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-sahad-78b827352" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/muhammad-sahad-78b827352?trk=profile-badge">Muhammad Sahad</a></div>
+              
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Professional%20CV%20by%20Dev-Sahad&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Available%20for%20Remote%20Work%20%7C%20Collaboration%20%7C%20Freelance%20%7C%20Innovation&descAlignY=70&rectAngle=10" alt="Footer Banner"/>
 </div>
