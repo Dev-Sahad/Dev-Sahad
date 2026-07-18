@@ -1,59 +1,33 @@
-name: Code Quality & Linting
+name: Profile Validation
 
 on:
   push:
     branches: [main, develop]
   pull_request:
     branches: [main, develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  lint-and-test:
+  validate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Check if Node project exists
-        id: check_node
-        run: |
-          if [ -f package.json ]; then
-            echo "node=true" >> $GITHUB_OUTPUT
-          else
-            echo "node=false" >> $GITHUB_OUTPUT
-          fi
+      - name: Checkout repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
 
       - name: Set up Node.js
-        if: steps.check_node.outputs.node == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          node-version: 18
-          cache: npm
+          node-version: 24
 
-      - name: Install dependencies
-        if: steps.check_node.outputs.node == 'true'
-        run: npm ci
+      - name: Check JavaScript syntax
+        run: |
+          node --check scripts/generate-trophy.js
+          node --check scripts/make-terminal-svg.js
+          node --check scripts/validate-profile.js
 
-      - name: Run ESLint
-        if: steps.check_node.outputs.node == 'true'
-        run: npm run lint || echo "No lint script"
-
-      - name: Run tests
-        if: steps.check_node.outputs.node == 'true'
-        run: npm test || echo "No tests configured"
-
-      - name: Skip message
-        if: steps.check_node.outputs.node == 'false'
-        run: echo "⚠️ No Node project detected — skipping lint & tests"
-
-      - name: Comment PR
-        if: github.event_name == 'pull_request'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: '✅ Code quality workflow completed successfully!'
-            })
+      - name: Validate profile files and links
+        run: node scripts/validate-profile.js

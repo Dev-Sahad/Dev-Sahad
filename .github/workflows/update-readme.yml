@@ -13,12 +13,12 @@ jobs:
       
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          node-version: '18'
+          node-version: '24'
           
       - name: Update README
         run: |
@@ -26,7 +26,11 @@ jobs:
           const fs = require('fs');
           const date = new Date().toISOString().split('T')[0];
           let readme = fs.readFileSync('README.md', 'utf8');
-          readme = readme.replace(/Last Updated:.*<\/code>/s, `Last Updated: <code>${date}</code>`);
+          const pattern = /(<strong>Last Updated: <code>)[^<]+(<\/code><\/strong>)/;
+          if (!pattern.test(readme)) {
+            throw new Error('Last Updated marker was not found in README.md');
+          }
+          readme = readme.replace(pattern, `$1${date}$2`);
           fs.writeFileSync('README.md', readme);
           console.log('✅ README updated');
           EOF

@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *" # Daily at 00:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: profile-assets-${{ github.repository }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -17,12 +18,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
 
       - name: Generate top-languages.svg
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # pinned 2026-07-19
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           filename: Assets/top-languages.svg
 
           base: ""
@@ -35,6 +36,6 @@ jobs:
           plugin_languages_recent_days: 365
 
       - name: Commit updated SVG
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
         with:
-          commit_message: "chore: update top-languages.svg"
+          commit_message: "chore: update top-languages.svg [skip ci]"

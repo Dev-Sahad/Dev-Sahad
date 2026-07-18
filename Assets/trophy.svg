@@ -25,8 +25,8 @@
   <g transform="translate(20, 20)">
     <rect width="210" height="100" class="card" />
     <text x="15" y="30" class="title">COMMITS</text>
-    <text x="15" y="65" class="value">766</text>
-    <text x="15" y="85" class="label">Total Contributions</text>
+    <text x="15" y="65" class="value">476</text>
+    <text x="15" y="85" class="label">Commits This Year</text>
   </g>
 
   <!-- Card 2: Stars -->
@@ -52,12 +52,4 @@
     <text x="15" y="65" class="value">0</text>
     <text x="15" y="85" class="label">Network Growth</text>
   </g>
-
-<!-- Card 5: Trophies -->
-  <g transform="translate(20, 20)">
-    <rect width="920" height="100" class="card" />
-    <text x="15" y="30" class="title">MILESTONE</text>
-    <text x="15" y="65" class="value">{{TROPHIES}}</text>
-    <text x="15" y="85" class="label">Performance Badges</text> 
-    </g>
 </svg>

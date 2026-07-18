@@ -2,10 +2,12 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
-  push:
-    branches: ["main", "master"]
+
+concurrency:
+  group: profile-assets-${{ github.repository }}
+  cancel-in-progress: false
 
 jobs:
   github-metrics:
@@ -16,10 +18,11 @@ jobs:
 
     steps:
       - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # pinned 2026-07-19
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           user: Dev-Sahad
+          filename: github-metrics.svg
 
           template: classic
           base: header, activity, community, repositories, metadata

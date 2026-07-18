@@ -323,7 +323,7 @@ PRs will be rejected if:
 - GitHub: https://github.com/Dev-Sahad  
 - LinkedIn: https://www.linkedin.com/in/muhammad-sahad-78b827352  
 - Discord: sxhd__sha  
-- Email: devsahad@example.com  
+- Email: dev.sxhd@gmail.com
 - Instagram: @sahad_____sha  
 - Telegram: @Sxhd_Sha  
 

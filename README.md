@@ -24,10 +24,10 @@
 
 <div align="center">
   
-  [![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Automated-00AA00?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows)
-  [![Auto-Deploy](https://img.shields.io/badge/Auto%20Deploy-Active-0066CC?style=for-the-badge&logo=github&logoColor=white)](/.github/workflows)
-  [![Linting & Testing](https://img.shields.io/badge/Testing-Continuous-FF6B6B?style=for-the-badge&logo=jest&logoColor=white)](/.github/workflows)
-  [![Profile Update](https://img.shields.io/badge/Profile%20Update-Daily-9D4EDD?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows)
+  [![Profile Validation](https://img.shields.io/badge/Profile-Validated-00AA00?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows/code-quality.yml)
+  [![Metrics](https://img.shields.io/badge/Metrics-Daily-0066CC?style=for-the-badge&logo=github&logoColor=white)](/.github/workflows/metrics.yml)
+  [![Asset Checks](https://img.shields.io/badge/Assets-Verified-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)](/.github/workflows/code-quality.yml)
+  [![Profile Update](https://img.shields.io/badge/Profile%20Date-Weekly-9D4EDD?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows/update-readme.yml)
 
 </div>
 
@@ -42,13 +42,9 @@
 <!--START_LANGUAGES-->
 ## 🧠 Top Languages
 
-- **TypeScript** — 41.9%
-- **JavaScript** — 41.0%
-- **HTML** — 11.9%
-- **CSS** — 3.0%
-- **Shell** — 1.0%
+<img src="./Assets/top-languages.svg" alt="Automatically generated top languages" width="600"/>
 
-_Last updated automatically_
+_Updated daily from GitHub activity_
 <!--END_LANGUAGES-->
 
 </div>
@@ -63,7 +59,7 @@ _Last updated automatically_
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-Sahad&theme=github-dark-dimmed&hide_border=true&border_radius=5)
   
-  ![Trophy](https://github-trophies.devomb.com/?username=Dev-Sahad&theme=discord)
+  <img src="./Assets/trophy.svg" alt="GitHub profile milestones" width="960"/>
 
 </div>
 
@@ -79,27 +75,16 @@ _Last updated automatically_
 
 <div align="center">
 
-| 📈 Metric | 📊 Value |
-|-----------|---------|
-| **Total Contributions** | [Auto-Updated via Action] |
-| **Repositories** | 15+ Active Projects |
-| **Open Source** | 10+ Contributions |
-| **Issues Resolved** | 25+ Closed |
-| **PRs Merged** | 30+ Successful |
-| **Code Reviews** | 40+ Reviews |
-| **Discussion Posts** | 20+ Answers |
+| 📈 Source | 📊 Live View |
+|-----------|--------------|
+| **Public repositories** | [Browse on GitHub](https://github.com/Dev-Sahad?tab=repositories) |
+| **Contribution activity** | [View contribution graph](https://github.com/Dev-Sahad) |
+| **Developer metrics** | [Generated metrics](#-live-developer-metrics) |
+| **Featured work** | [Project showcase](SHOWCASE.md) |
 
 </div>
 
-### **🔄 Automated Contribution Tracking**
-
-<div align="center">
-  
-  ![Contributions Last Year](https://img.shields.io/badge/Last%20Year%20Contributions-365%2B-00D084?style=flat-square&logo=github)
-  ![Monthly Average](https://img.shields.io/badge/Monthly%20Average-30%2B-3178C6?style=flat-square&logo=code)
-  ![Commit Streak](https://img.shields.io/badge/Current%20Streak-15%20days-FF6B6B?style=flat-square&logo=github-actions)
-
-</div>
+All contribution figures on this page come from live GitHub data or generated repository assets.
 
 ---
 
@@ -111,7 +96,7 @@ _Last updated automatically_
       <th>📄 Page</th>
       <th>📝 Description</th>
       <th>🔗 Link</th>
-      <th>⚙️ Auto-Updated</th>
+      <th>⚙️ Maintenance</th>
     </tr>
     <tr>
       <td><strong>CV & Resume</strong></td>
@@ -121,7 +106,7 @@ _Last updated automatically_
           <img src="https://img.shields.io/badge/Open-3b82f6?style=for-the-badge&logo=external-link&logoColor=white" alt="Open"/>
         </a>
       </td>
-      <td><img src="https://img.shields.io/badge/Weekly-4CAF50?style=flat-square" alt="Weekly"/></td>
+      <td><img src="https://img.shields.io/badge/Curated-4CAF50?style=flat-square" alt="Curated"/></td>
     </tr>
     <tr>
       <td><strong>Showcase</strong></td>
@@ -131,7 +116,7 @@ _Last updated automatically_
           <img src="https://img.shields.io/badge/Open-3b82f6?style=for-the-badge&logo=external-link&logoColor=white" alt="Open"/>
         </a>
       </td>
-      <td><img src="https://img.shields.io/badge/Monthly-2196F3?style=flat-square" alt="Monthly"/></td>
+      <td><img src="https://img.shields.io/badge/Curated-2196F3?style=flat-square" alt="Curated"/></td>
     </tr>
     <tr>
       <td><strong>Journey</strong></td>
@@ -141,17 +126,17 @@ _Last updated automatically_
           <img src="https://img.shields.io/badge/Open-3b82f6?style=for-the-badge&logo=external-link&logoColor=white" alt="Open"/>
         </a>
       </td>
-      <td><img src="https://img.shields.io/badge/Quarterly-FF9800?style=flat-square" alt="Quarterly"/></td>
+      <td><img src="https://img.shields.io/badge/Curated-FF9800?style=flat-square" alt="Curated"/></td>
     </tr>
     <tr>
-      <td><strong>Contributions</strong></td>
-      <td>Detailed breakdown of all contributions and activities</td>
+      <td><strong>Contribution Guide</strong></td>
+      <td>How to propose improvements to this profile repository</td>
       <td>
-        <a href="CONTRIBUTIONS.md" target="_blank">
+        <a href="CONTRIBUTING.md" target="_blank">
           <img src="https://img.shields.io/badge/Open-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Open"/>
         </a>
       </td>
-      <td><img src="https://img.shields.io/badge/Daily-FF5722?style=flat-square" alt="Daily"/></td>
+      <td><img src="https://img.shields.io/badge/Curated-FF5722?style=flat-square" alt="Curated"/></td>
     </tr>
   </table>
 </div>
@@ -174,12 +159,10 @@ _Last updated automatically_
       <td>
         <img src="https://img.shields.io/badge/Discord-5865F2?style=round&logo=discord&logoColor=white" alt="Discord Bot"/>
       </td>
-      <td><img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" alt="LIVE"/></td>
-      <td><img src="https://img.shields.io/github/stars/Dev-Sahad/MINNAL-BOT?style=flat-square&logo=github&color=gold" alt="Stars"/></td>
+      <td><img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square&logo=lock&logoColor=white" alt="Private repository"/></td>
+      <td>Private</td>
       <td>
-        <a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
-          <img src="https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-        </a>
+        <img src="https://img.shields.io/badge/Source-Private-6B7280?style=flat-square&logo=github" alt="Private source"/>
       </td>
     </tr>
     <tr>
@@ -200,12 +183,10 @@ _Last updated automatically_
       <td>
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=round&logo=telegram&logoColor=white" alt="Telegram Bot"/>
       </td>
-      <td><img src="https://img.shields.io/badge/CODING-FFA500?style=flat-square&logo=code&logoColor=white" alt="In Development"/></td>
-      <td><img src="https://img.shields.io/github/stars/Dev-Sahad/Godzilla?style=flat-square&logo=github&color=gold" alt="Stars"/></td>
+      <td><img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square&logo=lock&logoColor=white" alt="Private repository"/></td>
+      <td>Private</td>
       <td>
-        <a href="https://github.com/Dev-Sahad/Godzilla" target="_blank">
-          <img src="https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-        </a>
+        <img src="https://img.shields.io/badge/Source-Private-6B7280?style=flat-square&logo=github" alt="Private source"/>
       </td>
     </tr>
     <tr>
@@ -213,12 +194,10 @@ _Last updated automatically_
       <td>
         <img src="https://img.shields.io/badge/Music_App-F50057?style=round&logo=music&logoColor=white" alt="Music Streaming"/>
       </td>
-      <td><img src="https://img.shields.io/badge/TESTING-3B82F6?style=flat-square&logo=beaker&logoColor=white" alt="Testing"/></td>
-      <td><img src="https://img.shields.io/github/stars/Dev-Sahad/Noiz?style=flat-square&logo=github&color=gold" alt="Stars"/></td>
+      <td><img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square&logo=lock&logoColor=white" alt="Private repository"/></td>
+      <td>Private</td>
       <td>
-        <a href="https://github.com/Dev-Sahad/Noiz" target="_blank">
-          <img src="https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-        </a>
+        <img src="https://img.shields.io/badge/Source-Private-6B7280?style=flat-square&logo=github" alt="Private source"/>
       </td>
     </tr>
   </table>
@@ -314,7 +293,7 @@ _Last updated automatically_
     <img src="https://img.shields.io/badge/Telegram-Sxhd__Sha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
-  <a href="mailto:devsahad@example.com" target="_blank">
+  <a href="mailto:dev.sxhd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -383,11 +362,12 @@ _Last updated automatically_
   
   All workflows configured in `.github/workflows/`
   
-  - **Profile Update**: Auto-refreshes README weekly
-  - **Contribution Tracking**: Updates stats daily
-  - **CI/CD Pipeline**: Tests & deploys on push
-  - **Code Quality**: Runs linting & formatting checks
-  - **Documentation**: Auto-generates changelog & docs
+  - **Profile Validation**: Checks scripts, internal links, and generated SVG assets
+  - **Developer Metrics**: Refreshes the metrics card daily
+  - **Language & Trophy Cards**: Refresh generated profile cards on a schedule
+  - **Terminal Card**: Regenerates the terminal display daily
+  - **Contribution Snake**: Refreshes the contribution animation every 12 hours
+  - **Profile Date**: Refreshes the README date weekly
 
 </div>
 
@@ -412,7 +392,7 @@ _Last updated automatically_
 <!-- METRICS_START -->
 <!-- METRICS_END -->
 
-![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/github-metrics.svg)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Sahad&theme=github_dark)
 
@@ -420,7 +400,7 @@ _Last updated automatically_
 
 <div align="center">
   <p>
-    <strong>Last Updated: <code>2026-07-12</code>
+    <strong>Last Updated: <code>2026-07-19</code></strong>
   </p>
   <p>
     <a href="/.github/workflows"><strong>View All Workflows</strong></a>
