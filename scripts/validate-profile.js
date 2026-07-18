@@ -3,6 +3,23 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const errors = [];
+const requiredFiles = [
+  '.github/FUNDING.yml',
+  '.github/PULL_REQUEST_TEMPLATE.md',
+  '.github/ISSUE_TEMPLATE/bug_report.md',
+  '.github/ISSUE_TEMPLATE/feature_request.md',
+  '.github/ISSUE_TEMPLATE/config.yml',
+  'README.md',
+  'SECURITY.md',
+  'LICENSE',
+];
+const misplacedCommunityFiles = [
+  'FUNDING.yml',
+  'PULL_REQUEST_TEMPLATE.md',
+  'bug_report.md',
+  'feature_request.md',
+  'DISCUSSION_TEMPLATE.md',
+];
 
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -49,6 +66,18 @@ function validateLocalTarget(sourceFile, target) {
 const files = walk(ROOT);
 const markdownFiles = files.filter((file) => file.endsWith('.md'));
 
+for (const requiredFile of requiredFiles) {
+  if (!fs.existsSync(path.join(ROOT, requiredFile))) {
+    errors.push(`Required repository file is missing: ${requiredFile}`);
+  }
+}
+
+for (const misplacedFile of misplacedCommunityFiles) {
+  if (fs.existsSync(path.join(ROOT, misplacedFile))) {
+    errors.push(`Community file is in an unsupported root location: ${misplacedFile}`);
+  }
+}
+
 for (const file of markdownFiles) {
   const content = fs.readFileSync(file, 'utf8');
   const markdownLinks = content.matchAll(/!?\[[^\]]*\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g);
@@ -72,6 +101,18 @@ for (const workflow of walk(workflowDirectory)) {
   const content = fs.readFileSync(workflow, 'utf8');
   if (/@latest\b/.test(content)) {
     errors.push(`${relative(workflow)} uses a mutable @latest action reference.`);
+  }
+
+  for (const match of content.matchAll(/^\s*-?\s*uses:\s*([^\s#]+)/gm)) {
+    const action = match[1];
+    if (action.startsWith('./') || action.startsWith('docker://')) {
+      continue;
+    }
+    const separator = action.lastIndexOf('@');
+    const reference = separator === -1 ? '' : action.slice(separator + 1);
+    if (!/^[0-9a-f]{40}$/i.test(reference)) {
+      errors.push(`${relative(workflow)} must pin action ${action} to a full commit SHA.`);
+    }
   }
 }
 

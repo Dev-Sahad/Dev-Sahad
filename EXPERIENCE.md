@@ -134,9 +134,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 <div align="center">
 
 ### ⚡ MINNAL BOT
-<a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" />
-</a>
+<img src="https://img.shields.io/badge/Source-Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="Private source repository" />
 <img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" alt="LIVE" />
 **Discord Bot** • 50+ slash commands, economy & leveling, auto XP, rewards, music player, admin panel
 
@@ -225,7 +223,7 @@ The entire journey spans over six years of self-learning and growth. Every line 
 ## Support My Work
 
 <div align="center">
-  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
+  <a href="https://ko-fi.com/devsahad1" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
   </a>
 </div>

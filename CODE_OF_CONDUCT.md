@@ -42,7 +42,7 @@ Maintainers may:
 
 ## Reporting Issues
 
-If you experience or witness unacceptable behavior, report it via GitHub Issues or contact the maintainer directly.
+If you experience or witness unacceptable behavior, report it privately to [dev.sxhd@gmail.com](mailto:dev.sxhd@gmail.com). Do not include sensitive conduct reports in public issues.
 
 ---
 

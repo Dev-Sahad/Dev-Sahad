@@ -330,7 +330,7 @@ All contribution figures on this page come from live GitHub data or generated re
 ## 💖 Support My Work
 
 <div align="center">
-  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
+  <a href="https://ko-fi.com/devsahad1" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"/>
   </a>
   
@@ -395,6 +395,12 @@ All contribution figures on this page come from live GitHub data or generated re
 ![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/github-metrics.svg)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Sahad&theme=github_dark)
+
+---
+
+## 🤝 Acknowledgments
+
+Repository automation, documentation, and profile reliability were audited with [OpenAI Codex](https://openai.com/codex/). Codex is credited as a tool used in the work; it does not have a GitHub account or repository access of its own.
 
 ---
 

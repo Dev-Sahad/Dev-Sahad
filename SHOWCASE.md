@@ -32,8 +32,8 @@
 ## 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="48%" alt="Dev-Sahad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="48%" alt="Sahad's Top Languages" />
+  <img src="./github-metrics.svg" width="100%" alt="Generated GitHub metrics" />
+  <img src="./Assets/top-languages.svg" width="70%" alt="Generated top languages" />
 </p>
 
 -----

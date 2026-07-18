@@ -5,11 +5,11 @@
 <!-- ============================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Dev%20Sahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Builder&descAlignY=60" alt="Sahad Sha Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:7c3aed&text=Dev%20Sahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Developer%20%7C%20Bot%20Architect%20%7C%20AI%20Builder&descAlignY=60" alt="Sahad Sha Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hey+There!+I'm+Sahad+Sha;%F0%9F%9A%80+Full+Stack+Software+Engineer;%F0%9F%A4%96+Building+Production-Ready+AI+Apps;%F0%9F%93%B1+Cross-Platform+Bot+Developer;%F0%9F%8E%A8+System+Architect+%26+UI+Designer;%E2%9A%A1+Optimizing+Scalable+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hey+There!+I'm+Sahad+Sha;%F0%9F%9A%80+Junior+Full-Stack+Developer;%F0%9F%A4%96+Building+AI+Apps;%F0%9F%93%B1+Cross-Platform+Bot+Developer;%F0%9F%8E%A8+System+Design+%26+UI;%E2%9A%A1+Learning+Through+Real+Projects" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 
 ```💡 Focused on architecting scalable architectures, clean code modularity, and automated workflows.```
 
-* 💻 **Core Specialization:** Senior Full-Stack Engineering & System Architecture.
+* 💻 **Core Focus:** Full-stack development, automation, and system design.
 * 🤖 **AI Ecosystems:** Building production-grade workspaces, automation bots, and LLM integrations.
 *   📱 **Platforms:** Cross-platform web architectures, automated microservices, and mobile endpoints.
 *   ⚡ **Philosophy:** Writing decoupled, maintainable code with strict error handling and async efficiency.
@@ -50,10 +50,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="100%" src="./github-metrics.svg" alt="Generated GitHub metrics"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sahad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br><br>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sahad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="70%" src="./Assets/top-languages.svg" alt="Generated top languages"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Sahad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sahad Development Analytics"/>
+  <img width="100%" src="./Assets/trophy.svg" alt="Generated GitHub profile milestones"/>
 </div>
 
 ---
@@ -140,7 +140,7 @@
 ## ☕ Support My Work
 
 <div align="center">
-  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
+  <a href="https://ko-fi.com/devsahad1" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi Badge"/>
   </a>
 </div>
