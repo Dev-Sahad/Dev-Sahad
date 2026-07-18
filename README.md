@@ -6,6 +6,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Dev-Sahad-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Sahad)
 [![Follow on GitHub](https://img.shields.io/github/followers/Dev-Sahad?style=for-the-badge&logo=github&label=Follow)](https://github.com/Dev-Sahad?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dev-Sahad&style=for-the-badge&color=3b82f6)](https://github.com/Dev-Sahad)
 
 > **Junior Developer · Bot Architect · AI Engineer**  
 > *Building automation tools that power real communities — 24/7*
@@ -18,13 +19,42 @@
 
 ---
 
+## 🧭 Quick Navigation
+
+<div align="center">
+
+[Snapshot](#-developer-snapshot) · [Workflows](#-automated-workflows) · [Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [Achievements](#-key-achievements) · [Contact](#-connect-with-me) · [Metrics](#-live-developer-metrics)
+
+</div>
+
+## 👨‍💻 Developer Snapshot
+
+| | |
+|---|---|
+| **Current focus** | Reliable automation, AI-assisted tools, and community platforms |
+| **What I build** | Discord and Telegram bots, web applications, developer tooling, and integrations |
+| **How I work** | Plan → build → validate → automate → improve |
+| **Collaboration** | Open-source contributions, freelance projects, remote work, and mentorship |
+
+<details>
+<summary><strong>Explore how I turn ideas into dependable software</strong></summary>
+
+- **Automation first:** remove repetitive work with scheduled jobs, bots, and integrations.
+- **Reliability built in:** validate code, links, assets, and generated content before release.
+- **Community centered:** design tools that are practical for real users and active communities.
+- **Continuous learning:** document decisions, measure outcomes, and refine each release.
+
+</details>
+
+---
+
 ## 🚀 Automated Workflows
 
 ### **GitHub Actions Integration**
 
 <div align="center">
   
-  [![Profile Validation](https://img.shields.io/badge/Profile-Validated-00AA00?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows/code-quality.yml)
+  [![Profile Validation](https://github.com/Dev-Sahad/Dev-Sahad/actions/workflows/code-quality.yml/badge.svg?branch=main)](https://github.com/Dev-Sahad/Dev-Sahad/actions/workflows/code-quality.yml)
   [![Metrics](https://img.shields.io/badge/Metrics-Daily-0066CC?style=for-the-badge&logo=github&logoColor=white)](/.github/workflows/metrics.yml)
   [![Asset Checks](https://img.shields.io/badge/Assets-Verified-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)](/.github/workflows/code-quality.yml)
   [![Profile Update](https://img.shields.io/badge/Profile%20Date-Weekly-9D4EDD?style=for-the-badge&logo=github-actions&logoColor=white)](/.github/workflows/update-readme.yml)
@@ -309,6 +339,14 @@ All contribution figures on this page come from live GitHub data or generated re
   <img src="https://img.shields.io/badge/📚_Mentorship-8b5cf6?style=for-the-badge" alt="Mentorship"/>
 </div>
 
+<div align="center">
+
+[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-Open_an_Issue-3b82f6?style=for-the-badge&logo=github)](https://github.com/Dev-Sahad/Dev-Sahad/issues/new/choose)
+[![Contribution Guide](https://img.shields.io/badge/Read-Contribution_Guide-10b981?style=for-the-badge&logo=git)](CONTRIBUTING.md)
+[![Email Me](https://img.shields.io/badge/Email-Project_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sxhd@gmail.com)
+
+</div>
+
 ---
 
 ## 🎵 Now Playing
@@ -330,7 +368,7 @@ All contribution figures on this page come from live GitHub data or generated re
 ## 💖 Support My Work
 
 <div align="center">
-  <a href="https://ko-fi.com/V3J021DSLA" target="_blank">
+  <a href="https://ko-fi.com/devsahad1" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"/>
   </a>
   
@@ -373,17 +411,14 @@ All contribution figures on this page come from live GitHub data or generated re
 
 ---
 
-## 🚀 Recent Activity
+## 🔎 Explore My Work
 
-<!--START_ACTIVITY-->
-<!--END_ACTIVITY-->
-
----
-
-## 📦 Latest Projects
-
-<!--START_PROJECTS-->
-<!--END_PROJECTS-->
+| Destination | What you'll find | Link |
+|---|---|---|
+| **Public repositories** | Source code, experiments, and maintained projects | [Browse repositories](https://github.com/Dev-Sahad?tab=repositories) |
+| **Recent activity** | Contributions and development activity across GitHub | [View activity](https://github.com/Dev-Sahad?tab=overview) |
+| **Pull requests** | Open-source changes and collaboration history | [Browse pull requests](https://github.com/pulls?q=is%3Apr+author%3ADev-Sahad) |
+| **Portfolio** | Selected work presented as a web experience | [Open portfolio repository](https://github.com/Dev-Sahad/Portfolio) |
 
 ---
 
@@ -395,6 +430,12 @@ All contribution figures on this page come from live GitHub data or generated re
 ![Metrics](https://raw.githubusercontent.com/Dev-Sahad/Dev-Sahad/main/github-metrics.svg)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Sahad&theme=github_dark)
+
+---
+
+## 🤝 Acknowledgments
+
+Repository automation, documentation, and profile reliability were audited with [OpenAI Codex](https://openai.com/codex/). Codex is credited as a tool used in the work; it does not have a GitHub account or repository access of its own.
 
 ---
 
