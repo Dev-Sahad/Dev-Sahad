@@ -55,21 +55,13 @@
     <td width="34%" align="center">
       <img src="./Assets/PP.png" alt="Sahad Sha profile photograph" width="300"/>
     </td>
-    <td width="66%" align="center">
-      <img src="./Assets/pixel-profile.svg" alt="Technical pixel analysis of PP.png" width="620"/>
-    </td>
-  </tr>
 </table>
-
-This repository includes a dependency-free Node.js image-analysis system that verifies the PNG structure, decodes its pixels, and generates a deterministic technical report. It measures resolution, aspect ratio, file size, luminance, contrast, neutral-color coverage, dominant colors, and a SHA-256 fingerprint.
 
 [![Pixel Analysis](https://img.shields.io/badge/Pixel_Analysis-Automated-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)](./scripts/analyze-profile-image.js)
 [![Analysis Data](https://img.shields.io/badge/Analysis_Data-JSON-0ea5e9?style=for-the-badge&logo=json&logoColor=white)](./Assets/pixel-profile.json)
 [![Privacy](https://img.shields.io/badge/Privacy-No_Biometrics-10b981?style=for-the-badge&logo=shield&logoColor=white)](./Assets/pixel-profile.svg)
 
 > The analyzer performs image-format and pixel-channel measurements only. It does not use facial recognition or infer identity, health, emotion, personality, or other biometric traits.
-
-Run it locally with `node scripts/analyze-profile-image.js`, or verify committed outputs with `node scripts/analyze-profile-image.js --check`.
 
 ---
 
@@ -372,6 +364,19 @@ All contribution figures on this page come from live GitHub data or generated re
 
 </div>
 
+
+---
+## 😉 Random Jokes
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
 ---
 
 ## 🎵 Now Playing
@@ -459,6 +464,16 @@ All contribution figures on this page come from live GitHub data or generated re
 
 ---
 
+### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-4-1877F2?style=for-the-badge"></span>
+<!--Finish Count Merged PRs-->
+
+<!--Start Merged PRs-->
+1. 🥳 Merged PR [4](https://github.com/Dev-Sahad/Dev-Sahad/pull/4) - [Dev-Sahad/Dev-Sahad](https://github.com/Dev-Sahad/Dev-Sahad)
+<!--Finish Merged PRs-->
+
+---
 ## 🤝 Acknowledgments
 
 Repository automation, documentation, and profile reliability were audited with [OpenAI Codex](https://openai.com/codex/). Codex is credited as a tool used in the work; it does not have a GitHub account or repository access of its own.
