@@ -9,6 +9,9 @@ const requiredFiles = [
   '.github/ISSUE_TEMPLATE/bug_report.md',
   '.github/ISSUE_TEMPLATE/feature_request.md',
   '.github/ISSUE_TEMPLATE/config.yml',
+  'Assets/PP.png',
+  'Assets/pixel-profile.json',
+  'Assets/pixel-profile.svg',
   'README.md',
   'SECURITY.md',
   'LICENSE',
@@ -70,6 +73,12 @@ for (const requiredFile of requiredFiles) {
   if (!fs.existsSync(path.join(ROOT, requiredFile))) {
     errors.push(`Required repository file is missing: ${requiredFile}`);
   }
+}
+
+const profileImage = fs.readFileSync(path.join(ROOT, 'Assets', 'PP.png'));
+const pngSignature = Buffer.from('89504e470d0a1a0a', 'hex');
+if (!profileImage.subarray(0, 8).equals(pngSignature)) {
+  errors.push('Assets/PP.png must contain valid PNG data.');
 }
 
 for (const misplacedFile of misplacedCommunityFiles) {

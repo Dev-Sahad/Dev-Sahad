@@ -1,17 +1,29 @@
-name: Profile Validation
+name: Pixel Profile Analysis
 
 on:
   push:
     branches: [main, develop]
+    paths:
+      - Assets/PP.png
+      - Assets/pixel-profile.json
+      - Assets/pixel-profile.svg
+      - scripts/analyze-profile-image.js
+      - .github/workflows/pixel-profile.yml
   pull_request:
     branches: [main, develop]
+    paths:
+      - Assets/PP.png
+      - Assets/pixel-profile.json
+      - Assets/pixel-profile.svg
+      - scripts/analyze-profile-image.js
+      - .github/workflows/pixel-profile.yml
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  validate:
+  analyze:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,15 +35,5 @@ jobs:
         with:
           node-version: 24
 
-      - name: Check JavaScript syntax
-        run: |
-          node --check scripts/generate-trophy.js
-          node --check scripts/analyze-profile-image.js
-          node --check scripts/make-terminal-svg.js
-          node --check scripts/validate-profile.js
-
-      - name: Verify pixel profile report
+      - name: Verify generated pixel profile
         run: node scripts/analyze-profile-image.js --check
-
-      - name: Validate profile files and links
-        run: node scripts/validate-profile.js

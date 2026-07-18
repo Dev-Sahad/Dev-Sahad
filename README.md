@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[Snapshot](#-developer-snapshot) · [Workflows](#-automated-workflows) · [Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [Achievements](#-key-achievements) · [Contact](#-connect-with-me) · [Metrics](#-live-developer-metrics)
+[Snapshot](#-developer-snapshot) · [Pixel Profile](#-pixel-profile-analysis) · [Workflows](#-automated-workflows) · [Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [Contact](#-connect-with-me) · [Metrics](#-live-developer-metrics)
 
 </div>
 
@@ -45,6 +45,31 @@
 - **Continuous learning:** document decisions, measure outcomes, and refine each release.
 
 </details>
+
+---
+
+## 🖼️ Pixel Profile Analysis
+
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./Assets/PP.png" alt="Sahad Sha profile photograph" width="300"/>
+    </td>
+    <td width="66%" align="center">
+      <img src="./Assets/pixel-profile.svg" alt="Technical pixel analysis of PP.png" width="620"/>
+    </td>
+  </tr>
+</table>
+
+This repository includes a dependency-free Node.js image-analysis system that verifies the PNG structure, decodes its pixels, and generates a deterministic technical report. It measures resolution, aspect ratio, file size, luminance, contrast, neutral-color coverage, dominant colors, and a SHA-256 fingerprint.
+
+[![Pixel Analysis](https://img.shields.io/badge/Pixel_Analysis-Automated-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)](./scripts/analyze-profile-image.js)
+[![Analysis Data](https://img.shields.io/badge/Analysis_Data-JSON-0ea5e9?style=for-the-badge&logo=json&logoColor=white)](./Assets/pixel-profile.json)
+[![Privacy](https://img.shields.io/badge/Privacy-No_Biometrics-10b981?style=for-the-badge&logo=shield&logoColor=white)](./Assets/pixel-profile.svg)
+
+> The analyzer performs image-format and pixel-channel measurements only. It does not use facial recognition or infer identity, health, emotion, personality, or other biometric traits.
+
+Run it locally with `node scripts/analyze-profile-image.js`, or verify committed outputs with `node scripts/analyze-profile-image.js --check`.
 
 ---
 
@@ -401,6 +426,7 @@ All contribution figures on this page come from live GitHub data or generated re
   All workflows configured in `.github/workflows/`
   
   - **Profile Validation**: Checks scripts, internal links, and generated SVG assets
+  - **Pixel Profile Analysis**: Verifies `PP.png` and its generated technical report
   - **Developer Metrics**: Refreshes the metrics card daily
   - **Language & Trophy Cards**: Refresh generated profile cards on a schedule
   - **Terminal Card**: Regenerates the terminal display daily

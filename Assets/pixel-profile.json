@@ -1,0 +1,35 @@
+{
+  "source": "Assets/PP.png",
+  "format": "PNG",
+  "width": 1128,
+  "height": 1080,
+  "aspectRatio": "47:45",
+  "totalPixels": 1218240,
+  "fileSizeBytes": 826017,
+  "averageLuminancePercent": 16.9,
+  "contrastPercent": 22.4,
+  "monochromePixelsPercent": 100,
+  "dominantPalette": [
+    {
+      "hex": "#202020",
+      "share": 63.2
+    },
+    {
+      "hex": "#404040",
+      "share": 20.7
+    },
+    {
+      "hex": "#000000",
+      "share": 8.9
+    },
+    {
+      "hex": "#606060",
+      "share": 2.4
+    },
+    {
+      "hex": "#808080",
+      "share": 2.3
+    }
+  ],
+  "sha256": "8f1a8c5f6921ec27e40abd79dd070809128fa234690e4db9e62bc517edc221ba"
+}
