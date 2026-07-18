@@ -41,7 +41,7 @@ const options = {
     'Authorization': `Bearer ${TOKEN}`,
     'User-Agent': 'NodeJS-Trophy-Generator',
     'Content-Type': 'application/json',
-    'Content-Length': query.length
+    'Content-Length': Buffer.byteLength(query)
   }
 };
 
@@ -51,13 +51,20 @@ const req = https.request(options, (res) => {
   
   res.on('end', () => {
     try {
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        throw new Error(`GitHub GraphQL request failed with HTTP ${res.statusCode}: ${data}`);
+      }
+
       const result = JSON.parse(data);
       if (result.errors) {
         console.error('GraphQL API Error:', result.errors);
         process.exit(1);
       }
 
-      const user = result.data.user;
+      const user = result.data?.user;
+      if (!user) {
+        throw new Error(`GitHub user ${USERNAME} was not found.`);
+      }
       
       // Calculate data aggregations Safely
       const commits = user.contributionsCollection.totalCommitContributions || 0;
@@ -65,31 +72,14 @@ const req = https.request(options, (res) => {
       const followers = user.followers.totalCount || 0;
       const stars = user.repositories.nodes.reduce((acc, node) => acc + node.stargazerCount, 0);
 
-      // Dynamic fallback layout paths
-const possibleTemplatePaths = [
-  path.join(__dirname, '../Assets/trophy-template.svg'),
-  path.join(__dirname, '../assets/trophy-template.svg'),
-  path.join(__dirname, '../trophy-template.svg')
-];
+      const templatePath = path.join(__dirname, '../Assets/trophy-template.svg');
+      const outputPath = path.join(__dirname, '../Assets/trophy.svg');
 
-let templatePath = null;
-for (const p of possibleTemplatePaths) {
-  if (fs.existsSync(p)) {
-    templatePath = p;
-    break;
-  }
-}
+      if (!fs.existsSync(templatePath)) {
+        throw new Error(`Trophy template is missing: ${templatePath}`);
+      }
 
-if (!templatePath) {
-  console.error(`Error: trophy-template.svg could not be resolved in Assets/, assets/, or root.`);
-  console.error(`Current directory structure:`, fs.readdirSync(path.join(__dirname, '..')));
-  process.exit(1);
-}
-
-// Dynamically target the exact same directory matching the template location
-const outputPath = templatePath.replace('trophy-template.svg', 'trophy.svg');
-
-let template = fs.readFileSync(templatePath, 'utf8');
+      const template = fs.readFileSync(templatePath, 'utf8');
 
 
       // Inject metrics safely into SVG structure
@@ -103,7 +93,7 @@ let template = fs.readFileSync(templatePath, 'utf8');
       fs.mkdirSync(path.dirname(outputPath), { recursive: true });
       fs.writeFileSync(outputPath, updatedSvg, 'utf8');
       
-      console.log('🚀 Profile Trophy generated successfully at Assets/trophy.svg');
+      console.log(`🚀 Profile Trophy generated successfully at ${outputPath}`);
     } catch (err) {
       console.error('Processing Execution Error:', err);
       process.exit(1);

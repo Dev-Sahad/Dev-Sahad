@@ -45,17 +45,11 @@
     <img src="https://img.shields.io/badge/My_Profile_README-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Profile README" />
   </a>
   
-  <a href="https://github.com/Dev-Sahad/MINNAL-BOT" target="_blank">
-    <img src="https://img.shields.io/badge/MINNAL_BOT-181717?style=for-the-badge&logo=discord&logoColor=white" alt="MINNAL Bot" />
-  </a>
+  <img src="https://img.shields.io/badge/MINNAL_BOT-Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="MINNAL Bot private repository" />
   
-  <a href="https://github.com/Dev-Sahad/Godzilla" target="_blank">
-    <img src="https://img.shields.io/badge/GODZILLA_BOT-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="GODZILLA Bot" />
-  </a>
+  <img src="https://img.shields.io/badge/GODZILLA_BOT-Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="GODZILLA Bot private repository" />
   
-  <a href="https://github.com/Dev-Sahad/Noiz" target="_blank">
-    <img src="https://img.shields.io/badge/NOIZ-181717?style=for-the-badge&logo=music&logoColor=white" alt="Noiz Music" />
-  </a>
+  <img src="https://img.shields.io/badge/NOIZ-Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="Noiz private repository" />
   
   <a href="https://github.com/Dev-Sahad/portfolio-v1" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-V1-181717?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" />
