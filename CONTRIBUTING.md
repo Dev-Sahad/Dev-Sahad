@@ -91,7 +91,7 @@ Click **Fork** on GitHub.
 ## 2. Clone Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Dev-Sahad.git
+git clone https://github.com/Dev-Sahad/Dev-Sahad.git
 cd Dev-Sahad
 ```
 
