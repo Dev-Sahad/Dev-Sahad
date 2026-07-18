@@ -6,28 +6,30 @@ labels: bug
 assignees: ""
 ---
 
-## 🐛 Bug Description
-A clear and concise description of the bug.
+## Bug description
 
-## 📍 Steps to Reproduce
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Describe what is not working.
 
-## ✅ Expected Behavior
-What you expected to happen.
+## Steps to reproduce
 
-## ❌ Actual Behavior
-What actually happened.
+1. Go to `...`
+2. Select `...`
+3. Observe the problem.
 
-## 📸 Screenshots (if applicable)
-Add screenshots to help explain your problem.
+## Expected behavior
 
-## 💻 Environment
+Describe what you expected to happen.
+
+## Actual behavior
+
+Describe what happened instead.
+
+## Environment
+
 - OS:
 - Browser:
 - Device:
 
-## 📌 Additional Context
-Add any other context about the problem here.
+## Additional context
+
+Add logs, screenshots, or other relevant context.

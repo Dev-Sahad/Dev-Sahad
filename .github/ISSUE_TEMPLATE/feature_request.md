@@ -6,17 +6,22 @@ labels: enhancement
 assignees: ""
 ---
 
-## 🚀 Feature Summary
-A clear and concise description of the feature.
+## Feature summary
 
-## 🎯 Problem Statement
-What problem does this feature solve?
+Describe the proposed improvement.
 
-## 💡 Proposed Solution
-Describe the solution you'd like.
+## Problem
 
-## 🔄 Alternatives Considered
-Any alternative solutions or features you've considered.
+What problem would this solve?
 
-## 📌 Additional Context
-Add any other context, mockups, or examples.
+## Proposed solution
+
+Describe the result you would like.
+
+## Alternatives considered
+
+Describe any alternatives you considered.
+
+## Additional context
+
+Add examples, mockups, or other relevant context.
