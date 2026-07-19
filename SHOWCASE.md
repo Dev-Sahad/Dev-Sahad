@@ -1,4 +1,4 @@
-# Sahad Sha (Dev-Sah)
+# Sahad Sha (Dev-Sahad)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&width=1000&color=0:0f172a,50:7c3aed,100:c084fc&text=Sahad%20Sha%20(Dev%20Sahad)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior%20Developer%20%7C%20System%20Architect%20%7C%20AI%20Builder%20%7c%20Web%20Designer&descAlignY=60" alt="Sahad Sha Banner"/>
@@ -51,7 +51,7 @@
   
   <img src="https://img.shields.io/badge/NOIZ-Private-6B7280?style=for-the-badge&logo=lock&logoColor=white" alt="Noiz private repository" />
   
-  <a href="https://github.com/Dev-Sahad/portfolio-v1" target="_blank">
+  <a href="https://github.com/Dev-Sahad/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-V1-181717?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio" />
   </a>
 </p>

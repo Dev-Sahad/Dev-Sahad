@@ -10,28 +10,25 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: validation-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          persist-credentials: false
 
       - name: Set up Node.js
         uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
           node-version: 24
 
-      - name: Check JavaScript syntax
-        run: |
-          node --check scripts/generate-trophy.js
-          node --check scripts/analyze-profile-image.js
-          node --check scripts/make-terminal-svg.js
-          node --check scripts/validate-profile.js
-
-      - name: Verify pixel profile report
-        run: node scripts/analyze-profile-image.js --check
-
-      - name: Validate profile files and links
-        run: node scripts/validate-profile.js
+      - name: Run repository checks
+        run: npm run check

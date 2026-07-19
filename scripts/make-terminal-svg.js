@@ -1,95 +1,76 @@
-// scripts/make-terminal-svg.js
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+const fs = require('fs');
+const path = require('path');
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const OUTPUT_PATH = path.join(__dirname, "..", "terminal.svg");
+const ROOT = path.resolve(__dirname, '..');
+const OUTPUT_PATH = path.join(ROOT, 'terminal.svg');
+const CHECK_ONLY = process.argv.includes('--check');
 
-const FORTUNES = [
-  "Keep it simple.",
-  "Code. Commit. Repeat.",
-  "In Linux we trust.",
-  "Hack the planet.",
+const TERMINAL_LINES = [
+  '$ whoami',
+  'Dev-Sahad',
+  '',
+  '$ profile --focus',
+  ' Automation · Bots · AI-assisted tools',
+  ' Web applications · Community systems',
+  '',
+  '$ repository --health',
+  ' Validation     : automated',
+  ' Generated data : reproducible',
+  ' Workflows      : least privilege',
+  '',
+  '$ contact --github',
+  ' https://github.com/Dev-Sahad',
+  '',
+  '$ exit',
+  'logout',
 ];
 
-function generateTerminalData() {
-  return {
-    uptime: Math.floor(Math.random() * 9999),
-    load: (Math.random() * 2).toFixed(2),
-    fortune: FORTUNES[Math.floor(Math.random() * FORTUNES.length)],
-  };
-}
-
-function buildLines({ uptime, load, fortune }) {
-  return [
-    "$ whoami",
-    "Dev-Sahad",
-    "",
-    "$ hostnamectl",
-    " Static hostname: devbox",
-    " Operating Sys  : GNU/Linux (GitHub)",
-    " Kernel         : 5.x (container)",
-    " Shell          : bash 5.x",
-    "",
-    "$ uptime",
-    ` up ${uptime} hours, load average: ${load}, ${load}, ${load}`,
-    "",
-    "$ fortune",
-    fortune,
-    "",
-    "$ exit",
-    "logout",
-  ];
-}
-
-function escapeXml(str) {
-  return str.replace(/[<>&'"]/g, (c) => ({
-    "<": "&lt;",
-    ">": "&gt;",
-    "&": "&amp;",
-    "'": "&apos;",
-    '"': "&quot;",
-  }[c]));
+function escapeXml(value) {
+  return value.replace(/[<>&'"]/g, (character) => ({
+    '<': '&lt;',
+    '>': '&gt;',
+    '&': '&amp;',
+    "'": '&apos;',
+    '"': '&quot;',
+  })[character]);
 }
 
 function buildSvg(lines) {
-  const height = lines.length * 24 + 60;
-  const header = `<svg width="720" height="${height}" xmlns="http://www.w3.org/2000/svg">
-<style><![CDATA[
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
-text { font-family: 'Fira Code', monospace; font-size: 16px; fill: #00FF66; white-space: pre; }
-rect { fill: #000; }
-@keyframes fadeIn { to { opacity: 1; } }
-]]></style>
-<rect width="100%" height="100%"/>
+  const lineHeight = 24;
+  const height = lines.length * lineHeight + 58;
+  const body = lines.map((line, index) => (
+    `  <text x="22" y="${40 + index * lineHeight}" class="line">${escapeXml(line)}</text>`
+  )).join('\n');
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="720" height="${height}" viewBox="0 0 720 ${height}" role="img" aria-labelledby="title description">
+  <title id="title">Dev-Sahad terminal profile</title>
+  <desc id="description">A terminal-style summary of Dev-Sahad's development focus and repository practices.</desc>
+  <rect width="720" height="${height}" rx="16" fill="#020617"/>
+  <rect x="1" y="1" width="718" height="${height - 2}" rx="15" fill="none" stroke="#1e293b"/>
+  <style>
+    .line { fill: #22c55e; font: 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
+  </style>
+${body}
+</svg>
 `;
-
-  let y = 40;
-  const body = lines
-    .map((line, i) => {
-      const delay = (i * 0.3).toFixed(1);
-      const svgLine = `<text x="20" y="${y}" opacity="0" style="animation: fadeIn 0.4s ${delay}s forwards">${escapeXml(line)}</text>`;
-      y += 24;
-      return svgLine;
-    })
-    .join("\n");
-
-  return `${header}${body}\n</svg>`;
 }
 
-function main() {
-  try {
-    const data = generateTerminalData();
-    const lines = buildLines(data);
-    const svg = buildSvg(lines);
+function normalizeLineEndings(value) {
+  return value.replace(/\r\n/g, '\n');
+}
 
-    fs.writeFileSync(OUTPUT_PATH, svg, "utf8");
-    console.log(`Generated: ${OUTPUT_PATH}`);
-  } catch (err) {
-    console.error("Failed to generate terminal.svg:", err.message);
-    process.exit(1);
+try {
+  const output = buildSvg(TERMINAL_LINES);
+  if (CHECK_ONLY) {
+    if (!fs.existsSync(OUTPUT_PATH) || normalizeLineEndings(fs.readFileSync(OUTPUT_PATH, 'utf8')) !== output) {
+      throw new Error('terminal.svg is stale. Run npm run generate:terminal.');
+    }
+    console.log('Verified terminal.svg.');
+  } else {
+    fs.writeFileSync(OUTPUT_PATH, output, 'utf8');
+    console.log(`Generated ${path.relative(ROOT, OUTPUT_PATH)}.`);
   }
+} catch (error) {
+  console.error(`Terminal generation failed: ${error.message}`);
+  process.exit(1);
 }
-
-main();

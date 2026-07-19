@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[Snapshot](#-developer-snapshot) · [Pixel Profile](#-pixel-profile-analysis) · [Workflows](#-automated-workflows) · [Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [Contact](#-connect-with-me) · [Metrics](#-live-developer-metrics)
+[Snapshot](#-developer-snapshot) · [Pixel Profile](#-pixel-profile-analysis) · [Workflows](#-automated-workflows) · [Docs](#-repository-documentation) · [Projects](#-featured-projects) · [Tech Stack](#️-tech-stack) · [Contact](#-connect-with-me) · [Metrics](#-live-developer-metrics)
 
 </div>
 
@@ -190,6 +190,20 @@ All contribution figures on this page come from live GitHub data or generated re
 
 ---
 
+## 📚 Repository Documentation
+
+| Guide | What it covers |
+|---|---|
+| [Documentation index](docs/README.md) | Entry point for repository guides |
+| [Architecture](docs/ARCHITECTURE.md) | Structure, data flow, boundaries, and design principles |
+| [Automation](docs/AUTOMATION.md) | Workflow triggers, permissions, outputs, and recovery |
+| [Maintenance](docs/MAINTENANCE.md) | Validation, regeneration, and routine review procedures |
+| [Asset catalog](Assets/README.md) | Source and generated asset ownership |
+| [Script reference](scripts/README.md) | Commands, interfaces, and generator contracts |
+| [Maintainer guide](MAINTAINERS.md) | Ownership map, merge checklist, and branch policy |
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -218,9 +232,9 @@ All contribution figures on this page come from live GitHub data or generated re
         <img src="https://img.shields.io/badge/Next.js-000000?style=round&logo=next.js&logoColor=white" alt="Next.js"/>
       </td>
       <td><img src="https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=check&logoColor=white" alt="LIVE"/></td>
-      <td><img src="https://img.shields.io/github/stars/Dev-Sahad/portfolio-v1?style=flat-square&logo=github&color=gold" alt="Stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/Dev-Sahad/Portfolio?style=flat-square&logo=github&color=gold" alt="Stars"/></td>
       <td>
-        <a href="https://github.com/Dev-Sahad/portfolio-v1" target="_blank">
+        <a href="https://github.com/Dev-Sahad/Portfolio" target="_blank">
           <img src="https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
         </a>
       </td>
@@ -434,9 +448,11 @@ All contribution figures on this page come from live GitHub data or generated re
   - **Pixel Profile Analysis**: Verifies `PP.png` and its generated technical report
   - **Developer Metrics**: Refreshes the metrics card daily
   - **Language & Trophy Cards**: Refresh generated profile cards on a schedule
-  - **Terminal Card**: Regenerates the terminal display daily
+  - **Terminal Card**: Verifies deterministic terminal output when its source changes
   - **Contribution Snake**: Refreshes the contribution animation every 12 hours
   - **Profile Date**: Refreshes the README date weekly
+
+  See the [automation guide](docs/AUTOMATION.md) for triggers, permissions, outputs, and recovery steps.
 
 </div>
 
@@ -448,7 +464,7 @@ All contribution figures on this page come from live GitHub data or generated re
 |---|---|---|
 | **Public repositories** | Source code, experiments, and maintained projects | [Browse repositories](https://github.com/Dev-Sahad?tab=repositories) |
 | **Recent activity** | Contributions and development activity across GitHub | [View activity](https://github.com/Dev-Sahad?tab=overview) |
-| **Pull requests** | Open-source changes and collaboration history | [Browse pull requests](https://github.com/pulls?q=is%3Apr+author%3ADev-Sahad) |
+| **Pull requests** | Open-source changes and collaboration history | [Browse pull requests](https://github.com/search?q=is%3Apr+author%3ADev-Sahad&type=pullrequests) |
 | **Portfolio** | Selected work presented as a web experience | [Open portfolio repository](https://github.com/Dev-Sahad/Portfolio) |
 
 ---
@@ -464,14 +480,11 @@ All contribution figures on this page come from live GitHub data or generated re
 
 ---
 
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-4-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
+## ✅ Contribution History
 
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [4](https://github.com/Dev-Sahad/Dev-Sahad/pull/4) - [Dev-Sahad/Dev-Sahad](https://github.com/Dev-Sahad/Dev-Sahad)
-<!--Finish Merged PRs-->
+The repository keeps contribution history in GitHub instead of maintaining a stale counter in Markdown.
+
+[Browse merged pull requests](https://github.com/Dev-Sahad/Dev-Sahad/pulls?q=is%3Apr+is%3Amerged) · [View contributors](https://github.com/Dev-Sahad/Dev-Sahad/graphs/contributors) · [Read the contribution guide](CONTRIBUTING.md)
 
 ---
 ## 🤝 Acknowledgments
@@ -492,6 +505,6 @@ Repository automation, documentation, and profile reliability were audited with 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&width=1000&section=footer&color=0:0f172a,50:3b82f6,100:1e3a8a&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Dev-Sahad&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=75" alt="Built with love by Dev-Sahad"/>
 </div>
 

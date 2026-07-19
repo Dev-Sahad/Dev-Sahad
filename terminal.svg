@@ -1,26 +1,26 @@
-<svg width="720" height="468" xmlns="http://www.w3.org/2000/svg">
-<style><![CDATA[
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
-text { font-family: 'Fira Code', monospace; font-size: 16px; fill: #00FF66; white-space: pre; }
-rect { fill: #000; }
-@keyframes fadeIn { to { opacity: 1; } }
-]]></style>
-<rect width="100%" height="100%"/>
-<text x="20" y="40" opacity="0" style="animation: fadeIn 0.4s 0.0s forwards">$ whoami</text>
-<text x="20" y="64" opacity="0" style="animation: fadeIn 0.4s 0.3s forwards">Dev-Sahad</text>
-<text x="20" y="88" opacity="0" style="animation: fadeIn 0.4s 0.6s forwards"></text>
-<text x="20" y="112" opacity="0" style="animation: fadeIn 0.4s 0.9s forwards">$ hostnamectl</text>
-<text x="20" y="136" opacity="0" style="animation: fadeIn 0.4s 1.2s forwards"> Static hostname: devbox</text>
-<text x="20" y="160" opacity="0" style="animation: fadeIn 0.4s 1.5s forwards"> Operating Sys  : GNU/Linux (GitHub)</text>
-<text x="20" y="184" opacity="0" style="animation: fadeIn 0.4s 1.8s forwards"> Kernel         : 5.x (container)</text>
-<text x="20" y="208" opacity="0" style="animation: fadeIn 0.4s 2.1s forwards"> Shell          : bash 5.x</text>
-<text x="20" y="232" opacity="0" style="animation: fadeIn 0.4s 2.4s forwards"></text>
-<text x="20" y="256" opacity="0" style="animation: fadeIn 0.4s 2.7s forwards">$ uptime</text>
-<text x="20" y="280" opacity="0" style="animation: fadeIn 0.4s 3.0s forwards"> up 7798 hours, load average: 0.02, 0.02, 0.02</text>
-<text x="20" y="304" opacity="0" style="animation: fadeIn 0.4s 3.3s forwards"></text>
-<text x="20" y="328" opacity="0" style="animation: fadeIn 0.4s 3.6s forwards">$ fortune</text>
-<text x="20" y="352" opacity="0" style="animation: fadeIn 0.4s 3.9s forwards">In Linux we trust.</text>
-<text x="20" y="376" opacity="0" style="animation: fadeIn 0.4s 4.2s forwards"></text>
-<text x="20" y="400" opacity="0" style="animation: fadeIn 0.4s 4.5s forwards">$ exit</text>
-<text x="20" y="424" opacity="0" style="animation: fadeIn 0.4s 4.8s forwards">logout</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="466" viewBox="0 0 720 466" role="img" aria-labelledby="title description">
+  <title id="title">Dev-Sahad terminal profile</title>
+  <desc id="description">A terminal-style summary of Dev-Sahad's development focus and repository practices.</desc>
+  <rect width="720" height="466" rx="16" fill="#020617"/>
+  <rect x="1" y="1" width="718" height="464" rx="15" fill="none" stroke="#1e293b"/>
+  <style>
+    .line { fill: #22c55e; font: 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
+  </style>
+  <text x="22" y="40" class="line">$ whoami</text>
+  <text x="22" y="64" class="line">Dev-Sahad</text>
+  <text x="22" y="88" class="line"></text>
+  <text x="22" y="112" class="line">$ profile --focus</text>
+  <text x="22" y="136" class="line"> Automation · Bots · AI-assisted tools</text>
+  <text x="22" y="160" class="line"> Web applications · Community systems</text>
+  <text x="22" y="184" class="line"></text>
+  <text x="22" y="208" class="line">$ repository --health</text>
+  <text x="22" y="232" class="line"> Validation     : automated</text>
+  <text x="22" y="256" class="line"> Generated data : reproducible</text>
+  <text x="22" y="280" class="line"> Workflows      : least privilege</text>
+  <text x="22" y="304" class="line"></text>
+  <text x="22" y="328" class="line">$ contact --github</text>
+  <text x="22" y="352" class="line"> https://github.com/Dev-Sahad</text>
+  <text x="22" y="376" class="line"></text>
+  <text x="22" y="400" class="line">$ exit</text>
+  <text x="22" y="424" class="line">logout</text>
 </svg>

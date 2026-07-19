@@ -1,17 +1,30 @@
 const fs = require('fs');
 const path = require('path');
+const vm = require('vm');
 
 const ROOT = path.resolve(__dirname, '..');
 const errors = [];
 const requiredFiles = [
   '.github/FUNDING.yml',
+  '.github/CODEOWNERS',
+  '.github/dependabot.yml',
   '.github/PULL_REQUEST_TEMPLATE.md',
   '.github/ISSUE_TEMPLATE/bug_report.md',
   '.github/ISSUE_TEMPLATE/feature_request.md',
   '.github/ISSUE_TEMPLATE/config.yml',
+  '.github/ISSUE_TEMPLATE/documentation.md',
+  '.github/SUPPORT.md',
   'Assets/PP.png',
+  'Assets/README.md',
   'Assets/pixel-profile.json',
   'Assets/pixel-profile.svg',
+  'docs/README.md',
+  'docs/ARCHITECTURE.md',
+  'docs/AUTOMATION.md',
+  'docs/MAINTENANCE.md',
+  'scripts/README.md',
+  'MAINTAINERS.md',
+  'package.json',
   'README.md',
   'SECURITY.md',
   'LICENSE',
@@ -61,6 +74,10 @@ function validateLocalTarget(sourceFile, target) {
   }
 
   const resolved = path.resolve(path.dirname(sourceFile), decodedTarget);
+  if (resolved !== ROOT && !resolved.startsWith(`${ROOT}${path.sep}`)) {
+    errors.push(`${relative(sourceFile)} references a path outside the repository: ${target}`);
+    return;
+  }
   if (!fs.existsSync(resolved)) {
     errors.push(`${relative(sourceFile)} references missing file: ${target}`);
   }
@@ -75,10 +92,13 @@ for (const requiredFile of requiredFiles) {
   }
 }
 
-const profileImage = fs.readFileSync(path.join(ROOT, 'Assets', 'PP.png'));
-const pngSignature = Buffer.from('89504e470d0a1a0a', 'hex');
-if (!profileImage.subarray(0, 8).equals(pngSignature)) {
-  errors.push('Assets/PP.png must contain valid PNG data.');
+const profileImagePath = path.join(ROOT, 'Assets', 'PP.png');
+if (fs.existsSync(profileImagePath)) {
+  const profileImage = fs.readFileSync(profileImagePath);
+  const pngSignature = Buffer.from('89504e470d0a1a0a', 'hex');
+  if (!profileImage.subarray(0, 8).equals(pngSignature)) {
+    errors.push('Assets/PP.png must contain valid PNG data.');
+  }
 }
 
 for (const misplacedFile of misplacedCommunityFiles) {
@@ -97,6 +117,29 @@ for (const file of markdownFiles) {
   }
   for (const match of htmlLinks) {
     validateLocalTarget(file, match[1]);
+  }
+
+  for (const match of content.matchAll(/<img\b(?![^>]*\balt=["'][^"']+["'])[^>]*>/gi)) {
+    errors.push(`${relative(file)} contains an image without descriptive alt text: ${match[0].slice(0, 100)}`);
+  }
+  if (/!\[\]\(/.test(content)) {
+    errors.push(`${relative(file)} contains a Markdown image without alt text.`);
+  }
+}
+
+for (const file of files.filter((candidate) => candidate.endsWith('.json'))) {
+  try {
+    JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch (error) {
+    errors.push(`${relative(file)} contains invalid JSON: ${error.message}`);
+  }
+}
+
+for (const file of files.filter((candidate) => candidate.endsWith('.js'))) {
+  try {
+    new vm.Script(fs.readFileSync(file, 'utf8'), { filename: relative(file) });
+  } catch (error) {
+    errors.push(`${relative(file)} contains invalid JavaScript: ${error.message}`);
   }
 }
 
@@ -127,8 +170,11 @@ for (const workflow of walk(workflowDirectory)) {
 
 for (const svg of files.filter((file) => file.endsWith('.svg'))) {
   const content = fs.readFileSync(svg, 'utf8');
-  if (!/<svg[\s>]/i.test(content)) {
+  if (!/<svg[\s>]/i.test(content) || !/<\/svg>\s*$/i.test(content)) {
     errors.push(`${relative(svg)} is not valid SVG content.`);
+  }
+  if (/<script[\s>]/i.test(content)) {
+    errors.push(`${relative(svg)} contains a script element.`);
   }
   if (!svg.endsWith('trophy-template.svg') && /{{[A-Z_]+}}/.test(content)) {
     errors.push(`${relative(svg)} contains an unresolved template placeholder.`);
