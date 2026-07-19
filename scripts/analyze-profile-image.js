@@ -9,6 +9,7 @@ const JSON_OUTPUT = path.join(ROOT, 'Assets', 'pixel-profile.json');
 const SVG_OUTPUT = path.join(ROOT, 'Assets', 'pixel-profile.svg');
 const CHECK_ONLY = process.argv.includes('--check');
 const PNG_SIGNATURE = Buffer.from('89504e470d0a1a0a', 'hex');
+const MAX_PIXELS = 25_000_000;
 
 function crc32(buffer) {
   let crc = 0xffffffff;
@@ -31,8 +32,15 @@ function parsePng(buffer) {
   let palette;
   const imageData = [];
 
+  let foundEnd = false;
   while (offset < buffer.length) {
+    if (offset + 12 > buffer.length) {
+      throw new Error('PNG contains a truncated chunk header.');
+    }
     const length = buffer.readUInt32BE(offset);
+    if (offset + length + 12 > buffer.length) {
+      throw new Error('PNG contains a truncated chunk payload.');
+    }
     const typeBuffer = buffer.subarray(offset + 4, offset + 8);
     const type = typeBuffer.toString('ascii');
     const data = buffer.subarray(offset + 8, offset + 8 + length);
@@ -58,17 +66,24 @@ function parsePng(buffer) {
     } else if (type === 'IDAT') {
       imageData.push(data);
     } else if (type === 'IEND') {
+      foundEnd = true;
       break;
     }
 
     offset += length + 12;
   }
 
-  if (!header || imageData.length === 0) {
-    throw new Error('PNG is missing required IHDR or IDAT data.');
+  if (!header || imageData.length === 0 || !foundEnd) {
+    throw new Error('PNG is missing required IHDR, IDAT, or IEND data.');
+  }
+  if (header.width === 0 || header.height === 0 || header.width * header.height > MAX_PIXELS) {
+    throw new Error(`PNG dimensions exceed the ${MAX_PIXELS.toLocaleString('en-US')}-pixel safety limit.`);
   }
   if (header.bitDepth !== 8 || header.interlace !== 0) {
     throw new Error('Analyzer supports non-interlaced, 8-bit PNG images.');
+  }
+  if (header.compression !== 0 || header.filter !== 0) {
+    throw new Error('PNG uses an unsupported compression or filter method.');
   }
 
   const channelsByType = { 0: 1, 2: 3, 3: 1, 4: 2, 6: 4 };
@@ -138,6 +153,9 @@ function analyze(buffer, png) {
       red = green = blue = png.pixels[index];
     } else if (png.colorType === 3) {
       const paletteIndex = png.pixels[index] * 3;
+      if (paletteIndex + 2 >= png.palette.length) {
+        throw new Error('PNG pixel references a palette entry that does not exist.');
+      }
       red = png.palette[paletteIndex];
       green = png.palette[paletteIndex + 1];
       blue = png.palette[paletteIndex + 2];
@@ -214,7 +232,7 @@ function renderSvg(report) {
   <rect width="800" height="350" rx="22" fill="url(#background)"/>
   <rect x="1" y="1" width="798" height="348" rx="21" fill="none" stroke="#334155"/>
   <text x="38" y="48" class="title">PIXEL PROFILE ANALYSIS</text>
-  <text x="38" y="72" class="subtitle">DETERMINISTIC · LOCAL · PRIVACY-SAFE</text>
+  <text x="38" y="72" class="subtitle">DETERMINISTIC · LOCAL · NO BIOMETRICS</text>
   <g transform="translate(38 103)">
     <rect width="224" height="118" rx="14" fill="#0f172a" stroke="#334155"/>
     <text x="18" y="31" class="label">RESOLUTION</text>
@@ -245,7 +263,8 @@ function renderSvg(report) {
 
 function writeOrCheck(filePath, content) {
   if (CHECK_ONLY) {
-    if (!fs.existsSync(filePath) || fs.readFileSync(filePath, 'utf8') !== content) {
+    const normalizeLineEndings = (value) => value.replace(/\r\n/g, '\n');
+    if (!fs.existsSync(filePath) || normalizeLineEndings(fs.readFileSync(filePath, 'utf8')) !== content) {
       throw new Error(`${path.relative(ROOT, filePath)} is stale. Run node scripts/analyze-profile-image.js.`);
     }
     return;

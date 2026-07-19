@@ -1,0 +1,7 @@
+# Default ownership
+* @Dev-Sahad
+
+# Automation and generated assets
+/.github/workflows/ @Dev-Sahad
+/scripts/ @Dev-Sahad
+/Assets/ @Dev-Sahad

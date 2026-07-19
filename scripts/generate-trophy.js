@@ -1,111 +1,118 @@
 const fs = require('fs');
-const path = require('path');
 const https = require('https');
+const path = require('path');
 
+const ROOT = path.resolve(__dirname, '..');
 const USERNAME = 'Dev-Sahad';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+const TEMPLATE_PATH = path.join(ROOT, 'Assets', 'trophy-template.svg');
+const OUTPUT_PATH = path.join(ROOT, 'Assets', 'trophy.svg');
+const REQUEST_TIMEOUT_MS = 15_000;
+const MAX_RESPONSE_BYTES = 1_000_000;
 
-if (!TOKEN) {
-  console.error('Error: GITHUB_TOKEN environment variable is missing.');
-  process.exit(1);
-}
-
-// GraphQL Query to pull comprehensive multi-tier profile metrics
-const query = JSON.stringify({
+const payload = JSON.stringify({
   query: `
     query ($login: String!) {
       user(login: $login) {
         repositories(first: 100, privacy: PUBLIC, ownerAffiliations: OWNER) {
           totalCount
-          nodes {
-            stargazerCount
-          }
+          nodes { stargazerCount }
         }
-        followers {
-          totalCount
-        }
-        contributionsCollection {
-          totalCommitContributions
-        }
+        followers { totalCount }
+        contributionsCollection { totalCommitContributions }
       }
     }
   `,
-  variables: { login: USERNAME }
+  variables: { login: USERNAME },
 });
 
-const options = {
-  hostname: 'api.github.com',
-  path: '/graphql',
-  method: 'POST',
-  headers: {
-    'Authorization': `Bearer ${TOKEN}`,
-    'User-Agent': 'NodeJS-Trophy-Generator',
-    'Content-Type': 'application/json',
-    'Content-Length': Buffer.byteLength(query)
-  }
-};
+function requestGithubGraphql() {
+  return new Promise((resolve, reject) => {
+    const request = https.request({
+      hostname: 'api.github.com',
+      path: '/graphql',
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${TOKEN}`,
+        'User-Agent': 'Dev-Sahad-Profile-Trophy',
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(payload),
+      },
+    }, (response) => {
+      let body = '';
+      let receivedBytes = 0;
 
-const req = https.request(options, (res) => {
-  let data = '';
-  res.on('data', (chunk) => { data += chunk; });
-  
-  res.on('end', () => {
-    try {
-      if (res.statusCode < 200 || res.statusCode >= 300) {
-        throw new Error(`GitHub GraphQL request failed with HTTP ${res.statusCode}: ${data}`);
-      }
+      response.setEncoding('utf8');
+      response.on('data', (chunk) => {
+        receivedBytes += Buffer.byteLength(chunk);
+        if (receivedBytes > MAX_RESPONSE_BYTES) {
+          request.destroy(new Error('GitHub response exceeded the safe size limit.'));
+          return;
+        }
+        body += chunk;
+      });
+      response.on('end', () => {
+        if (response.statusCode < 200 || response.statusCode >= 300) {
+          reject(new Error(`GitHub GraphQL request failed with HTTP ${response.statusCode}.`));
+          return;
+        }
+        try {
+          resolve(JSON.parse(body));
+        } catch (error) {
+          reject(new Error(`GitHub returned invalid JSON: ${error.message}`));
+        }
+      });
+    });
 
-      const result = JSON.parse(data);
-      if (result.errors) {
-        console.error('GraphQL API Error:', result.errors);
-        process.exit(1);
-      }
-
-      const user = result.data?.user;
-      if (!user) {
-        throw new Error(`GitHub user ${USERNAME} was not found.`);
-      }
-      
-      // Calculate data aggregations Safely
-      const commits = user.contributionsCollection.totalCommitContributions || 0;
-      const repos = user.repositories.totalCount || 0;
-      const followers = user.followers.totalCount || 0;
-      const stars = user.repositories.nodes.reduce((acc, node) => acc + node.stargazerCount, 0);
-
-      const templatePath = path.join(__dirname, '../Assets/trophy-template.svg');
-      const outputPath = path.join(__dirname, '../Assets/trophy.svg');
-
-      if (!fs.existsSync(templatePath)) {
-        throw new Error(`Trophy template is missing: ${templatePath}`);
-      }
-
-      const template = fs.readFileSync(templatePath, 'utf8');
-
-
-      // Inject metrics safely into SVG structure
-      const updatedSvg = template
-        .replace(/{{COMMITS}}/g, commits.toLocaleString())
-        .replace(/{{STARS}}/g, stars.toLocaleString())
-        .replace(/{{REPOS}}/g, repos.toLocaleString())
-        .replace(/{{FOLLOWERS}}/g, followers.toLocaleString());
-
-      // Ensure directory footprint is built
-      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-      fs.writeFileSync(outputPath, updatedSvg, 'utf8');
-      
-      console.log(`🚀 Profile Trophy generated successfully at ${outputPath}`);
-    } catch (err) {
-      console.error('Processing Execution Error:', err);
-      process.exit(1);
-    }
+    request.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      request.destroy(new Error(`GitHub request timed out after ${REQUEST_TIMEOUT_MS / 1000} seconds.`));
+    });
+    request.on('error', reject);
+    request.end(payload);
   });
-});
+}
 
-req.on('error', (err) => {
-  console.error('Network Request Failure:', err);
+function renderTrophy(user) {
+  if (!fs.existsSync(TEMPLATE_PATH)) {
+    throw new Error(`Trophy template is missing: ${path.relative(ROOT, TEMPLATE_PATH)}.`);
+  }
+
+  const repositories = user.repositories?.nodes || [];
+  const values = {
+    COMMITS: user.contributionsCollection?.totalCommitContributions || 0,
+    STARS: repositories.reduce((total, repository) => total + (repository.stargazerCount || 0), 0),
+    REPOS: user.repositories?.totalCount || 0,
+    FOLLOWERS: user.followers?.totalCount || 0,
+  };
+
+  let output = fs.readFileSync(TEMPLATE_PATH, 'utf8');
+  for (const [placeholder, value] of Object.entries(values)) {
+    output = output.replaceAll(`{{${placeholder}}}`, Number(value).toLocaleString('en-US'));
+  }
+  if (/{{[A-Z_]+}}/.test(output)) {
+    throw new Error('Trophy template contains an unresolved placeholder.');
+  }
+  return output;
+}
+
+async function main() {
+  if (!TOKEN) {
+    throw new Error('GH_TOKEN or GITHUB_TOKEN is required.');
+  }
+
+  const result = await requestGithubGraphql();
+  if (result.errors?.length) {
+    throw new Error(`GitHub GraphQL error: ${result.errors.map((error) => error.message).join('; ')}`);
+  }
+  if (!result.data?.user) {
+    throw new Error(`GitHub user ${USERNAME} was not found.`);
+  }
+
+  fs.writeFileSync(OUTPUT_PATH, renderTrophy(result.data.user), 'utf8');
+  console.log(`Generated ${path.relative(ROOT, OUTPUT_PATH)}.`);
+}
+
+main().catch((error) => {
+  console.error(`Trophy generation failed: ${error.message}`);
   process.exit(1);
 });
-
-req.write(query);
-req.end();
-
