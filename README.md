@@ -13,6 +13,21 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./Assets/PP.png" alt="Sahad Sha profile photograph" width="300"/>
+    </td>
+</table>
+
+[![Pixel Analysis](https://img.shields.io/badge/Pixel_Analysis-Automated-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)](./scripts/analyze-profile-image.js)
+[![Analysis Data](https://img.shields.io/badge/Analysis_Data-JSON-0ea5e9?style=for-the-badge&logo=json&logoColor=white)](./Assets/pixel-profile.json)
+[![Privacy](https://img.shields.io/badge/Privacy-No_Biometrics-10b981?style=for-the-badge&logo=shield&logoColor=white)](./Assets/pixel-profile.svg)
+
+> The analyzer performs image-format and pixel-channel measurements only. It does not use facial recognition or infer identity, health, emotion, personality, or other biometric traits.
+
+---
+
 <div align="center">
   <img src="./terminal.svg" alt="Terminal" width="720"/>
 </div>
@@ -45,23 +60,6 @@
 - **Continuous learning:** document decisions, measure outcomes, and refine each release.
 
 </details>
-
----
-
-## 🖼️ Pixel Profile Analysis
-
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img src="./Assets/PP.png" alt="Sahad Sha profile photograph" width="300"/>
-    </td>
-</table>
-
-[![Pixel Analysis](https://img.shields.io/badge/Pixel_Analysis-Automated-8b5cf6?style=for-the-badge&logo=javascript&logoColor=white)](./scripts/analyze-profile-image.js)
-[![Analysis Data](https://img.shields.io/badge/Analysis_Data-JSON-0ea5e9?style=for-the-badge&logo=json&logoColor=white)](./Assets/pixel-profile.json)
-[![Privacy](https://img.shields.io/badge/Privacy-No_Biometrics-10b981?style=for-the-badge&logo=shield&logoColor=white)](./Assets/pixel-profile.svg)
-
-> The analyzer performs image-format and pixel-channel measurements only. It does not use facial recognition or infer identity, health, emotion, personality, or other biometric traits.
 
 ---
 
