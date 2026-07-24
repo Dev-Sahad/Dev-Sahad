@@ -436,6 +436,8 @@ All contribution figures on this page come from live GitHub data or generated re
 
 ## ⚙️ Workflow Automation
 
+<details>
+  <summary>Detailed Workflow Automation</summary>
 <div align="center">
   
   ### **GitHub Actions Workflows**
@@ -452,6 +454,7 @@ All contribution figures on this page come from live GitHub data or generated re
 
   See the [automation guide](docs/AUTOMATION.md) for triggers, permissions, outputs, and recovery steps.
 
+</details>
 </div>
 
 ---
