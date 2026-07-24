@@ -490,7 +490,7 @@ The repository keeps contribution history in GitHub instead of maintaining a sta
 ---
 ## 🤝 Acknowledgments
 
-Repository automation, documentation, and profile reliability were audited with [OpenAI Codex](https://openai.com/codex/). Codex is credited as a tool used in the work; it does not have a GitHub account or repository access of its own.
+Repository automation, documentation, and profile reliability were audited by [Sahad Sha](https://www.instagram.com/sahad_____sha?igsh=eG5rNTZyNHV4bmUy).
 
 ---
 
