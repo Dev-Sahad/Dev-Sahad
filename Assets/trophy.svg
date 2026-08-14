@@ -33,7 +33,7 @@
   <g transform="translate(250, 20)">
     <rect width="210" height="100" class="card" />
     <text x="15" y="30" class="title">STARS</text>
-    <text x="15" y="65" class="value">6</text>
+    <text x="15" y="65" class="value">7</text>
     <text x="15" y="85" class="label">Earned Stars</text>
   </g>
 
